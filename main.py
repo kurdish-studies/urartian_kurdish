@@ -33,8 +33,9 @@ def get_data(raw_data):
     return file
 
 
-def get_lines(file, limit=None):
+def get_lines(file, langs, limit=None):
     word_index = 0
+
     for line in file.readlines():
 
         if not limit == None:
@@ -45,13 +46,21 @@ def get_lines(file, limit=None):
                 # print(word_index, limit)
                 # print(f"\nWord {word_index + 1}:\n{10 * '-'}")
                 word_index += 1
+
             else:
                 yield line
 
 
-def clean_text(file):
-    for line in get_lines(file, limit=None):
-        line = line.replace("&nbsp;", " ").replace("<br />", "").replace("\n", "")
+def clean_text(file, langs):
+
+    # Please note that I have corrected some inconsistencies manually that were rare cases (less than 5); therefore
+    # not worth writing codes
+
+    line_set = set()
+    temp_line = ""
+    for line in get_lines(file, langs, limit=None):
+        # Remove and correct redundant characters and signs
+        line = line.replace("&nbsp;", " ").replace("<br />", "").replace("\n", "").replace("&nbsp;", " ")
         line = line.replace("&#8204;", "")
         line = line.replace("&gt;", ">").replace("&gt; ", ">").replace(" &gt;", ">")
         line = line.replace("&lt;", "<").replace("&lt; ", "<").replace(" &lt; ", "<")
@@ -59,24 +68,28 @@ def clean_text(file):
         splitted_line = line.split(" ")
         txt = re.search("[0-9)]*", splitted_line[0].replace(":", ""))
         line = line.replace(f"{txt.group()}", "")
-        line = line.split(" ")[0].replace("(", "")
-        yield line
+
+        # Correct words and sentences that are separated from their main lines
+
+        if len(line) > 2:
+            yield line
 
 
-def tokenize(file):
-    for line in clean_text(file):
+def tokenize(file, langs):
+    for line in clean_text(file, langs):
 
         splitted_line = line.split(" ")
 
-        if not splitted_line[0].replace(":", "") in ["kurdish", "urartian", "hurrian", "armenian", "kassite"]:
+        if not splitted_line[0].replace(":", "") in langs:
             # txt = re.search("[(]+", splitted_line[0])
             # if txt:
             #     print("txt: ", txt)
-            print(splitted_line[0], line)
+            print("not in langs: ", splitted_line[0], line)
 
 
 if __name__ == '__main__':
+    langs = ["kurdish", "urartian", "hurrian", "armenian", "kassite"]
     file = get_data(raw_data)
     # for _, line in enumerate(clean_text(file)):
     #     print(line, end="")
-    tokenize(file)
+    tokenize(file, langs)
