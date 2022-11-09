@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import io
+import re
 
 raw_data = False
 word_index = 0
@@ -41,24 +42,41 @@ def get_lines(file, limit=None):
                 break
         if tag in line:
             if is_single_break(line, tag):
-                if not word_index > limit:
-                    print(word_index, limit)
-                    print(f"\nWord {word_index + 1}:\n{10 * '-'}")
-                    word_index += 1
+                # print(word_index, limit)
+                # print(f"\nWord {word_index + 1}:\n{10 * '-'}")
+                word_index += 1
             else:
-                # print(line, end='')
                 yield line
 
 
 def clean_text(file):
-    for line in get_lines(file, limit=20):
-        line = line.replace("&nbsp;", " ").replace("<br />", "")
+    for line in get_lines(file, limit=None):
+        line = line.replace("&nbsp;", " ").replace("<br />", "").replace("\n", "")
+        line = line.replace("&#8204;", "")
         line = line.replace("&gt;", ">").replace("&gt; ", ">").replace(" &gt;", ">")
         line = line.replace("&lt;", "<").replace("&lt; ", "<").replace(" &lt; ", "<")
+        line = line.lower()
+        splitted_line = line.split(" ")
+        txt = re.search("[0-9)]*", splitted_line[0].replace(":", ""))
+        line = line.replace(f"{txt.group()}", "")
+        line = line.split(" ")[0].replace("(", "")
         yield line
+
+
+def tokenize(file):
+    for line in clean_text(file):
+
+        splitted_line = line.split(" ")
+
+        if not splitted_line[0].replace(":", "") in ["kurdish", "urartian", "hurrian", "armenian", "kassite"]:
+            # txt = re.search("[(]+", splitted_line[0])
+            # if txt:
+            #     print("txt: ", txt)
+            print(splitted_line[0], line)
 
 
 if __name__ == '__main__':
     file = get_data(raw_data)
-    for _, line in enumerate(clean_text(file)):
-        print(line, end="")
+    # for _, line in enumerate(clean_text(file)):
+    #     print(line, end="")
+    tokenize(file)
