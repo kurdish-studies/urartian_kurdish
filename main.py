@@ -73,6 +73,8 @@ def get_lines(file, break_tag="<br />", limit=None):
                 if not cleaned_text == None:
                     yield clean_text(line)
 
+def extract_paranthesis(line):
+    return re.findall('\(([^)]+)', line)
 
 def tokenize(file, langs):
     for line in get_lines(file):
@@ -94,3 +96,7 @@ if __name__ == '__main__':
     # for _, line in enumerate(clean_text(file)):
     #     print(line, end="")
     tokenize(file, langs)
+
+
+    print(extract_paranthesis("kurdish  dalal (beloved) (common d>l)"))
+    print(extract_paranthesis("korde (uncultivated, desolate)"))
