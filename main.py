@@ -76,6 +76,9 @@ def get_lines(file, break_tag="<br />", limit=None):
 def extract_paranthesis(line):
     return re.findall('\(([^)]+)', line)
 
+def extract_language(line):
+    return line.split(" ")[0]
+
 def tokenize(file, langs):
     for line in get_lines(file):
         if not line == "\n":
@@ -99,4 +102,4 @@ if __name__ == '__main__':
 
 
     print(extract_paranthesis("kurdish  dalal (beloved) (common d>l)"))
-    print(extract_paranthesis("korde (uncultivated, desolate)"))
+    print(extract_language("kurdish  kumik (hood)"))
