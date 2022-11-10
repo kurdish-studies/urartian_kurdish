@@ -76,8 +76,18 @@ def get_lines(file, break_tag="<br />", limit=None):
 def extract_paranthesis(line):
     return re.findall('\(([^)]+)', line)
 
-def extract_language(line):
+def extract_language_name(line):
     return line.split(" ")[0]
+
+def parse_raw_text(line):
+    for i in extract_paranthesis(line):
+        line = line.replace(f"({i})", '')
+    line = line.replace(extract_language_name(line), '')
+    # print("parsed text: ", line)
+    # line = line.replace(extract_language_name(line), '')
+    filtered_list = filter(len, line.split(" ")[1:])
+    return list(filtered_list)
+
 
 def tokenize(file, langs):
     for line in get_lines(file):
@@ -101,5 +111,6 @@ if __name__ == '__main__':
     tokenize(file, langs)
 
 
-    print(extract_paranthesis("kurdish  dalal (beloved) (common d>l)"))
-    print(extract_language("kurdish  kumik (hood)"))
+    print("paranteses text: ", extract_paranthesis("kurdish  dalal (beloved) (common d>l)"))
+    print("lang text: ", extract_language_name("kurdish  kumik (hood)"))
+    print("parsed text: ", parse_raw_text("kurdish  dalal (beloved) (common d>l)"))
