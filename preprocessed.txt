@@ -318,7 +318,7 @@ Urartian: haš-ia: (be interested in)<br />
 Kurdish: haz حەز (be interested in, love, like)<br />
 <br />
 Urartian: d-u-: (do, cause to do)<br />
-Kurdish: da/di: <span class="Apple-style-span" style="border-collapse: separate; color: black; font-family: 'Times New Roman'; font-size: xx-small; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;"><span class="Apple-style-span"><span class="Apple-converted-space"></span></span></span> ده/د (do, cause to do, used as a preffix for verbs)<br />
+Kurdish: da/di: ده/د (do, cause to do, used as a preffix for verbs)<br />
 <br />
 Urartian: shalur (medlar)<br />
 Kurdish: shalor شەلۆر (nectarine)<br />
