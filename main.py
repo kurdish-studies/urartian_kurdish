@@ -1,3 +1,5 @@
+import json
+
 from bs4 import BeautifulSoup
 import requests
 import io
@@ -73,11 +75,14 @@ def get_lines(file, break_tag="<br />", limit=None):
                 if not cleaned_text == None:
                     yield clean_text(line)
 
+
 def extract_paranthesis(line):
     return re.findall('\(([^)]+)', line)
 
+
 def extract_language_name(line):
     return line.split(" ")[0]
+
 
 def parse_raw_text(line):
     for i in extract_paranthesis(line):
@@ -90,9 +95,30 @@ def parse_raw_text(line):
 
 
 def tokenize(file, langs):
+    word_dict = {}
+    idx = 0
     for line in get_lines(file):
         if not line == "\n":
             splitted_line = line.split(" ")
+
+            lang = extract_language_name(line)
+            word = parse_raw_text(line)
+            definition = extract_paranthesis(line)
+            if idx in word_dict.keys():
+                word_dict[idx].append({
+                    "lang": lang,
+                    "word": word,
+                    "definition": definition
+                })
+            else:
+                word_dict.update({idx: [
+                    {
+                        "lang": lang,
+                        "word": word,
+                        "definition": definition
+                    }
+                ]})
+
 
             if not splitted_line[0] in langs:
                 # txt = re.search("[(]+", splitted_line[0])
@@ -100,7 +126,10 @@ def tokenize(file, langs):
                 #     print("txt: ", txt)
                 print("not in langs: ", splitted_line[0], line)
         else:
-            print("\nNew word in the tokenizer")
+            idx += 1
+            # print("\nNew word in the tokenizer")
+
+    return word_dict
 
 
 if __name__ == '__main__':
@@ -108,9 +137,12 @@ if __name__ == '__main__':
     file = get_data(raw_data)
     # for _, line in enumerate(clean_text(file)):
     #     print(line, end="")
-    tokenize(file, langs)
+    word_dict = tokenize(file, langs)
+
+    # print("paranteses text: ", extract_paranthesis("kurdish  dalal (beloved) (common d>l)"))
+    # print("lang text: ", extract_language_name("kurdish  kumik (hood)"))
+    # print("parsed text: ", parse_raw_text("kurdish  dalal (beloved) (common d>l)"))
 
 
-    print("paranteses text: ", extract_paranthesis("kurdish  dalal (beloved) (common d>l)"))
-    print("lang text: ", extract_language_name("kurdish  kumik (hood)"))
-    print("parsed text: ", parse_raw_text("kurdish  dalal (beloved) (common d>l)"))
+    with open('json_dict.json', 'w', encoding='utf8') as filehandle:
+        json.dump(word_dict, filehandle, indent=4, ensure_ascii=False)
