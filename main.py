@@ -1,9 +1,13 @@
+#  Hurro-Urartian-Kurdish from the lexicostatistical viewpoint.
+
 import json
 
 from bs4 import BeautifulSoup
 import requests
 import io
 import re
+import pandas as pd
+from tabulate import tabulate
 
 raw_data = False
 word_index = 0
@@ -94,31 +98,17 @@ def parse_raw_text(line):
     return list(filtered_list)
 
 
-def tokenize(file, langs):
-    word_dict = {}
+def export_to(file, langs, to_format="json"):
+    dictionary = {}
     idx = 0
     for line in get_lines(file):
         if not line == "\n":
             splitted_line = line.split(" ")
 
-            lang = extract_language_name(line)
-            word = parse_raw_text(line)
-            definition = extract_paranthesis(line)
-            if idx in word_dict.keys():
-                word_dict[idx].append({
-                    "lang": lang,
-                    "word": word,
-                    "definition": definition
-                })
-            else:
-                word_dict.update({idx: [
-                    {
-                        "lang": lang,
-                        "word": word,
-                        "definition": definition
-                    }
-                ]})
-
+            if to_format == "json":
+                to_json(idx, line, dictionary)
+            elif to_format == "dataframe":
+                to_dataframe(idx, line, dictionary)
 
             if not splitted_line[0] in langs:
                 # txt = re.search("[(]+", splitted_line[0])
@@ -129,20 +119,66 @@ def tokenize(file, langs):
             idx += 1
             # print("\nNew word in the tokenizer")
 
-    return word_dict
+    return dictionary
+
+def to_dataframe(idx, line, dictionary):
+    lang = extract_language_name(line)
+    word = parse_raw_text(line)
+    definition = extract_paranthesis(line)
+    # mux = pd.MultiIndex.from_product([['Start', 'Intermediary', 'End'], ["word", "gloss", "transition"]])
+    # sub_columns = []
+    temp_data = [
+            word,
+            definition,
+            ""
+        ]
+    print("temp_data: ", temp_data)
+    # temp_df = pd.DataFrame.from_dict(data=temp_data, orient='index', columns=mux)
+    if idx in dictionary.keys():
+        for item in temp_data:
+            dictionary[idx].append(" ".join(item))
+    else:
+        dictionary.update({idx: []})
+        for item in temp_data:
+            dictionary[idx].append(" ".join(item))
+
+def to_json(idx, line, dictionary):
+    lang = extract_language_name(line)
+    word = parse_raw_text(line)
+    definition = extract_paranthesis(line)
+    if idx in dictionary.keys():
+        dictionary[idx].append({
+            "lang": lang,
+            "word": word,
+            "definition": definition
+        })
+    else:
+        dictionary.update({idx: [
+            {
+                "lang": lang,
+                "word": word,
+                "definition": definition
+            }
+        ]})
 
 
 if __name__ == '__main__':
-    langs = ["kurdish", "urartian", "hurrian", "armenian", "kassite"]
+    langs = ["urartian", "kurdish",  "armenian", "hurrian", "kassite"]
+    # langs = ["urartian", "kurdish"]
+    data = {
+        1: [1, 2, 3, 4, 5, 11],
+        2: [1, 2, 3, 4, 5, 11]
+    }
+    mux = pd.MultiIndex.from_product([langs, ["word", "gloss", "transition"]])
     file = get_data(raw_data)
-    # for _, line in enumerate(clean_text(file)):
-    #     print(line, end="")
-    word_dict = tokenize(file, langs)
 
-    # print("paranteses text: ", extract_paranthesis("kurdish  dalal (beloved) (common d>l)"))
-    # print("lang text: ", extract_language_name("kurdish  kumik (hood)"))
-    # print("parsed text: ", parse_raw_text("kurdish  dalal (beloved) (common d>l)"))
+    word_dict = export_to(file, langs, to_format="dataframe")
 
+    # print(word_dict)
+
+    dataframe = pd.DataFrame.from_dict(word_dict, orient='index', columns=mux)
+    with io.open("export.html", "w", encoding='utf8') as html_file:
+        html_file.write(dataframe.to_html())
 
     with open('json_dict.json', 'w', encoding='utf8') as filehandle:
         json.dump(word_dict, filehandle, indent=4, ensure_ascii=False)
