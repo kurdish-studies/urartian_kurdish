@@ -1,20 +1,43 @@
+<div>
 <h1 align="center">Hurro-Urrartian Substratum In Kurdish</h1>
+</div>
+
+<div align="center">
 <h2>Abstract</h2>
 <p>
 This study presents the etymologies of Kurdish words as having a possible <b>Hurro-Urartian</b> origin (as opposed to Indo-European) [1].
-As far as we know, there is no meticulous research conducted in this regard. The majority of the previous works are 
-generally considering the IE substratum of the Kurdish language while ignoring the HU root (which is considered as
+As far as we know, there is no meticulous research conducted in this regard. Due to lack of interest in Kurdish studies, the majority of the previous works are 
+generally considering the IE substratum of the Kurdish language while neglecting the HU root (which is considered as
 <b>native Kurdish</b> among the speakers).
 </p>
+</div>
+
+<div>
+<p>Urartian language is considered a Hurro-Urartian language which was a the main language of the inhabitants of the
+Iron Age kingdom of Urartu (a.k.a. Kingdom of Van) (Biaini or Biainili in Urartian). The kingdom was a grographical 
+region centered around lake Van in the northern Kurdistan (south-eastern Anatolia).
+
+The first clear evidence in the 9th century BCE, Urartian came to an end to be written following the fall of the 
+Urartian kingdom in 585 BCE. There is not much known from the Urartian language (about 300 words), though, the 
+majority of its known vocab has an identical or at least a closely related peer in modern Kurdish.</p>
+
+<p>The pre-Iranic substratum in Kurdish is so remarkable that it would be safe to bring up Kurdish as a creole language.</p>
+
+<p>Please note that, for the majority of the words in IE Kurdish, there is a native equivalent (non-IE Kurdish word).</p>
+
 
 <h3>Note</h3>
 <p>This process is still being developed and the following table needs further modification.</p>
 <p>For contributions, please visit the contribution section at the end of the page.</p>
 
+
 <p>
 The table gives the Urartian word first, followed by its definition, and then the morphological transcription in Kurdish
 as well as the definition. The same goes for other languages.
 </p>
+</div>
+
+<div>
 <table border="1" class="dataframe">
   <thead>
     <tr>
@@ -842,8 +865,8 @@ as well as the definition. The same goes for other languages.
       <td>qarqar</td>
       <td>throat</td>
       <td></td>
-      <td>qurg قورگ</td>
-      <td>throat, compare also with the irano-kurdish garû, and persian galu, there is also another word in kurdish  qurquroska</td>
+      <td>qurquraçke, قوڕقوڕاچکە, qurquroska, qurg قورگ</td>
+      <td>throat, also compare qurg with the irano-kurdish garû, and persian galu</td>
       <td></td>
       <td></td>
       <td></td>
@@ -4655,23 +4678,48 @@ as well as the definition. The same goes for other languages.
     </tr>
   </tbody>
 </table>
+</div>
 
+<div>
 <h2>Call for Contributions</h2>
 <p>This project welcomes your expertise and enthusiasm!</p>
 
 <p>Ways to contribute to Emgraph:</p>
 <ul>
 <li>Writing code</li>
+<li>Propose a modification by creating a new 
+<a href="https://github.com/soran-ghaderi/urartian_kurdish/issues">issue</a></li>
 <li>Review the content</li>
 <li>Develop tutorials, presentations, and other educational materials</li>
 <li>Translate documentation and readme contents</li>
 <li>Any other ways that you think is beneficial to the Kurdish language!</li>
 </ul>
+</div>
 
+<div>
+<h2>Don't forget to give the project a star ⭐! Thanks again!</h2>
+</div>
 
-<h1>References</h1>
-
+<div>
+<h2>References</h2>
 <p>
 [1] Within Land of Kurda 2011, hurro-urartian-substratum-in-kurdish-2, accessed 11 November 2022, 
 http://landofkarda.blogspot.com/2011/04/hurro-urartian-substratum-in-kurdish-2.html.
 </p>
+</div>
+
+<div>
+<h2>License</h2>
+<p>Released under the <a href="https://github.com/soran-ghaderi/urartian_kurdish/blob/master/license.txt">BSD license</a></p>
+</div>
+
+<div class="footer">
+<h2>Contributors</h2>
+<pre>Copyright &copy; 2022 <b>urartian_kurdish</b> Developers
+<a href="https://soran-ghaderi.github.io/">Soran Ghaderi</a> (soran.gdr.cs@gmail.com)
+follow me <a href="https://github.com/soran-ghaderi"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?&logo=github&logoColor=white"></a> <a href="https://twitter.com/soranghadri"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?&logo=twitter&logoColor=white"></a> <a href="https://www.linkedin.com/in/soran-ghaderi/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white"></a>
+
+<a href="https://uk.linkedin.com/in/taleb-zarhesh">Taleb Zarhesh</a> (taleb.zarhesh@gmail.com)
+follow me <a href="https://github.com/sigma1326"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?&logo=github&logoColor=white"></a> <a href="https://twitter.com/taleb__z"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?&logo=twitter&logoColor=white"></a> <a href="https://www.linkedin.com/in/taleb-zarhesh/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white"></a>
+</pre>
+</div>
