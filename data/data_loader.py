@@ -4,12 +4,11 @@ import requests
 from bs4 import BeautifulSoup
 
 
-def load_data(from_url=False):
+def load_data(url, from_url=False):
     # global raw_file
 
     # If there is no preprocessed data raw_file then get it from an url or load it from a raw_file
     if from_url:
-        url = "http://landofkarda.blogspot.com/2011/04/hurro-urartian-substratum-in-kurdish-2.html"
 
         if not open("data.html"):
             file = requests.get(url).text

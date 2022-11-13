@@ -1,7 +1,6 @@
 import io
 import json
 
-from main import word_dict
 
 
 def export_to_html(dataframe):
@@ -14,6 +13,6 @@ def export_to_markdown(dataframe):
         md_file.write(dataframe.to_html())
 
 
-def export_to_json():
+def export_to_json(dataframe):
     with open('json_dict.json', 'w', encoding='utf8') as filehandle:
-        json.dump(word_dict, filehandle, indent=4, ensure_ascii=False)
+        json.dump(dataframe, filehandle, indent=4, ensure_ascii=False)

@@ -1,3 +1,20 @@
+<h1 align="center">Hurro-Urrartian Substratum In Kurdish</h1>
+<h2>Abstract</h2>
+<p>
+This study presents the etymologies of Kurdish words as having a possible <b>Hurro-Urartian</b> origin (as opposed to Indo-European) [1].
+As far as we know, there is no meticulous research conducted in this regard. The majority of the previous works are 
+generally considering the IE substratum of the Kurdish language while ignoring the HU root (which is considered as
+<b>native Kurdish</b> among the speakers).
+</p>
+
+<h3>Note</h3>
+<p>This process is still being developed and the following table needs further modification.</p>
+<p>For contributions, please visit the contribution section at the end of the page.</p>
+
+<p>
+The table gives the Urartian word first, followed by its definition, and then the morphological transcription in Kurdish
+as well as the definition. The same goes for other languages.
+</p>
 <table border="1" class="dataframe">
   <thead>
     <tr>
@@ -4638,3 +4655,23 @@
     </tr>
   </tbody>
 </table>
+
+<h2>Call for Contributions</h2>
+<p>This project welcomes your expertise and enthusiasm!</p>
+
+<p>Ways to contribute to Emgraph:</p>
+<ul>
+<li>Writing code</li>
+<li>Review the content</li>
+<li>Develop tutorials, presentations, and other educational materials</li>
+<li>Translate documentation and readme contents</li>
+<li>Any other ways that you think is beneficial to the Kurdish language!</li>
+</ul>
+
+
+<h1>References</h1>
+
+<p>
+[1] Within Land of Kurda 2011, hurro-urartian-substratum-in-kurdish-2, accessed 11 November 2022, 
+http://landofkarda.blogspot.com/2011/04/hurro-urartian-substratum-in-kurdish-2.html.
+</p>
