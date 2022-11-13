@@ -17,6 +17,7 @@ generally considering the IE substratum of the Kurdish language while neglecting
 <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg">
 <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square">
 <img src="https://img.shields.io/badge/Issues-welcome-brightgreen.svg?style=flat-square">
+
 [//]: # (<img src="https://img.shields.io/github/license/soran-ghaderi/urartian_kurdish.svg">)
 
 </div>
