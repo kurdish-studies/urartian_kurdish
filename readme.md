@@ -4725,7 +4725,7 @@ http://landofkarda.blogspot.com/2011/04/hurro-urartian-substratum-in-kurdish-2.h
 
 <div class="footer">
 <h2>Contributors</h2>
-<pre>Copyright &copy; 2022 <b>urartian_kurdish</b> Developers
+<pre>Copyright &copy; 2022-2023 <b>urartian_kurdish</b> Developers
 <a href="https://soran-ghaderi.github.io/">Soran Ghaderi</a> (soran.gdr.cs@gmail.com)
 follow me <a href="https://github.com/soran-ghaderi"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?&logo=github&logoColor=white"></a> <a href="https://twitter.com/soranghadri"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?&logo=twitter&logoColor=white"></a> <a href="https://www.linkedin.com/in/soran-ghaderi/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white"></a>
 
