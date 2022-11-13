@@ -13,6 +13,15 @@ generally considering the IE substratum of the Kurdish language while neglecting
 </div>
 
 <div>
+<img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
+<img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg">
+<img src="https://img.shields.io/github/license/soran-ghaderi/urartian_kurdish.svg">
+<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square">
+<img src="https://img.shields.io/badge/Issues-welcome-brightgreen.svg?style=flat-square">
+
+</div>
+
+<div>
 <p>Urartian language is considered a Hurro-Urartian language which was a the main language of the inhabitants of the
 Iron Age kingdom of Urartu (a.k.a. Kingdom of Van) (Biaini or Biainili in Urartian). The kingdom was a grographical 
 region centered around lake Van in the northern Kurdistan (south-eastern Anatolia).
@@ -4687,6 +4696,7 @@ as well as the definition. The same goes for other languages.
 <p>Ways to contribute to Emgraph:</p>
 <ul>
 <li>Writing code</li>
+<li>Visualization</li>
 <li>Propose a modification by creating a new 
 <a href="https://github.com/soran-ghaderi/urartian_kurdish/issues">issue</a></li>
 <li>Review the content</li>
