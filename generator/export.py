@@ -8,8 +8,8 @@ def export_to_html(dataframe):
         html_file.write(dataframe.to_html())
 
 
-def export_to_markdown(dataframe):
-    with io.open("readme.md", "w", encoding='utf8') as md_file:
+def export_to_markdown(dataframe, file_name="export.md"):
+    with io.open(file_name, "w", encoding='utf8') as md_file:
         md_file.write(dataframe.to_html())
 
 

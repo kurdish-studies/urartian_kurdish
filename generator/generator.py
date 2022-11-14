@@ -1,7 +1,8 @@
 from preprocessor import get_lines, extract_language_name, parse_raw_text, extract_paranthesis
 from preprocessor.parser import get_lines, extract_language_name, parse_raw_text, extract_paranthesis
 
-def generate_df(file, langs):
+
+def generate_df(file, langs, mux=None, sub_columns=None):
     # produced result shape (num_main_header * num_sub_header)
     # data = {
     #         1: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
@@ -11,7 +12,22 @@ def generate_df(file, langs):
 
     dictionary = {}
     idx = 0
+    lang_dict = {}
+    if not sub_columns == None:
+        empty_placeholder = []
+        sub_length = len(sub_columns)
+        for _ in range(sub_length):
+            empty_placeholder.append("")
+        # for language in langs:
+        #     lang_dict.update({language: empty_placeholder})
+
+        # lang_dict['kurdish'] = ["ale", "two", "three"]
+        # lang_dict['urartian'][0] = "he say"
+        # print("lang dict: ", lang_dict['kurdish'][0])
+
+    print(lang_dict)
     for line in get_lines(file):
+
         if not line == "\n":
             splitted_line = line.split(" ")
             if not splitted_line[0] in langs:
@@ -22,20 +38,32 @@ def generate_df(file, langs):
             definition = extract_paranthesis(line)
             # mux = pd.MultiIndex.from_product([['Start', 'Intermediary', 'End'], ["word", "gloss", "transition"]])
             # sub_columns = []
+
             temp_data = [
                 word,
                 definition,
                 ""
             ]
+
+            lang_dict[lang] = temp_data
             # temp_df = pd.DataFrame.from_dict(data=temp_data, orient='index', columns=mux)
-            if idx in dictionary.keys():
-                for item in temp_data:
-                    dictionary[idx].append(" ".join(item))
-            else:
-                dictionary.update({idx: []})
-                for item in temp_data:
-                    dictionary[idx].append(" ".join(item))
+            # if idx in dictionary.keys():
+            #     for item in temp_data:
+            #         dictionary[idx].append(" ".join(item))
+            # else:
+            #     dictionary.update({idx: []})
+            #     for item in temp_data:
+            #         dictionary[idx].append(" ".join(item))
         else:
+
+            dictionary.update({idx: []})
+            for key, value in lang_dict.items():
+                for item in value:
+                    dictionary[idx].append(" ".join(item))
+
+            for language in langs:
+                lang_dict.update({language: empty_placeholder})
+
             # New word in the tokenizer
             idx += 1
 
