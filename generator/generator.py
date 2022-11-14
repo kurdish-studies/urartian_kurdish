@@ -9,7 +9,6 @@ def generate_df(file, langs, mux=None, sub_columns=None):
     #         2: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
     #     }
     #
-
     dictionary = {}
     idx = 0
     lang_dict = {}
@@ -45,6 +44,8 @@ def generate_df(file, langs, mux=None, sub_columns=None):
                 ""
             ]
 
+            if word == "agul":
+                print("here is the lang print: ", lang)
             lang_dict[lang] = temp_data
             # temp_df = pd.DataFrame.from_dict(data=temp_data, orient='index', columns=mux)
             # if idx in dictionary.keys():
