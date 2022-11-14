@@ -54,9 +54,9 @@ as well as the definition. The same goes for other languages.
       <th></th>
       <th colspan="3" halign="left">Urartian</th>
       <th colspan="3" halign="left">Kurdish</th>
-      <th colspan="3" halign="left">Armenian</th>
       <th colspan="3" halign="left">Hurrian</th>
       <th colspan="3" halign="left">Kassite</th>
+      <th colspan="3" halign="left">Armenian</th>
     </tr>
     <tr>
       <th></th>
@@ -78,6 +78,24 @@ as well as the definition. The same goes for other languages.
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <th>0</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
     <tr>
       <th>1</th>
       <td>ale</td>
@@ -152,8 +170,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>5</th>
-      <td>agul</td>
-      <td>carve</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>'kol-[în]' کۆڵین , kêla</td>
       <td>to digg plow</td>
@@ -161,8 +179,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>agul</td>
+      <td>carve</td>
       <td></td>
       <td></td>
       <td></td>
@@ -278,8 +296,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>12</th>
-      <td>shur</td>
-      <td>war</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>sher شەڕ</td>
       <td>war</td>
@@ -287,8 +305,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>shur</td>
+      <td>war</td>
       <td></td>
       <td></td>
       <td></td>
@@ -386,8 +404,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>18</th>
-      <td>arte</td>
-      <td>earth, soil</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>ard ئەرد/هەرد</td>
       <td>earth, soil, cf kurdish rt &gt; rd</td>
@@ -395,8 +413,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>arte</td>
+      <td>earth, soil</td>
       <td></td>
       <td></td>
       <td></td>
@@ -656,8 +674,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>33</th>
-      <td>id-</td>
-      <td>hit, strike</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>-d- ;</td>
       <td>hit strike [lê] d-[an]</td>
@@ -665,8 +683,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>id-</td>
+      <td>hit, strike</td>
       <td></td>
       <td></td>
       <td></td>
@@ -875,8 +893,8 @@ as well as the definition. The same goes for other languages.
       <td>qarqar</td>
       <td>throat</td>
       <td></td>
-      <td>qurquraçke, قوڕقوڕاچکە, qurquroska, qurg قورگ</td>
-      <td>throat, also compare qurg with the irano-kurdish garû, and persian galu</td>
+      <td>qurg قورگ</td>
+      <td>throat, compare also with the irano-kurdish garû, and persian galu, there is also another word in kurdish  qurquroska</td>
       <td></td>
       <td></td>
       <td></td>
@@ -890,9 +908,6 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>46</th>
-      <td>kut/kud</td>
-      <td>to make fall, to kill</td>
-      <td></td>
       <td>qot</td>
       <td>piece</td>
       <td></td>
@@ -901,6 +916,9 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
+      <td>kut/kud</td>
+      <td>to make fall, to kill</td>
       <td></td>
       <td></td>
       <td></td>
@@ -944,8 +962,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>49</th>
-      <td>hiuri</td>
-      <td>smoke</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>hulm هوڵم</td>
       <td>steam</td>
@@ -953,8 +971,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>hiuri</td>
+      <td>smoke</td>
       <td></td>
       <td></td>
       <td></td>
@@ -980,9 +998,6 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>51</th>
-      <td>tiv</td>
-      <td>word</td>
-      <td></td>
       <td>tiw</td>
       <td>to speak</td>
       <td></td>
@@ -991,6 +1006,9 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
+      <td>tiv</td>
+      <td>word</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1145,17 +1163,17 @@ as well as the definition. The same goes for other languages.
       <td>pahi</td>
       <td>cattle</td>
       <td></td>
-      <td>pedari</td>
-      <td>cattle</td>
-      <td></td>
-      <td>badar</td>
-      <td>bull, cattle</td>
-      <td></td>
       <td>patal پاتاڵ</td>
       <td>cattle</td>
       <td></td>
       <td>paxre</td>
       <td></td>
+      <td></td>
+      <td>pedari</td>
+      <td>cattle</td>
+      <td></td>
+      <td>badar</td>
+      <td>bull, cattle</td>
       <td></td>
     </tr>
     <tr>
@@ -1232,16 +1250,16 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>65</th>
-      <td>awari</td>
-      <td></td>
+      <td>ur</td>
+      <td>territory</td>
       <td></td>
       <td>awari ئەواری .</td>
       <td>land, country, field, cf.  kurdawari, کوردەواری  / warê me وارێ مە armenian agarak has been suggested as an armenian loan from 'awari'. kurdish has even 'garak' with the same meaning</td>
       <td></td>
-      <td>ur</td>
-      <td>territory</td>
       <td></td>
       <td></td>
+      <td></td>
+      <td>awari</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1394,8 +1412,26 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>74</th>
+      <td></td>
+      <td></td>
+      <td></td>
       <td>zhiyar ژیار</td>
       <td>living</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>75</th>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -1412,11 +1448,11 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>76</th>
+      <td></td>
+      <td></td>
+      <td></td>
       <td>hana هانا</td>
       <td>come to the aid of, cf kurdish a- &gt;ha-</td>
-      <td></td>
-      <td></td>
-      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -1520,8 +1556,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>82</th>
-      <td>sheshe</td>
-      <td>six</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>shesh شەش</td>
       <td>six, but it is the same even in iranic</td>
@@ -1529,8 +1565,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>sheshe</td>
+      <td>six</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1610,8 +1646,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>87</th>
-      <td>/-v/</td>
-      <td>your</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>/-w/ و</td>
       <td>your</td>
@@ -1619,8 +1655,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>/-v/</td>
+      <td>your</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1669,6 +1705,24 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td>dor- دۆڕ</td>
       <td>defeat</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>91</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -1861,6 +1915,24 @@ as well as the definition. The same goes for other languages.
       <td></td>
     </tr>
     <tr>
+      <th>102</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <th>103</th>
       <td>urishi</td>
       <td>weapon</td>
@@ -1880,8 +1952,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>104</th>
-      <td>shini</td>
-      <td>two</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>shingil شنگڵ</td>
       <td>twin, twin fruit</td>
@@ -1889,8 +1961,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>shini</td>
+      <td>two</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1970,8 +2042,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>109</th>
-      <td>hinzur</td>
-      <td>apple? pear?</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>hencor هەنجۆر</td>
       <td>unripe melon</td>
@@ -1979,8 +2051,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>hinzur</td>
+      <td>apple? pear?</td>
       <td></td>
       <td></td>
       <td></td>
@@ -2041,6 +2113,24 @@ as well as the definition. The same goes for other languages.
       <td></td>
     </tr>
     <tr>
+      <th>113</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <th>114</th>
       <td>ti/er-usi, measure for liquid</td>
       <td></td>
@@ -2060,10 +2150,7 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>115</th>
-      <td>ben</td>
       <td></td>
-      <td></td>
-      <td>ban</td>
       <td></td>
       <td></td>
       <td>minal مناڵ</td>
@@ -2072,14 +2159,17 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
+      <td>ben</td>
       <td></td>
+      <td></td>
+      <td>ban</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <th>116</th>
-      <td>nadz</td>
-      <td>shade</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>nisê نسێ</td>
       <td>shade</td>
@@ -2090,15 +2180,12 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>nadz</td>
+      <td>shade</td>
       <td></td>
     </tr>
     <tr>
       <th>117</th>
-      <td>ulam</td>
-      <td>son, child</td>
-      <td></td>
       <td>alaue</td>
       <td>man</td>
       <td></td>
@@ -2111,13 +2198,13 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
+      <td>ulam</td>
+      <td>son, child</td>
+      <td></td>
     </tr>
     <tr>
       <th>118</th>
-      <td>çugi</td>
       <td></td>
-      <td></td>
-      <td>tsugi</td>
       <td></td>
       <td></td>
       <td>chuk چووک</td>
@@ -2126,14 +2213,17 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
+      <td>çugi</td>
       <td></td>
+      <td></td>
+      <td>tsugi</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <th>119</th>
-      <td>ewri</td>
-      <td>dog</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>wer-în وەرین</td>
       <td>barking of dog</td>
@@ -2141,8 +2231,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>ewri</td>
+      <td>dog</td>
       <td></td>
       <td></td>
       <td></td>
@@ -2150,8 +2240,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>120</th>
-      <td>shiye</td>
-      <td>watery</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>she شە</td>
       <td>moisture</td>
@@ -2159,8 +2249,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>shiye</td>
+      <td>watery</td>
       <td></td>
       <td></td>
       <td></td>
@@ -2186,8 +2276,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>122</th>
-      <td>shalmi</td>
-      <td>ashes, to burn</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>zhilemo ژیلەمۆ</td>
       <td>burning ashes</td>
@@ -2195,8 +2285,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>shalmi</td>
+      <td>ashes, to burn</td>
       <td></td>
       <td></td>
       <td></td>
@@ -2221,9 +2311,27 @@ as well as the definition. The same goes for other languages.
       <td></td>
     </tr>
     <tr>
+      <th>124</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <th>125</th>
-      <td>puhi</td>
-      <td>nose</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>کەپۆ</td>
       <td>kepû nose</td>
@@ -2231,8 +2339,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>puhi</td>
+      <td>nose</td>
       <td></td>
       <td></td>
       <td></td>
@@ -2294,9 +2402,6 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>129</th>
-      <td>fur-i</td>
-      <td>viw</td>
-      <td></td>
       <td>wur-i</td>
       <td>view</td>
       <td></td>
@@ -2306,14 +2411,17 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
+      <td>fur-i</td>
+      <td>viw</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <th>130</th>
-      <td>halv-</td>
-      <td>enclose</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>hal- هاڵ</td>
       <td>enclose</td>
@@ -2321,8 +2429,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>halv-</td>
+      <td>enclose</td>
       <td></td>
       <td></td>
       <td></td>
@@ -2348,8 +2456,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>132</th>
-      <td>pâl</td>
-      <td>false</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>fêl فێڵ</td>
       <td>fraud</td>
@@ -2357,8 +2465,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>pâl</td>
+      <td>false</td>
       <td></td>
       <td></td>
       <td></td>
@@ -2366,8 +2474,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>133</th>
-      <td>tapsh-</td>
-      <td>destroy</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>tawjm تەوژم , tapi</td>
       <td>pressure destroy</td>
@@ -2375,8 +2483,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>tapsh-</td>
+      <td>destroy</td>
       <td></td>
       <td></td>
       <td></td>
@@ -2384,11 +2492,29 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>134</th>
-      <td>apxe</td>
-      <td>louse</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>aspe ئەسپێ</td>
       <td>louse</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>apxe</td>
+      <td>louse</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>135</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -2402,8 +2528,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>136</th>
-      <td>kapp-</td>
-      <td>fill</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>kipp کپ</td>
       <td>filled</td>
@@ -2411,8 +2537,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>kapp-</td>
+      <td>fill</td>
       <td></td>
       <td></td>
       <td></td>
@@ -2420,8 +2546,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>137</th>
-      <td>azhoge</td>
-      <td>meal</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>azhge/zig</td>
       <td>stomach</td>
@@ -2429,8 +2555,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>azhoge</td>
+      <td>meal</td>
       <td></td>
       <td></td>
       <td></td>
@@ -2438,8 +2564,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>138</th>
-      <td>kul-</td>
-      <td>to speak</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>qul- قوول</td>
       <td>to speak aloud</td>
@@ -2447,8 +2573,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>kul-</td>
+      <td>to speak</td>
       <td></td>
       <td></td>
       <td></td>
@@ -2456,8 +2582,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>139</th>
-      <td>timeri</td>
-      <td>black</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>tem تەم</td>
       <td>darkness</td>
@@ -2465,8 +2591,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>timeri</td>
+      <td>black</td>
       <td></td>
       <td></td>
       <td></td>
@@ -2581,6 +2707,24 @@ as well as the definition. The same goes for other languages.
       <td></td>
     </tr>
     <tr>
+      <th>146</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <th>147</th>
       <td>tishni</td>
       <td>heart</td>
@@ -2672,8 +2816,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>152</th>
-      <td>fir</td>
-      <td>remove, untie</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>fir, firê</td>
       <td>throw</td>
@@ -2681,8 +2825,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>fir</td>
+      <td>remove, untie</td>
       <td></td>
       <td></td>
       <td></td>
@@ -2690,8 +2834,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>153</th>
-      <td>halme</td>
-      <td>singing</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>hore هۆرە</td>
       <td>singing</td>
@@ -2699,8 +2843,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>halme</td>
+      <td>singing</td>
       <td></td>
       <td></td>
       <td></td>
@@ -2708,8 +2852,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>154</th>
-      <td>havur</td>
-      <td>heaven</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>hawr ,</td>
       <td>cloud note also indo-iranic abra</td>
@@ -2717,8 +2861,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>havur</td>
+      <td>heaven</td>
       <td></td>
       <td></td>
       <td></td>
@@ -2744,11 +2888,29 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>156</th>
-      <td>asti</td>
-      <td>woman</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>astê</td>
       <td>name of a beloved woman in kurdish folklore</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>asti</td>
+      <td>woman</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>157</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -2762,8 +2924,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>158</th>
-      <td>tav/</td>
-      <td>-b to cast metal</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>taw</td>
       <td>thaw, melt</td>
@@ -2771,8 +2933,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>tav/</td>
+      <td>-b to cast metal</td>
       <td></td>
       <td></td>
       <td></td>
@@ -2780,17 +2942,17 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>159</th>
+      <td></td>
+      <td></td>
+      <td></td>
       <td>ai</td>
       <td>if</td>
       <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
       <td>ai</td>
       <td>if</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -2798,8 +2960,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>160</th>
-      <td>alilan</td>
-      <td>lament</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>lalan</td>
       <td>lament</td>
@@ -2807,8 +2969,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>alilan</td>
+      <td>lament</td>
       <td></td>
       <td></td>
       <td></td>
@@ -2816,8 +2978,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>161</th>
-      <td>çabalgi</td>
-      <td>fault</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>çapal چەپەڵ</td>
       <td>dirty</td>
@@ -2825,8 +2987,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>çabalgi</td>
+      <td>fault</td>
       <td></td>
       <td></td>
       <td></td>
@@ -2834,8 +2996,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>162</th>
-      <td>xiyari</td>
-      <td>all</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>xir</td>
       <td>all</td>
@@ -2843,8 +3005,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>xiyari</td>
+      <td>all</td>
       <td></td>
       <td></td>
       <td></td>
@@ -2852,8 +3014,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>163</th>
-      <td>çere</td>
-      <td>donkey</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>ker</td>
       <td>donkey</td>
@@ -2861,8 +3023,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>çere</td>
+      <td>donkey</td>
       <td></td>
       <td></td>
       <td></td>
@@ -2870,8 +3032,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>164</th>
-      <td>çik-</td>
-      <td>break</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>shik-</td>
       <td>break</td>
@@ -2879,8 +3041,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>çik-</td>
+      <td>break</td>
       <td></td>
       <td></td>
       <td></td>
@@ -2888,8 +3050,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>165</th>
-      <td>xîri</td>
-      <td>hour, time, moment</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>xêra خێرا</td>
       <td>soon, hurry</td>
@@ -2897,8 +3059,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>xîri</td>
+      <td>hour, time, moment</td>
       <td></td>
       <td></td>
       <td></td>
@@ -2906,8 +3068,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>166</th>
-      <td>xizli</td>
-      <td>coiled</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>cexiz جەخز</td>
       <td>coiled</td>
@@ -2915,8 +3077,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>xizli</td>
+      <td>coiled</td>
       <td></td>
       <td></td>
       <td></td>
@@ -2924,11 +3086,29 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>167</th>
-      <td>xub-</td>
-      <td>to break, to destroy</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>qup-</td>
       <td>to break, to destroy</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>xub-</td>
+      <td>to break, to destroy</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>168</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -2942,8 +3122,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>169</th>
-      <td>istani</td>
-      <td>between, among</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>astang ئاستەنگ</td>
       <td>obstacle</td>
@@ -2951,8 +3131,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>istani</td>
+      <td>between, among</td>
       <td></td>
       <td></td>
       <td></td>
@@ -2960,8 +3140,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>170</th>
-      <td>izikun-</td>
-      <td>to wail</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>zikan-</td>
       <td>to wail</td>
@@ -2969,8 +3149,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>izikun-</td>
+      <td>to wail</td>
       <td></td>
       <td></td>
       <td></td>
@@ -2978,8 +3158,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>171</th>
-      <td>kakari</td>
-      <td>sort of ritual bread</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>kullêre, kellane</td>
       <td>sort of ritual bread</td>
@@ -2987,8 +3167,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>kakari</td>
+      <td>sort of ritual bread</td>
       <td></td>
       <td></td>
       <td></td>
@@ -2996,8 +3176,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>172</th>
-      <td>magunni</td>
-      <td>desire</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>magirani</td>
       <td>desire</td>
@@ -3005,8 +3185,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>magunni</td>
+      <td>desire</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3014,8 +3194,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>173</th>
-      <td>shakari or sagari</td>
-      <td>sprout, bud</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>chakara چەکەرە</td>
       <td>sprout, bud</td>
@@ -3023,8 +3203,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>shakari or sagari</td>
+      <td>sprout, bud</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3032,8 +3212,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>174</th>
-      <td>arushal</td>
-      <td>hurry</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>halasha هەڵەشە</td>
       <td>stressful</td>
@@ -3041,8 +3221,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>arushal</td>
+      <td>hurry</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3050,8 +3230,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>175</th>
-      <td>heni</td>
-      <td>now</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>henu-ke, niha, neha</td>
       <td>now</td>
@@ -3059,8 +3239,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>heni</td>
+      <td>now</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3068,8 +3248,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>176</th>
-      <td>parili</td>
-      <td>crime</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>palamar پەلامار</td>
       <td>attack</td>
@@ -3077,8 +3257,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>parili</td>
+      <td>crime</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3086,8 +3266,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>177</th>
-      <td>adi</td>
-      <td>thus</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>dai</td>
       <td>thus</td>
@@ -3095,8 +3275,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>adi</td>
+      <td>thus</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3104,11 +3284,29 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>178</th>
-      <td>ak-i/u</td>
-      <td>other</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>-ka</td>
       <td>other</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>ak-i/u</td>
+      <td>other</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>179</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -3122,8 +3320,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>180</th>
-      <td>we</td>
-      <td>thou</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>ê-we</td>
       <td>you</td>
@@ -3131,8 +3329,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>we</td>
+      <td>thou</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3140,8 +3338,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>181</th>
-      <td>buru</td>
-      <td>strong</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>wure ورە</td>
       <td>strength</td>
@@ -3149,8 +3347,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>buru</td>
+      <td>strong</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3158,8 +3356,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>182</th>
-      <td>çam</td>
-      <td>rip</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>çam</td>
       <td>bend</td>
@@ -3167,8 +3365,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>çam</td>
+      <td>rip</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3176,8 +3374,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>183</th>
-      <td>zurgi</td>
-      <td>blood</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>zûx ,</td>
       <td>blood compare, xwênaw=zûxaw</td>
@@ -3185,8 +3383,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>zurgi</td>
+      <td>blood</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3194,8 +3392,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>184</th>
-      <td>xahli</td>
-      <td>cheek</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>kulm</td>
       <td>cheek</td>
@@ -3203,8 +3401,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>xahli</td>
+      <td>cheek</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3212,8 +3410,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>185</th>
-      <td>halwu</td>
-      <td>fence made with stones</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>hêl هێڵ</td>
       <td>fence</td>
@@ -3221,8 +3419,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>halwu</td>
+      <td>fence made with stones</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3230,8 +3428,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>186</th>
-      <td>xawirni</td>
-      <td>lamb</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>kawir کاوڕ</td>
       <td>young sheep</td>
@@ -3239,8 +3437,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>xawirni</td>
+      <td>lamb</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3248,8 +3446,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>187</th>
-      <td>xamaz-</td>
-      <td>oppress</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>chaws-</td>
       <td>oppress</td>
@@ -3257,8 +3455,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>xamaz-</td>
+      <td>oppress</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3266,8 +3464,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>188</th>
-      <td>hendz</td>
-      <td>constrain</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>hêndj</td>
       <td>constrain</td>
@@ -3275,8 +3473,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>hendz</td>
+      <td>constrain</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3284,11 +3482,29 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>189</th>
-      <td>xerari</td>
-      <td>sinew</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>kiroje</td>
       <td>sinew</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>xerari</td>
+      <td>sinew</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>190</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -3302,8 +3518,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>191</th>
-      <td>xeshmi</td>
-      <td>bright</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>gesh</td>
       <td>bright</td>
@@ -3311,8 +3527,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>xeshmi</td>
+      <td>bright</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3320,8 +3536,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>192</th>
-      <td>kalgi</td>
-      <td>weak</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>qals/qirj</td>
       <td>weak</td>
@@ -3329,8 +3545,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>kalgi</td>
+      <td>weak</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3338,8 +3554,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>193</th>
-      <td>nali</td>
-      <td>deer</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>nêrî</td>
       <td>male adult goat</td>
@@ -3347,8 +3563,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>nali</td>
+      <td>deer</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3356,8 +3572,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>194</th>
-      <td>nawn-</td>
-      <td>pasture</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>naw-</td>
       <td>pasture</td>
@@ -3365,8 +3581,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>nawn-</td>
+      <td>pasture</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3374,8 +3590,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>195</th>
-      <td>ul-</td>
-      <td>to, eat, to devour</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>lawar</td>
       <td>la-war- to devour</td>
@@ -3383,8 +3599,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>ul-</td>
+      <td>to, eat, to devour</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3392,8 +3608,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>196</th>
-      <td>ubi</td>
-      <td>stupid, insane</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>hapa</td>
       <td>stupid, insane</td>
@@ -3401,8 +3617,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>ubi</td>
+      <td>stupid, insane</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3410,8 +3626,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>197</th>
-      <td>ashxu</td>
-      <td>high</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>shax , also 'asê' means uppward, high.</td>
       <td>mountain</td>
@@ -3419,8 +3635,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>ashxu</td>
+      <td>high</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3428,8 +3644,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>198</th>
-      <td>kaziari</td>
-      <td>high mountains of the mesopotamian valley</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>kazh</td>
       <td>high mountain</td>
@@ -3437,8 +3653,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>kaziari</td>
+      <td>high mountains of the mesopotamian valley</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3446,8 +3662,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>199</th>
-      <td>kewiranna</td>
-      <td>the senate, the old men</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>gewran</td>
       <td>the big ones, the adult ones</td>
@@ -3455,8 +3671,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>kewiranna</td>
+      <td>the senate, the old men</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3464,11 +3680,29 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>200</th>
-      <td>kuzh-</td>
-      <td>to keep, to retain</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>kush- , alt qoz-</td>
       <td>to hold in hands, to press in hands to catch</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>kuzh-</td>
+      <td>to keep, to retain</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>201</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -3482,8 +3716,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>202</th>
-      <td>nekri</td>
-      <td>&lt;nek, negh lock</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>neq نقاندن -</td>
       <td>niq/nûq to close</td>
@@ -3491,8 +3725,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>nekri</td>
+      <td>&lt;nek, negh lock</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3500,8 +3734,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>203</th>
-      <td>shalhi</td>
-      <td>to listen</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>shil</td>
       <td>listen</td>
@@ -3509,8 +3743,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>shalhi</td>
+      <td>to listen</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3518,8 +3752,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>204</th>
-      <td>siba</td>
-      <td>dry</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>zuwa زوا</td>
       <td>dry</td>
@@ -3527,8 +3761,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>siba</td>
+      <td>dry</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3554,8 +3788,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>206</th>
-      <td>shu</td>
-      <td>day</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>shawa-ki</td>
       <td>morning, day</td>
@@ -3563,8 +3797,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>shu</td>
+      <td>day</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3572,8 +3806,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>207</th>
-      <td>shirat</td>
-      <td>narrate</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>shirove</td>
       <td>narrate</td>
@@ -3581,8 +3815,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>shirat</td>
+      <td>narrate</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3590,8 +3824,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>208</th>
-      <td>tishan</td>
-      <td>very much</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>tizha تژە</td>
       <td>full</td>
@@ -3599,8 +3833,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>tishan</td>
+      <td>very much</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3644,11 +3878,29 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>211</th>
-      <td>baz</td>
-      <td>enter</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>baz</td>
       <td>pass by</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>baz</td>
+      <td>enter</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>212</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -3662,8 +3914,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>213</th>
-      <td>xeban-</td>
-      <td>to set moving</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>xebi- خەبتین</td>
       <td>to be active</td>
@@ -3671,8 +3923,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>xeban-</td>
+      <td>to set moving</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3680,8 +3932,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>214</th>
-      <td>hamadz-</td>
-      <td>to oppress</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>chaws-</td>
       <td>to oppress</td>
@@ -3689,8 +3941,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>hamadz-</td>
+      <td>to oppress</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3698,8 +3950,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>215</th>
-      <td>haz-</td>
-      <td>to hear</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>bihiz-</td>
       <td>to hear</td>
@@ -3707,8 +3959,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>haz-</td>
+      <td>to hear</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3716,8 +3968,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>216</th>
-      <td>xaz</td>
-      <td>to oil</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>xiz</td>
       <td>oily, slippery</td>
@@ -3725,8 +3977,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>xaz</td>
+      <td>to oil</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3734,8 +3986,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>217</th>
-      <td>pas-</td>
-      <td>to send somebody</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>pas-</td>
       <td>to send, as in 'hal pasardin'  'to send into exile'</td>
@@ -3743,8 +3995,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>pas-</td>
+      <td>to send somebody</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3752,8 +4004,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>218</th>
-      <td>shagari</td>
-      <td>ram</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>shak</td>
       <td>young sheep</td>
@@ -3761,8 +4013,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>shagari</td>
+      <td>ram</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3770,8 +4022,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>219</th>
-      <td>pal</td>
-      <td>know, understand</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>fêr</td>
       <td>learn</td>
@@ -3779,8 +4031,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>pal</td>
+      <td>know, understand</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3824,11 +4076,29 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>222</th>
-      <td>abi</td>
-      <td>in front of</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>ba</td>
       <td>in front of, near</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>abi</td>
+      <td>in front of</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>223</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -3842,8 +4112,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>224</th>
-      <td>shimi</td>
-      <td>sun</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>shem (focilized in shemshemekwere, ''blind for the sun'' ''bat''.</td>
       <td>sun focilized in shemshemekwere, ''blind for the sun''  ''bat''.</td>
@@ -3851,8 +4121,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>shimi</td>
+      <td>sun</td>
       <td></td>
       <td></td>
       <td></td>
@@ -3932,9 +4202,6 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>229</th>
-      <td>hur</td>
-      <td>drink</td>
-      <td></td>
       <td>xurishe</td>
       <td>irrigator</td>
       <td></td>
@@ -3943,6 +4210,9 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
+      <td>hur</td>
+      <td>drink</td>
       <td></td>
       <td></td>
       <td></td>
@@ -4021,6 +4291,24 @@ as well as the definition. The same goes for other languages.
       <td></td>
     </tr>
     <tr>
+      <th>234</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <th>235</th>
       <td>niribe</td>
       <td>herd</td>
@@ -4076,8 +4364,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>238</th>
-      <td>hemz</td>
-      <td>surround</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>amêz, hembêz ئامیز</td>
       <td>hug</td>
@@ -4085,8 +4373,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>hemz</td>
+      <td>surround</td>
       <td></td>
       <td></td>
       <td></td>
@@ -4112,8 +4400,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>240</th>
-      <td>karshi</td>
-      <td>lips</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>kalpa کەڵپە</td>
       <td>animal lips</td>
@@ -4121,8 +4409,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>karshi</td>
+      <td>lips</td>
       <td></td>
       <td></td>
       <td></td>
@@ -4130,8 +4418,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>241</th>
-      <td>wirwir</td>
-      <td>loosen</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>wilwil ولوڵ</td>
       <td>loosen</td>
@@ -4139,8 +4427,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>wirwir</td>
+      <td>loosen</td>
       <td></td>
       <td></td>
       <td></td>
@@ -4148,11 +4436,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>242</th>
-      <td>ash</td>
-      <td>earth, soil</td>
       <td></td>
-      <td>esh</td>
-      <td>earth, soil</td>
+      <td></td>
       <td></td>
       <td>ax ئاخ</td>
       <td>earth, soil</td>
@@ -4160,8 +4445,11 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
+      <td>esh</td>
+      <td>earth, soil</td>
       <td></td>
-      <td></td>
+      <td>ash</td>
+      <td>earth, soil</td>
       <td></td>
     </tr>
     <tr>
@@ -4201,6 +4489,24 @@ as well as the definition. The same goes for other languages.
       <td></td>
     </tr>
     <tr>
+      <th>245</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <th>246</th>
       <td>aman-</td>
       <td>vessel, pot</td>
@@ -4220,13 +4526,7 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>247</th>
-      <td>teshup</td>
-      <td>god of lightning and storm</td>
-      <td></td>
       <td>tesheba</td>
-      <td></td>
-      <td></td>
-      <td>tishpak</td>
       <td></td>
       <td></td>
       <td>tishk تیشک</td>
@@ -4235,11 +4535,17 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
+      <td>teshup</td>
+      <td>god of lightning and storm</td>
+      <td></td>
+      <td>tishpak</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <th>248</th>
-      <td>shu</td>
-      <td>hand</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>shop</td>
       <td>hand palm</td>
@@ -4247,8 +4553,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>shu</td>
+      <td>hand</td>
       <td></td>
       <td></td>
       <td></td>
@@ -4256,8 +4562,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>249</th>
-      <td>chilman-</td>
-      <td>to break, vanish</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>chilmis-</td>
       <td>fade</td>
@@ -4265,8 +4571,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>chilman-</td>
+      <td>to break, vanish</td>
       <td></td>
       <td></td>
       <td></td>
@@ -4292,8 +4598,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>251</th>
-      <td>xalwu</td>
-      <td>fence made with stones</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>xal خەڵ</td>
       <td>fence made with stones</td>
@@ -4301,8 +4607,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>xalwu</td>
+      <td>fence made with stones</td>
       <td></td>
       <td></td>
       <td></td>
@@ -4310,17 +4616,17 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>252</th>
+      <td></td>
+      <td></td>
+      <td></td>
       <td>ya/ye</td>
       <td>who, which, what</td>
       <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
       <td>ya/ye</td>
       <td>who, which, what</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -4328,8 +4634,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>253</th>
-      <td>tun-</td>
-      <td>to win</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>tuna توونا</td>
       <td>defeated, destroyed</td>
@@ -4337,8 +4643,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>tun-</td>
+      <td>to win</td>
       <td></td>
       <td></td>
       <td></td>
@@ -4346,8 +4652,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>254</th>
-      <td>taridi</td>
-      <td>pot</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>tirar</td>
       <td>pot</td>
@@ -4355,8 +4661,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>taridi</td>
+      <td>pot</td>
       <td></td>
       <td></td>
       <td></td>
@@ -4364,8 +4670,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>255</th>
-      <td>kol</td>
-      <td>let off</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>kol</td>
       <td>let off as in ''le kol bunewe''</td>
@@ -4373,8 +4679,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>kol</td>
+      <td>let off</td>
       <td></td>
       <td></td>
       <td></td>
@@ -4382,8 +4688,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>256</th>
-      <td>shir</td>
-      <td>to be suffiecent</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>têr</td>
       <td>to be suffiecent</td>
@@ -4391,8 +4697,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>shir</td>
+      <td>to be suffiecent</td>
       <td></td>
       <td></td>
       <td></td>
@@ -4400,8 +4706,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>257</th>
-      <td>ha</td>
-      <td>take</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>ha</td>
       <td>take!</td>
@@ -4409,8 +4715,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>ha</td>
+      <td>take</td>
       <td></td>
       <td></td>
       <td></td>
@@ -4418,8 +4724,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>258</th>
-      <td>tijari</td>
-      <td>spindle</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>teshi</td>
       <td>spindle</td>
@@ -4427,8 +4733,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>tijari</td>
+      <td>spindle</td>
       <td></td>
       <td></td>
       <td></td>
@@ -4436,8 +4742,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>259</th>
-      <td>ábri</td>
-      <td>stock of wood-logs</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>awirdu , awirig</td>
       <td>stock of wood-logs oven</td>
@@ -4445,8 +4751,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>ábri</td>
+      <td>stock of wood-logs</td>
       <td></td>
       <td></td>
       <td></td>
@@ -4454,8 +4760,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>260</th>
-      <td>baq-</td>
-      <td>destroy</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>baq- بەقین</td>
       <td>explode</td>
@@ -4463,8 +4769,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>baq-</td>
+      <td>destroy</td>
       <td></td>
       <td></td>
       <td></td>
@@ -4472,8 +4778,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>261</th>
-      <td>bashi</td>
-      <td>mouth</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>bêj ,</td>
       <td>to say common a&gt;ê</td>
@@ -4481,8 +4787,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>bashi</td>
+      <td>mouth</td>
       <td></td>
       <td></td>
       <td></td>
@@ -4490,8 +4796,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>262</th>
-      <td>pashixi</td>
-      <td>message</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>pazhux</td>
       <td>answer</td>
@@ -4499,8 +4805,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>pashixi</td>
+      <td>message</td>
       <td></td>
       <td></td>
       <td></td>
@@ -4508,8 +4814,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>263</th>
-      <td>tad-</td>
-      <td>love</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>dalal</td>
       <td>beloved common d&gt;l</td>
@@ -4517,8 +4823,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>tad-</td>
+      <td>love</td>
       <td></td>
       <td></td>
       <td></td>
@@ -4526,9 +4832,6 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>264</th>
-      <td>tagi</td>
-      <td>beatiful</td>
-      <td></td>
       <td>taugi</td>
       <td>clean</td>
       <td></td>
@@ -4538,14 +4841,17 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
+      <td>tagi</td>
+      <td>beatiful</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <th>265</th>
-      <td>hild-/held-</td>
-      <td>high, raise, elevate</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>hild-/held- هەڵدان/هڵدان</td>
       <td>rasie, elevate</td>
@@ -4553,8 +4859,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>hild-/held-</td>
+      <td>high, raise, elevate</td>
       <td></td>
       <td></td>
       <td></td>
@@ -4562,8 +4868,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>266</th>
-      <td>kabli</td>
-      <td>copper</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>paqir پاقڕ</td>
       <td>copper</td>
@@ -4571,8 +4877,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>kabli</td>
+      <td>copper</td>
       <td></td>
       <td></td>
       <td></td>
@@ -4580,8 +4886,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>267</th>
-      <td>kukla</td>
-      <td>slave</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>kukla , kukm</td>
       <td>doll homeless</td>
@@ -4592,14 +4898,14 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>kukla</td>
+      <td>slave</td>
       <td></td>
     </tr>
     <tr>
       <th>268</th>
-      <td>kumdi</td>
-      <td>tower</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>kumadj کۆماج</td>
       <td>column</td>
@@ -4607,8 +4913,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>kumdi</td>
+      <td>tower</td>
       <td></td>
       <td></td>
       <td></td>
@@ -4616,8 +4922,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>269</th>
-      <td>kubakhi</td>
-      <td>hood</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>kumik</td>
       <td>hood</td>
@@ -4625,8 +4931,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>kubakhi</td>
+      <td>hood</td>
       <td></td>
       <td></td>
       <td></td>
@@ -4652,8 +4958,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>271</th>
-      <td>kundzi</td>
-      <td>to kneel</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>kudik</td>
       <td>knee</td>
@@ -4661,8 +4967,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>kundzi</td>
+      <td>to kneel</td>
       <td></td>
       <td></td>
       <td></td>
@@ -4670,8 +4976,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>272</th>
-      <td>xiríti</td>
-      <td>trench</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td>xir</td>
       <td>trench</td>
@@ -4679,8 +4985,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>xiríti</td>
+      <td>trench</td>
       <td></td>
       <td></td>
       <td></td>
