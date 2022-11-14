@@ -23,7 +23,7 @@ generally considering the IE substratum of the Kurdish language while neglecting
 </div>
 
 <div>
-<p>Urartian language is considered a Hurro-Urartian language which was a the main language of the inhabitants of the
+<p>Urartian language is considered a Hurro-Urartian language which was the main language of the inhabitants of the
 Iron Age kingdom of Urartu (a.k.a. Kingdom of Van) (Biaini or Biainili in Urartian). The kingdom was a grographical 
 region centered around lake Van in the northern Kurdistan (south-eastern Anatolia).
 
@@ -4692,9 +4692,9 @@ as well as the definition. The same goes for other languages.
 
 <div>
 <h2>Call for Contributions</h2>
-<p>This project welcomes your expertise and enthusiasm!</p>
+<p>We welcome your expertise and enthusiasm!</p>
 
-<p>Ways to contribute to Emgraph:</p>
+<p>Ways to contribute:</p>
 <ul>
 <li>Writing code</li>
 <li>Visualization</li>
@@ -4728,7 +4728,7 @@ http://landofkarda.blogspot.com/2011/04/hurro-urartian-substratum-in-kurdish-2.h
 <h2>Contributors</h2>
 <pre>Copyright &copy; 2022-2023 <b>urartian_kurdish</b> Developers
 <a href="https://soran-ghaderi.github.io/">Soran Ghaderi</a> (soran.gdr.cs@gmail.com)
-follow me <a href="https://github.com/soran-ghaderi"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?&logo=github&logoColor=white"></a> <a href="https://twitter.com/soranghadri"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?&logo=twitter&logoColor=white"></a> <a href="https://www.linkedin.com/in/soran-ghaderi/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white"></a>
+follow me <a href="https://github.com/soran-ghaderi"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?&logo=github&logoColor=white"></a> <a href="https://twitter.com/soranghadri"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?&logo=twitter&logoColor=white"></a> <a href="https://www.linkedin.com/in/soran-ghaderi/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white"></a><br>
 
 <a href="https://uk.linkedin.com/in/taleb-zarhesh">Taleb Zarhesh</a> (taleb.zarhesh@gmail.com)
 follow me <a href="https://github.com/sigma1326"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?&logo=github&logoColor=white"></a> <a href="https://twitter.com/taleb__z"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?&logo=twitter&logoColor=white"></a> <a href="https://www.linkedin.com/in/taleb-zarhesh/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white"></a>
