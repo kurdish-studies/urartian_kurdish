@@ -8,17 +8,14 @@ from generator import generate_df, export_to_markdown, export_to_json
 if __name__ == '__main__':
     main_headers = ["Urartian", "Kurdish", "Hurrian", "Kassite", "Armenian"]
     langs = [item.lower() for item in main_headers]
-    print("langs: ", langs)
     sub_headers = ["word", "glossary", "notes"]
     # langs = ["urartian", "kurdish"]
     url = "http://landofkarda.blogspot.com/2011/04/hurro-urartian-substratum-in-kurdish-2.html"
 
     mux = pd.MultiIndex.from_product([main_headers, sub_headers])
     raw_file = load_data(url, from_url=False)
-    print(mux)
     # word_dict = export_to(raw_file, langs, to_format="dataframe")
     word_dict = generate_df(raw_file, langs=langs, sub_columns=sub_headers)
-    print(word_dict.items())
     dataframe = pd.DataFrame.from_dict(word_dict, orient='index', columns=mux)
     dataframe.fillna("", inplace=True)
 

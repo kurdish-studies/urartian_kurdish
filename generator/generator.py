@@ -1,5 +1,15 @@
-from preprocessor import get_lines, extract_language_name, parse_raw_text, extract_paranthesis
-from preprocessor.parser import get_lines, extract_language_name, parse_raw_text, extract_paranthesis
+from preprocessor import (
+    get_lines,
+    extract_language_name,
+    parse_raw_text,
+    extract_paranthesis,
+)
+from preprocessor.parser import (
+    get_lines,
+    extract_language_name,
+    parse_raw_text,
+    extract_paranthesis,
+)
 
 
 def generate_df(file, langs, mux=None, sub_columns=None):
@@ -17,12 +27,6 @@ def generate_df(file, langs, mux=None, sub_columns=None):
         sub_length = len(sub_columns)
         for _ in range(sub_length):
             empty_placeholder.append("")
-        # for language in langs:
-        #     lang_dict.update({language: empty_placeholder})
-
-        # lang_dict['kurdish'] = ["ale", "two", "three"]
-        # lang_dict['urartian'][0] = "he say"
-        # print("lang dict: ", lang_dict['kurdish'][0])
 
     print(lang_dict)
     for line in get_lines(file):
@@ -35,26 +39,9 @@ def generate_df(file, langs, mux=None, sub_columns=None):
             lang = extract_language_name(line)
             word = parse_raw_text(line)
             definition = extract_paranthesis(line)
-            # mux = pd.MultiIndex.from_product([['Start', 'Intermediary', 'End'], ["word", "gloss", "transition"]])
-            # sub_columns = []
 
-            temp_data = [
-                word,
-                definition,
-                ""
-            ]
-
-            if word == "agul":
-                print("here is the lang print: ", lang)
+            temp_data = [word, definition, ""]
             lang_dict[lang] = temp_data
-            # temp_df = pd.DataFrame.from_dict(data=temp_data, orient='index', columns=mux)
-            # if idx in dictionary.keys():
-            #     for item in temp_data:
-            #         dictionary[idx].append(" ".join(item))
-            # else:
-            #     dictionary.update({idx: []})
-            #     for item in temp_data:
-            #         dictionary[idx].append(" ".join(item))
         else:
 
             dictionary.update({idx: []})
@@ -105,11 +92,7 @@ def to_dataframe(idx, line, dictionary):
     definition = extract_paranthesis(line)
     # mux = pd.MultiIndex.from_product([['Start', 'Intermediary', 'End'], ["word", "gloss", "transition"]])
     # sub_columns = []
-    temp_data = [
-        word,
-        definition,
-        ""
-    ]
+    temp_data = [word, definition, ""]
     # temp_df = pd.DataFrame.from_dict(data=temp_data, orient='index', columns=mux)
     if idx in dictionary.keys():
         for item in temp_data:
@@ -125,16 +108,8 @@ def to_json(idx, line, dictionary):
     word = parse_raw_text(line)
     definition = extract_paranthesis(line)
     if idx in dictionary.keys():
-        dictionary[idx].append({
-            "lang": lang,
-            "word": word,
-            "definition": definition
-        })
+        dictionary[idx].append({"lang": lang, "word": word, "definition": definition})
     else:
-        dictionary.update({idx: [
-            {
-                "lang": lang,
-                "word": word,
-                "definition": definition
-            }
-        ]})
+        dictionary.update(
+            {idx: [{"lang": lang, "word": word, "definition": definition}]}
+        )
