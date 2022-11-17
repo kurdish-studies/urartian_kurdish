@@ -2,7 +2,7 @@ from preprocessor import (
     get_lines,
     extract_language_name,
     parse_raw_text,
-    extract_paranthesis,
+    extract_paranthesis, extract_note_from_text,
 )
 from preprocessor.parser import (
     get_lines,
@@ -28,7 +28,6 @@ def generate_df(file, langs, mux=None, sub_columns=None):
         for _ in range(sub_length):
             empty_placeholder.append("")
 
-    print(lang_dict)
     for line in get_lines(file):
 
         if not line == "\n":
@@ -36,11 +35,16 @@ def generate_df(file, langs, mux=None, sub_columns=None):
             if not splitted_line[0] in langs:
                 print("not in langs: ", splitted_line[0], line)
 
+            # todo: remove the notes from the definition and words to avoid duplication
             lang = extract_language_name(line)
             word = parse_raw_text(line)
             definition = extract_paranthesis(line)
+            notes = extract_note_from_text(definition, separator="cf")
+            if len(notes) == 0:
+                notes = extract_note_from_text(word, separator="cf")
 
-            temp_data = [word, definition, ""]
+
+            temp_data = [word, definition, notes]
             lang_dict[lang] = temp_data
         else:
 
@@ -113,3 +117,4 @@ def to_json(idx, line, dictionary):
         dictionary.update(
             {idx: [{"lang": lang, "word": word, "definition": definition}]}
         )
+

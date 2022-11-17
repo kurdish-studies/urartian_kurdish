@@ -8,8 +8,7 @@
 This study presents the etymologies of Kurdish words as having a possible <b>Hurro-Urartian</b> origin (as opposed to Indo-European) [1].
 As far as we know, there is no meticulous research conducted in this regard. Due to a lack of interest in Kurdish studies, the majority of the previous works are 
 generally considering the IE substratum of the Kurdish language while neglecting the HU root. Apart from pseudo-scientific language comparisons, which aim at setting up 
-unrealistic postulations and naive historical correlations between languages, this article demonstrates genetic relatedness
-between Kurdish and Urartian as well as Hurrian and Kassiste, (also very few Armenian lexical possible relations).
+unrealistic postulations and naive historical correlations between languages (sometimes used to justify other assertions), this article demonstrates genetic relatedness between Kurdish and Urartian as well as Hurrian and Kassite, (also a few Armenian lexical possible relations).
 </p>
 </div>
 
