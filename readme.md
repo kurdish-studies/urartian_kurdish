@@ -1,14 +1,15 @@
 <div>
-<h1 align="center">Hurro-Urrartian Substratum In Kurdish</h1>
+<h1 align="center">Hurro-Urartian Substratum In Kurdish</h1>
 </div>
 
 <div align="center">
 <h2>Abstract</h2>
 <p>
 This study presents the etymologies of Kurdish words as having a possible <b>Hurro-Urartian</b> origin (as opposed to Indo-European) [1].
-As far as we know, there is no meticulous research conducted in this regard. Due to lack of interest in Kurdish studies, the majority of the previous works are 
-generally considering the IE substratum of the Kurdish language while neglecting the HU root (which is considered as
-<b>native Kurdish</b> among the speakers).
+As far as we know, there is no meticulous research conducted in this regard. Due to a lack of interest in Kurdish studies, the majority of the previous works are 
+generally considering the IE substratum of the Kurdish language while neglecting the HU root. Apart from pseudo-scientific language comparisons, which aim at setting up 
+unrealistic postulations and naive historical correlations between languages, this article demonstrates genetic relatedness
+between Kurdish and Urartian as well as Hurrian and Kassiste, (also very few Armenian lexical possible relations).
 </p>
 </div>
 
@@ -31,13 +32,15 @@ The first clear evidence in the 9th century BCE, Urartian came to an end to be w
 Urartian kingdom in 585 BCE. There is not much known from the Urartian language (about 300 words), though, the 
 majority of its known vocab has an identical or at least a closely related peer in modern Kurdish.</p>
 
-<p>The pre-Iranic substratum in Kurdish is so remarkable that it would be safe to bring up Kurdish as a creole language.</p>
+<p>The pre-Indo-European and pre-Iranic substratum in Kurdish is so remarkable that it would be safe to bring up 
+Kurdish as a creole language.</p>
 
 <p>Please note that, for the majority of the words in IE Kurdish, there is a native equivalent (non-IE Kurdish word).</p>
 
 
 <h3>Note</h3>
-<p>This process is still being developed and the following table needs further modification.</p>
+<p>This process is still being developed and the following table needs further modification i.e. the python codes are 
+over-engineered, therefore, need to be generalized to cope with different sources.</p>
 <p>For contributions, please visit the contribution section at the end of the page.</p>
 
 
@@ -78,24 +81,6 @@ as well as the definition. The same goes for other languages.
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <th>0</th>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
     <tr>
       <th>1</th>
       <td>ale</td>
