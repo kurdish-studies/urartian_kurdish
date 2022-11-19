@@ -35,13 +35,10 @@ def generate_df(file, langs, mux=None, sub_columns=None):
             if not splitted_line[0] in langs:
                 print("not in langs: ", splitted_line[0], line)
 
-            # todo: remove the notes from the definition and words to avoid duplication
             lang = extract_language_name(line)
             word = parse_raw_text(line)
             definition = extract_paranthesis(line)
 
-            # fixme: Something wierd happens here: when the second output is being obtained, the 'notes' and 'final_definition'
-            #  become separated by one space, but, when the 'notes' alone, this won't happen
             notes = extract_note_from_text(definition, separator="cf")
 
             temp_def = ""
@@ -50,24 +47,31 @@ def generate_df(file, langs, mux=None, sub_columns=None):
 
             if len(notes[0]) > 0:
 
-                print("here is the notes: ", notes, notes[0], temp_def, temp_def.replace(notes[0], ''))
-                definition = temp_def.replace(notes[0], '')
+                definition = temp_def.replace(notes[0], '').replace(", cf.", "").replace(", cf", "").\
+                    replace("cf.", "").replace("cf,", "")
 
             # if len(final_definition) > 0:
             #     definition = final_definition
             if len(notes) == 0:
                 notes = extract_note_from_text(word, separator="cf")
 
-            temp_data = [word, definition, notes]
+            print(notes[0])
+
+            temp_data = [word, definition, notes[0]]
             lang_dict[lang] = temp_data
         else:
 
             dictionary.update({idx: []})
             for language_key, language_temp_data in lang_dict.items():
-                for language_temp_data_item in language_temp_data:
-                    # fixme: the join value separates the characters when the notes is not empty
-                    print(language_temp_data_item, " ".join(language_temp_data_item))
-                    dictionary[idx].append(" ".join(language_temp_data_item))
+
+                for i in range(len(language_temp_data)):
+                    if type(language_temp_data[i]) == list:
+                        string_casted = " ".join(language_temp_data[i])
+                    else:
+                        string_casted = language_temp_data[i]
+
+                    dictionary[idx].append(string_casted)
+
                     # dictionary[idx].append(language_temp_data_item)
             # print("dictionary[idx]: ", dictionary[idx])
             for language in langs:
