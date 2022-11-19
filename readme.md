@@ -6,10 +6,10 @@
 <h2>Abstract</h2>
 <p>
 This study presents the etymologies of Kurdish words as having a possible <b>Hurro-Urartian</b> origin 
-(as opposed to Indo-European) <a href="http://landofkarda.blogspot.com/2011/04/hurro-urartian-substratum-in-kurdish-2.html">[1]</a>.
+(as opposed to Indo-European) <a href="http://landofkarda.blogspot.com/2011/04/hurro-urartian-substratum-in-kurdish-2.html" target="_blank">[1]</a>.
 As far as we know, there is no meticulous research conducted in this regard. Due to a lack of interest in Kurdish 
 studies, the majority of the previous works are generally considering the IE substratum of the Kurdish language while 
-neglecting the HU root. Apart from <a href="https://en.wikipedia.org/wiki/Pseudoscientific_language_comparison">pseudo-scientific</a> language 
+neglecting the HU root. Apart from <a href="https://en.wikipedia.org/wiki/Pseudoscientific_language_comparison" target="_blank">pseudo-scientific</a> language 
 comparisons, which aim at setting up unrealistic postulations and naive historical correlations between languages 
 (sometimes used to justify other assertions), this article demonstrates genetic relatedness between Kurdish and 
 Urartian as well as Hurrian and Kassite, (also a few Armenian lexical possible relations).
@@ -38,11 +38,11 @@ majority of its known vocab has an identical or at least a closely related peer 
 <p>The pre-Indo-European and pre-Iranic substratum in Kurdish is so remarkable that it would be safe to bring up 
 Kurdish as a creole language.</p>
 
-<p>Please note that, for the majority of the words in IE Kurdish, there is a native equivalent (non-IE Kurdish word).</p>
+<p>It is worth mentioning that, for the majority of the words in IE Kurdish, there is a native equivalent (non-IE Kurdish word).</p>
 
 
 <h3>Note</h3>
-<p>This process is still being developed and the following table needs further modification i.e. the python codes are 
+<p>This process is still being developed and the following table needs further modification. Also, the python codes are 
 over-engineered, therefore, need to be generalized to cope with different sources.</p>
 <p>For contributions, please visit the contribution section at the end of the page.</p>
 

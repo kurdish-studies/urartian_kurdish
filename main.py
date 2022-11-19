@@ -29,11 +29,12 @@ if __name__ == '__main__':
     #         if item[1].__contains__("cf"):
                 # print("words: ", item)
 
-    # export_to_json()
+    # export_to_json(dataframe)
     # export_to_html(dataframe)
-    text = "land, country, field, cf. kurdawari, کوردەواری / warê me وارێ مە armenian agarak has been suggested as an armenian loan from 'awari'. kurdish has even 'garak' with the same meaning"
-    text2 = "build cf, kurdish d>nil"
-    print(extract_note_from_text(text, 'cf'))
-    print(extract_note_from_text(text2, 'cf'))
+    # text = "land, country, field, cf. kurdawari, کوردەواری / warê me وارێ مە armenian agarak has been suggested as an armenian loan from 'awari'. kurdish has even 'garak' with the same meaning"
+    # text2 = "build cf, kurdish d>nil"
+    # print(extract_note_from_text(text, 'cf'))
+    # print(extract_note_from_text(text2, 'cf'))
     export_to_markdown(dataframe, file_name="export.md")
+    print(zip(dataframe['Urartian']))
 

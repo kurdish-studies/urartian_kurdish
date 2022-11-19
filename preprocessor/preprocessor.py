@@ -19,7 +19,8 @@ def clean_text(text):
 
 
 def extract_note_from_text(text, separator):
-    notes = []
+    notes = ""
+    final_definition = ""
     if type(text) == list:
         # for item in text:
         #     if str(item).__contains__("cf"):
@@ -30,18 +31,19 @@ def extract_note_from_text(text, separator):
         #         notes.append(str(*phrases[1:]))
         joined_text = ""
 
-        # todo: correctly join list items and then extract the notes
+
         if len(text) > 1:
-            for item in text:
-                joined_text += item + ' '
+            for i in range(len(text)):
+
+                joined_text += ' ' + text[i]
+            # joined_text += text[i] + ''
         else:
             joined_text = text
-        text = str(joined_text).replace("']", "").replace("\"]", "")
+        # st = re.findall("'\[", text)
+        text = str(joined_text).replace("']", "").replace("\"]", "").replace("['", "").replace("[\"", "")
     phrases = text.split(separator)
     if len(phrases) > 1:
-        notes.append(str(*phrases[1:]).replace(". ", "").replace(", ", ""))
-    # for phrase in phrases:
-    #     if str(phrase).__contains__(separator):
-    #         notes.append(phrase)
-
-    return notes
+        notes = str(*phrases[1:]).replace(". ", "").replace(", ", "")
+        final_definition = phrases[0]
+        # print("final_definition: ", final_definition)
+    return notes, final_definition
