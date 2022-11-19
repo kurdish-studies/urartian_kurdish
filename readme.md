@@ -85,6 +85,24 @@ as well as the definition. The same goes for other languages.
   </thead>
   <tbody>
     <tr>
+      <th>0</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <th>1</th>
       <td>ale</td>
       <td>he says</td>
@@ -180,8 +198,8 @@ as well as the definition. The same goes for other languages.
       <td>you, plural</td>
       <td></td>
       <td>hin هین/هون</td>
-      <td>you, plural, cf. sh&gt;h a regular sound change in kurdish</td>
-      <td></td>
+      <td>you, plural</td>
+      <td>sh&gt;h a regular sound change in kurdish</td>
       <td></td>
       <td></td>
       <td></td>
@@ -197,9 +215,9 @@ as well as the definition. The same goes for other languages.
       <td>apa</td>
       <td>he/she/it</td>
       <td></td>
-      <td>awa, aw/ava, av cf. p&gt;w and p&gt;v ئەوە</td>
+      <td>awa, aw/ava, av ئەوە</td>
       <td>he/she/it</td>
-      <td></td>
+      <td>p>w and p>v</td>
       <td></td>
       <td></td>
       <td></td>
@@ -234,8 +252,8 @@ as well as the definition. The same goes for other languages.
       <td>stick</td>
       <td></td>
       <td>têla</td>
-      <td>stick, cf. kurdish a&gt;ê</td>
-      <td></td>
+      <td>stick</td>
+      <td>kurdish a&gt;ê</td>
       <td></td>
       <td></td>
       <td></td>
@@ -270,8 +288,8 @@ as well as the definition. The same goes for other languages.
       <td>kill/slay, subjugate</td>
       <td></td>
       <td>qir قڕ</td>
-      <td>kill, slay, cf kurdish a&gt;i</td>
-      <td></td>
+      <td>kill, slay</td>
+      <td>kurdish a&gt;i</td>
       <td></td>
       <td></td>
       <td></td>
@@ -324,8 +342,8 @@ as well as the definition. The same goes for other languages.
       <td>give</td>
       <td></td>
       <td>da, دا</td>
-      <td>give, iranic and other ie languages have a similar lexeme</td>
-      <td></td>
+      <td>give</td>
+      <td>iranic and other ie languages have a similar lexeme</td>
       <td></td>
       <td></td>
       <td></td>
@@ -342,8 +360,8 @@ as well as the definition. The same goes for other languages.
       <td>throw</td>
       <td></td>
       <td>xis-[tin]/hawish-[tin] خستن/هاویشتن</td>
-      <td>throw, cf kurdish u&gt;i</td>
-      <td></td>
+      <td>throw</td>
+      <td>kurdish u&gt;i</td>
       <td></td>
       <td></td>
       <td></td>
@@ -396,8 +414,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td>ard ئەرد/هەرد</td>
-      <td>earth, soil, cf kurdish rt &gt; rd</td>
-      <td></td>
+      <td>earth, soil</td>
+      <td>kurdish rt &gt; rd</td>
       <td>arte</td>
       <td>earth, soil</td>
       <td></td>
@@ -558,8 +576,8 @@ as well as the definition. The same goes for other languages.
       <td>grape</td>
       <td></td>
       <td>trê, tirî ترێ</td>
-      <td>grape, cf.  l&gt;r and u&gt;i</td>
-      <td></td>
+      <td>grape</td>
+      <td>l&gt;r and u&gt;i</td>
       <td></td>
       <td></td>
       <td></td>
@@ -702,8 +720,8 @@ as well as the definition. The same goes for other languages.
       <td>power, strength</td>
       <td></td>
       <td>wuze وزە</td>
-      <td>power, strength, cf. kurdish u- &gt; w-</td>
-      <td></td>
+      <td>power, strength</td>
+      <td>kurdish u- &gt; w-</td>
       <td></td>
       <td></td>
       <td></td>
@@ -738,8 +756,8 @@ as well as the definition. The same goes for other languages.
       <td>to go</td>
       <td></td>
       <td>chu, چوو</td>
-      <td>to go, cf. also iranic ''shiyaw''</td>
-      <td></td>
+      <td>to go</td>
+      <td>also iranic ''shiyaw''</td>
       <td></td>
       <td></td>
       <td></td>
@@ -810,8 +828,8 @@ as well as the definition. The same goes for other languages.
       <td>to place down</td>
       <td></td>
       <td>wer-[in], وەرین</td>
-      <td>to place down, cf. kurdish u-&gt; w-</td>
-      <td></td>
+      <td>to place down</td>
+      <td>kurdish u-&gt; w-</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1098,8 +1116,8 @@ as well as the definition. The same goes for other languages.
       <td>to stay</td>
       <td></td>
       <td>man مان ,</td>
-      <td>to stay resembles even iranic, cf. new persian ''mandan''</td>
-      <td></td>
+      <td>to stayresembles even iranic</td>
+      <td>new persian ''mandan''</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1170,8 +1188,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td>pirr [-dan] پڕ</td>
-      <td>to take off, cf. kurdish a&gt;i</td>
-      <td></td>
+      <td>to take off</td>
+      <td>kurdish a&gt;i</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1188,8 +1206,8 @@ as well as the definition. The same goes for other languages.
       <td>old, earlier</td>
       <td></td>
       <td>kavn/kawn کەڤن/کەون</td>
-      <td>old, cf. m&gt;v but also iranic ''kohan'' which has led to kurdish ''kon''</td>
-      <td></td>
+      <td>old</td>
+      <td>m&gt;v but also iranic ''kohan'' which has led to kurdish ''kon''</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1206,8 +1224,8 @@ as well as the definition. The same goes for other languages.
       <td>under</td>
       <td></td>
       <td>pe? پێ</td>
-      <td>under, foot, cf. even iranic pey</td>
-      <td></td>
+      <td>under, foot</td>
+      <td>even iranic pey</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1224,8 +1242,8 @@ as well as the definition. The same goes for other languages.
       <td>build</td>
       <td></td>
       <td>chê-[kirin], چێ</td>
-      <td>build cf, kurdish d&gt;nil</td>
-      <td></td>
+      <td>build</td>
+      <td>kurdish d&gt;nil</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1241,9 +1259,9 @@ as well as the definition. The same goes for other languages.
       <td>ur</td>
       <td>territory</td>
       <td></td>
-      <td>awari ئەواری .</td>
-      <td>land, country, field, cf.  kurdawari, کوردەواری  / warê me وارێ مە armenian agarak has been suggested as an armenian loan from 'awari'. kurdish has even 'garak' with the same meaning</td>
-      <td></td>
+      <td>awari ئەواری [suffix], wr (wir), war</td>
+      <td>land, country, field</td>
+      <td>kurdawari کوردەواری  / warê me وارێ مە, ur[mia]-wir[mê], ur[fa], armenian agarak has been suggested as an armenian loan from 'awari'kurdish has even 'garak' with the same meaning</td>
       <td>awari</td>
       <td></td>
       <td></td>
@@ -1260,8 +1278,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td>gamaro</td>
-      <td>p&gt;w&gt;m cf kurdish ziman&lt;ziwan&lt;zban</td>
-      <td></td>
+      <td>siege، blockade</td>
+      <td>kurdish p&gt;w&gt;m as in ziman&lt;ziwan&lt;zban</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1440,8 +1458,8 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td>hana هانا</td>
-      <td>come to the aid of, cf kurdish a- &gt;ha-</td>
-      <td></td>
+      <td>come to the aid of</td>
+      <td>kurdish a- &gt;ha-</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1476,8 +1494,8 @@ as well as the definition. The same goes for other languages.
       <td>granary</td>
       <td></td>
       <td>harr هاڕ</td>
-      <td>granary, cf kurdish ha-&lt;-a, notice 'zimharr' زمهاڕ, meaning 'winter granary'</td>
-      <td></td>
+      <td>granary</td>
+      <td>kurdish ha-&lt;-anotice 'zimharr' زمهاڕmeaning 'winter granary'</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1818,8 +1836,8 @@ as well as the definition. The same goes for other languages.
       <td>in front of</td>
       <td></td>
       <td>kin کن</td>
-      <td>in front of, near but cf. also iranic ''kenar''</td>
-      <td></td>
+      <td>in front of, nearbut</td>
+      <td>also iranic ''kenar''</td>
       <td></td>
       <td></td>
       <td></td>
@@ -2088,8 +2106,8 @@ as well as the definition. The same goes for other languages.
       <td>fear</td>
       <td></td>
       <td>tirs ترس</td>
-      <td>fear, but cf. also iranic ''tars''</td>
-      <td></td>
+      <td>fear, but</td>
+      <td>also iranic ''tars''</td>
       <td></td>
       <td></td>
       <td></td>
@@ -2286,8 +2304,8 @@ as well as the definition. The same goes for other languages.
       <td>burnt</td>
       <td></td>
       <td>mêsh مێش</td>
-      <td>burnt ashes cf. ê&lt;a</td>
-      <td></td>
+      <td>burnt ashes</td>
+      <td>ê&lt;a</td>
       <td></td>
       <td></td>
       <td></td>
@@ -2664,8 +2682,8 @@ as well as the definition. The same goes for other languages.
       <td>take away grab</td>
       <td></td>
       <td>rev-[andin]/rif-[andin]</td>
-      <td>take away, grab but cf. also iranian 'robudan', take away, grab</td>
-      <td></td>
+      <td>take away, grabbut, grab</td>
+      <td>also iranian 'robudan' take away</td>
       <td></td>
       <td></td>
       <td></td>
@@ -2718,8 +2736,8 @@ as well as the definition. The same goes for other languages.
       <td>heart</td>
       <td></td>
       <td>dine دنە</td>
-      <td>encourage cf. t &gt; d &amp;amp; sh &gt; nil</td>
-      <td></td>
+      <td>encourage</td>
+      <td>t &gt; d &amp;amp; sh &gt; nil</td>
       <td></td>
       <td></td>
       <td></td>
