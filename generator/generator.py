@@ -46,16 +46,13 @@ def generate_df(file, langs, mux=None, sub_columns=None):
                 temp_def += definition[i]
 
             if len(notes[0]) > 0:
-
-                definition = temp_def.replace(notes[0], '').replace(", cf.", "").replace(", cf", "").\
+                definition = temp_def.replace(notes[0], '').replace(", cf.", "").replace(", cf", ""). \
                     replace("cf.", "").replace("cf,", "")
 
             # if len(final_definition) > 0:
             #     definition = final_definition
             if len(notes) == 0:
                 notes = extract_note_from_text(word, separator="cf")
-
-            print(notes[0])
 
             temp_data = [word, definition, notes[0]]
             lang_dict[lang] = temp_data
@@ -138,4 +135,3 @@ def to_json(idx, line, dictionary):
         dictionary.update(
             {idx: [{"lang": lang, "word": word, "definition": definition}]}
         )
-

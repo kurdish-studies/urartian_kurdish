@@ -18,16 +18,12 @@ if __name__ == '__main__':
     word_dict = generate_df(raw_file, langs=langs, sub_columns=sub_headers)
     dataframe = pd.DataFrame.from_dict(word_dict, orient='index', columns=mux)
     dataframe.fillna("", inplace=True)
-    print(dataframe.head())
+    print(dataframe.head().columns)
     print(80 * '-')
-    for item in dataframe['Kurdish']['glossary'].items():
-        note_phrase = extract_note_from_text(text=item[1], separator="cf")
-        # print("by extractor: ", len(note_phrase))
-        # if item[1].__contains__("cf"):
-        #     print(item)
-    # for item in dataframe['Kurdish']['word'].items():
-    #         if item[1].__contains__("cf"):
-                # print("words: ", item)
+    ur_ku = zip(dataframe['Urartian']['word'], dataframe['Kurdish']['word'])
+
+    for i, item in enumerate(zip(dataframe['Urartian']['word'], dataframe['Kurdish']['word'])):
+        print(i, item)
 
     # export_to_json(dataframe)
     # export_to_html(dataframe)
