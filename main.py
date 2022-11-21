@@ -30,6 +30,20 @@ if __name__ == '__main__':
             src_language = zip(dataframe[language]['word'], dataframe[language]['glossary'])
             tgt_language = zip(dataframe[TARGET_LANGUAGE]['word'], dataframe[TARGET_LANGUAGE]['glossary'],
                                dataframe[TARGET_LANGUAGE]['notes'])
+            language_pair = zip(src_language, tgt_language)
+
+            lang_dict = {}
+            index = 0
+            for i, item in enumerate(language_pair):
+                src_language = item[0]
+                tgt_language = item[1]
+                if src_language[0] and src_language[1]:
+                    word = WordTemplate(language, src_language[0], src_language[1], tgt_language[0], tgt_language[1],
+                                        notes=tgt_language[2])()
+                    lang_dict.update({index: word})
+                    index += 1
+            export_to_json(lang_dict, language)
+
     ur = zip(dataframe['Urartian']['word'], dataframe['Urartian']['glossary'])
     ku = zip(dataframe['Kurdish']['word'], dataframe['Kurdish']['glossary'], dataframe['Kurdish']['notes'])
     ur_ku = zip(ur, ku)

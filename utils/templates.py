@@ -31,7 +31,7 @@ class WordTemplate:
             self.__setattr__(param, temp_dict)
 
         doc = {
-            "src_lang": str(self.src_lang).lower(),
+            # "src_lang": str(self.src_lang).lower(),
             "word": str(self.word).lower(),
             "glossary": str(self.glossary).lower(),
             "kurdish_word": str(self.ku_word).lower(),
