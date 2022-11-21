@@ -16,3 +16,6 @@ def export_to_markdown(dataframe, file_name="export.md"):
 def export_to_json(dataframe):
     with open('json_dict.json', 'w', encoding='utf8') as filehandle:
         json.dump(dataframe, filehandle, indent=4, ensure_ascii=False)
+
+def serialize_dataframe(dataframe, src, tgt):
+    pass

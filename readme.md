@@ -1274,8 +1274,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>66</th>
-      <td>qapqari</td>
-      <td></td>
+      <td>qapqari، qapqarš</td>
+      <td>to seize، to capture</td>
       <td></td>
       <td>gamaro</td>
       <td>siege، blockade</td>
