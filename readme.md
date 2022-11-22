@@ -21,9 +21,6 @@ Urartian as well as Hurrian and Kassite, (also a few Armenian lexical possible r
 <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg">
 <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square">
 <img src="https://img.shields.io/badge/Issues-welcome-brightgreen.svg?style=flat-square">
-
-[//]: # (<img src="https://img.shields.io/github/license/soran-ghaderi/urartian_kurdish.svg">)
-
 </div>
 
 <div>
@@ -45,6 +42,7 @@ Kurdish as a creole language.</p>
 <p>This process is still being developed and the following table needs further modification. Also, the python codes are 
 over-engineered, therefore, need to be generalized to cope with different sources.</p>
 <p>For contributions, please visit the contribution section at the end of the page.</p>
+
 
 
 <p>
@@ -127,7 +125,7 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td>shur شوور</td>
       <td>sword</td>
-      <td></td>
+      <td>i>∅</td>
       <td></td>
       <td></td>
       <td></td>
@@ -145,7 +143,7 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td>qul قول</td>
       <td>foot, leg</td>
-      <td></td>
+      <td>Frequent sound changes: Kurdish k>q, l>r, i>∅</td>
       <td></td>
       <td></td>
       <td></td>
@@ -181,7 +179,7 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td>'kol-[în]' کۆڵین , kêla</td>
       <td>to digg plow</td>
-      <td></td>
+      <td>g>k, u>o</td>
       <td>agul</td>
       <td>carve</td>
       <td></td>
@@ -235,7 +233,7 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td>zaro زارۆ</td>
       <td>kid</td>
-      <td></td>
+      <td>s>z, e>o, l>r</td>
       <td></td>
       <td></td>
       <td></td>
@@ -269,9 +267,9 @@ as well as the definition. The same goes for other languages.
       <td>papi/bab/babani</td>
       <td>mountain top</td>
       <td></td>
-      <td>pope پۆپە / bani بانی</td>
+      <td>pope پۆپە, bani بانی, ban بان</td>
       <td>head mountain top</td>
-      <td></td>
+      <td>sometimes i>∅</td>
       <td></td>
       <td></td>
       <td></td>
@@ -289,7 +287,7 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td>qir قڕ</td>
       <td>kill, slay</td>
-      <td>kurdish a&gt;i</td>
+      <td>kurdish a&gt;i, l>r</td>
       <td></td>
       <td></td>
       <td></td>
@@ -343,7 +341,7 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td>da, دا</td>
       <td>give</td>
-      <td>iranic and other ie languages have a similar lexeme</td>
+      <td>IE languages have a similar lexeme</td>
       <td></td>
       <td></td>
       <td></td>
@@ -359,7 +357,7 @@ as well as the definition. The same goes for other languages.
       <td>xus/hush</td>
       <td>throw</td>
       <td></td>
-      <td>xis-[tin]/hawish-[tin] خستن/هاویشتن</td>
+      <td>xis-[tin] / hawish-[tin] خستن/هاویشتن</td>
       <td>throw</td>
       <td>kurdish u&gt;i</td>
       <td></td>
@@ -379,7 +377,7 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td>karra کەڕا</td>
       <td>rock, stone</td>
-      <td></td>
+      <td>b>∅</td>
       <td></td>
       <td></td>
       <td></td>
@@ -413,9 +411,9 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td>ard ئەرد/هەرد</td>
+      <td>ard ئەرد, hard هەرد</td>
       <td>earth, soil</td>
-      <td>kurdish rt &gt; rd</td>
+      <td>kurdish rt &gt; rd, (also sometimes a- >ha-) </td>
       <td>arte</td>
       <td>earth, soil</td>
       <td></td>
@@ -431,9 +429,9 @@ as well as the definition. The same goes for other languages.
       <td>$erab</td>
       <td>dry</td>
       <td></td>
-      <td>chora چۆڕا</td>
+      <td>chora چۆڕا, choraw</td>
       <td>dry</td>
-      <td></td>
+      <td>b>∅, also b>w</td>
       <td></td>
       <td></td>
       <td></td>
@@ -449,7 +447,7 @@ as well as the definition. The same goes for other languages.
       <td>eue</td>
       <td>and</td>
       <td></td>
-      <td>u ئوو but see even iranic ''ut''</td>
+      <td>u ئوو</td>
       <td>and</td>
       <td></td>
       <td></td>
@@ -467,9 +465,9 @@ as well as the definition. The same goes for other languages.
       <td>tur</td>
       <td>to leave</td>
       <td></td>
-      <td>tor-[an], تۆران to leave</td>
-      <td></td>
-      <td></td>
+      <td>tor-[an], تۆران </td>
+      <td>to leave</td>
+      <td>u>o</td>
       <td></td>
       <td></td>
       <td></td>
@@ -487,7 +485,7 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td>lu-wan لوان</td>
       <td>to go</td>
-      <td></td>
+      <td>Metathesis</td>
       <td></td>
       <td></td>
       <td></td>
@@ -505,7 +503,7 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td>ol ئۆل</td>
       <td>religion</td>
-      <td></td>
+      <td>u>o</td>
       <td></td>
       <td></td>
       <td></td>
@@ -523,7 +521,7 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td>bora بۆرە</td>
       <td>commoner, low-class</td>
-      <td></td>
+      <td>u>o</td>
       <td></td>
       <td></td>
       <td></td>
@@ -539,7 +537,7 @@ as well as the definition. The same goes for other languages.
       <td>xarxar</td>
       <td>destroy</td>
       <td></td>
-      <td>xirxal خرخاڵ</td>
+      <td>xirxal خرخاڵ (ex. بوە بە خرخاڵ -واتە وردوخاڵ بوە)، xal خاڵ as in [wirdu]xal وردوخاڵ</td>
       <td>destroyed</td>
       <td></td>
       <td></td>
@@ -559,7 +557,7 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td>lê لێ</td>
       <td>but</td>
-      <td></td>
+      <td>a>∅</td>
       <td></td>
       <td></td>
       <td></td>
@@ -577,7 +575,7 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td>trê, tirî ترێ</td>
       <td>grape</td>
-      <td>l&gt;r and u&gt;i</td>
+      <td>d>t, l&gt;r and u&gt;i</td>
       <td></td>
       <td></td>
       <td></td>
@@ -595,7 +593,7 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td>kap/qap کاپ/قاپ</td>
       <td>capacity measure</td>
-      <td></td>
+      <td>final i>∅</td>
       <td></td>
       <td></td>
       <td></td>
@@ -613,7 +611,7 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td>hên-an/han-în هانین/هێنان</td>
       <td>to bring</td>
-      <td></td>
+      <td>metathesis of consonants (n and h)</td>
       <td></td>
       <td></td>
       <td></td>
@@ -631,7 +629,7 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td>pîr پیر ,</td>
       <td>toward</td>
-      <td></td>
+      <td>a>î</td>
       <td></td>
       <td></td>
       <td></td>
@@ -648,7 +646,7 @@ as well as the definition. The same goes for other languages.
       <td>water canal</td>
       <td></td>
       <td>pil-û-sk پلووسک</td>
-      <td>rain canal</td>
+      <td>water canal, rain canal</td>
       <td></td>
       <td></td>
       <td></td>
@@ -667,7 +665,7 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td>dan-[an] دانان</td>
       <td>lay down</td>
-      <td></td>
+      <td>t>d (sometimes the vice versa)</td>
       <td></td>
       <td></td>
       <td></td>
@@ -685,7 +683,7 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td>-d- ;</td>
       <td>hit strike [lê] d-[an]</td>
-      <td></td>
+      <td>metathesis and i>∅</td>
       <td>id-</td>
       <td>hit, strike</td>
       <td></td>
@@ -719,7 +717,7 @@ as well as the definition. The same goes for other languages.
       <td>uzgi</td>
       <td>power, strength</td>
       <td></td>
-      <td>wuze وزە</td>
+      <td>wize, wuze وزە</td>
       <td>power, strength</td>
       <td>kurdish u- &gt; w-</td>
       <td></td>
@@ -737,9 +735,9 @@ as well as the definition. The same goes for other languages.
       <td>mari</td>
       <td>lord, horseman</td>
       <td></td>
-      <td>mir میر</td>
+      <td>mîr میر</td>
       <td>lord,  compare also with the semitic ''amir''</td>
-      <td></td>
+      <td>a>î</td>
       <td></td>
       <td></td>
       <td></td>
@@ -757,7 +755,7 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td>chu, چوو</td>
       <td>to go</td>
-      <td>also iranic ''shiyaw''</td>
+      <td>sh>ch</td>
       <td></td>
       <td></td>
       <td></td>
@@ -773,9 +771,9 @@ as well as the definition. The same goes for other languages.
       <td>euri</td>
       <td>lord</td>
       <td></td>
-      <td>hêwir هێور</td>
+      <td>[bi]-wêr ب]وێر] </td>
       <td>brave</td>
-      <td></td>
+      <td>perhaps u>w, i>∅</td>
       <td></td>
       <td></td>
       <td></td>
@@ -793,7 +791,7 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td>oqre ئۆقرە ,</td>
       <td>calm</td>
-      <td></td>
+      <td>less likely</td>
       <td></td>
       <td></td>
       <td></td>
@@ -847,7 +845,7 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td>wêr-an وێران</td>
       <td>to dare</td>
-      <td></td>
+      <td>a>ê, l>r</td>
       <td></td>
       <td></td>
       <td></td>
@@ -865,7 +863,7 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td>zol زۆڵ</td>
       <td>bastard</td>
-      <td></td>
+      <td>e>o</td>
       <td></td>
       <td></td>
       <td></td>
@@ -883,7 +881,7 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td>zal زاڵ</td>
       <td>to shatter the enemies</td>
-      <td></td>
+      <td>e>a</td>
       <td></td>
       <td></td>
       <td></td>
@@ -899,9 +897,9 @@ as well as the definition. The same goes for other languages.
       <td>qarqar</td>
       <td>throat</td>
       <td></td>
-      <td>qurg قورگ</td>
-      <td>throat, compare also with the irano-kurdish garû, and persian galu, there is also another word in kurdish  qurquroska</td>
-      <td></td>
+      <td>qurqur[açke] قوڕقوڕاچکە, qurqur[oske] قوڕقوروسکە, qurg قورگ</td>
+      <td>throat</td>
+      <td>a>u</td>
       <td></td>
       <td></td>
       <td></td>
@@ -918,7 +916,7 @@ as well as the definition. The same goes for other languages.
       <td>piece</td>
       <td></td>
       <td>kut کوت , kut-a کوتان , kud</td>
-      <td>piece to smash to kill</td>
+      <td>piece, to smash, to kill</td>
       <td></td>
       <td>kut/kud</td>
       <td>to make fall, to kill</td>
@@ -937,7 +935,7 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td>qopi قۆپی</td>
       <td>valley, vale, plain</td>
-      <td></td>
+      <td>x>q, b>p</td>
       <td></td>
       <td></td>
       <td></td>
@@ -971,7 +969,7 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td></td>
       <td></td>
-      <td>hulm هوڵم</td>
+      <td>hilm هەڵم</td>
       <td>steam</td>
       <td></td>
       <td>hiuri</td>
@@ -1261,7 +1259,7 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td>awari ئەواری [suffix], wr (wir), war</td>
       <td>land, country, field</td>
-      <td>kurdawari کوردەواری  / warê me وارێ مە, ur[mia]-wir[mê], ur[fa], armenian agarak has been suggested as an armenian loan from 'awari'kurdish has even 'garak' with the same meaning</td>
+      <td>kurdawari (کوردەواری).  Also as in war[ê] [me] (وارێ مە). ur[mia]-wir[mê] (ورمێ، ئورمیە), ur[fa]. Armenian agarak has been suggested as an Armenian loan from 'awari'. Kurdish has even 'garak' (گەڕەک) with the same meaning</td>
       <td>awari</td>
       <td></td>
       <td></td>
@@ -1495,7 +1493,7 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td>harr هاڕ</td>
       <td>granary</td>
-      <td>kurdish ha-&lt;-anotice 'zimharr' زمهاڕmeaning 'winter granary'</td>
+      <td>kurdish ha- &lt; -a notice 'zimharr' زمهاڕ meaning 'winter granary'</td>
       <td></td>
       <td></td>
       <td></td>
