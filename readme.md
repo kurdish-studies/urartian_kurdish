@@ -35,12 +35,17 @@ majority of its known vocab has an identical or at least a closely related peer 
 <p>The pre-Indo-European and pre-Iranic substratum in Kurdish is so remarkable that it would be safe to bring up 
 Kurdish as a creole language.</p>
 
-<p>It is worth mentioning that, for the majority of the words in IE Kurdish, there is a native equivalent (non-IE Kurdish word).</p>
+<p>It is worth mentioning that, for the majority of the words in IE Kurdish, there are multiple native equivalents 
+(non-IE Kurdish words). starting from northwest Kurdistan, the more southeast you go the more IE becomes noticeable, 
+both in terms of its lexemes and grammar. Also, the Kurdish grammar will be covered in a separate study (or maybe 
+here), and it can be seen that it has maintained its structure almost perfectly while from various aspects, it is 
+completely different from Indo-Iranic languages.</p>
 
 
 <h3>Note</h3>
 <p>This process is still being developed and the following table needs further modification. Also, the python codes are 
 over-engineered, therefore, need to be generalized to cope with different sources.</p>
+
 <p>For contributions, please visit the contribution section at the end of the page.</p>
 
 
