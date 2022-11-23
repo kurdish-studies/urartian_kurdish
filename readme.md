@@ -984,12 +984,12 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>50</th>
-      <td>$ue</td>
+      <td>šue</td>
       <td>river, lake</td>
       <td></td>
       <td>chom/gom چۆم/گۆم</td>
       <td>rive lake</td>
-      <td></td>
+      <td>u>o</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1043,7 +1043,7 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td>na, نا</td>
       <td>no; there is also a similar equivalent in iranic</td>
-      <td></td>
+      <td>metathesis</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1078,7 +1078,7 @@ as well as the definition. The same goes for other languages.
       <td>land</td>
       <td></td>
       <td>-wan وان</td>
-      <td>suffix used after place-names</td>
+      <td>suffix used after protecting place-names</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1095,9 +1095,9 @@ as well as the definition. The same goes for other languages.
       <td>kulune</td>
       <td>side</td>
       <td></td>
-      <td>qulin-chk قولینچک/ qurne قوڕنە</td>
+      <td>qurne قوڕنە، qulin-ch قولینچ</td>
       <td>side, corner</td>
-      <td></td>
+      <td>l>r</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1113,9 +1113,9 @@ as well as the definition. The same goes for other languages.
       <td>man</td>
       <td>to stay</td>
       <td></td>
-      <td>man مان ,</td>
-      <td>to stayresembles even iranic</td>
-      <td>new persian ''mandan''</td>
+      <td>man مان</td>
+      <td>to stay</td>
+      <td>exactly remained intact however it resembles even iranic new persian "mandan".</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1169,7 +1169,7 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td>patal پاتاڵ</td>
       <td>cattle</td>
-      <td></td>
+      <td>closer to hurrian: d>t, r>l</td>
       <td>pedari</td>
       <td>cattle</td>
       <td></td>
@@ -1182,10 +1182,10 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>61</th>
-      <td>par, to take off</td>
+      <td>par</td>
+      <td>to take off</td>
       <td></td>
-      <td></td>
-      <td>pirr [-dan] پڕ</td>
+      <td>pir [-dan] پڕ</td>
       <td>to take off</td>
       <td>kurdish a&gt;i</td>
       <td></td>
@@ -1205,7 +1205,7 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td>kavn/kawn کەڤن/کەون</td>
       <td>old</td>
-      <td>m&gt;v but also iranic ''kohan'' which has led to kurdish ''kon''</td>
+      <td>m&gt;v and m>w; but also iranic "kohan"</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1218,12 +1218,12 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>63</th>
-      <td>pe?</td>
+      <td>pi</td>
       <td>under</td>
       <td></td>
       <td>pe? پێ</td>
       <td>under, foot</td>
-      <td>even iranic pey</td>
+      <td>also iranic pey</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1241,7 +1241,7 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td>chê-[kirin], چێ</td>
       <td>build</td>
-      <td>kurdish d&gt;nil</td>
+      <td>ending d&gt;∅</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1258,7 +1258,7 @@ as well as the definition. The same goes for other languages.
       <td>territory</td>
       <td></td>
       <td>awari ئەواری [suffix], wr (wir), war</td>
-      <td>land, country, field</td>
+      <td>land, country, field، (also there)</td>
       <td>kurdawari (کوردەواری).  Also as in war[ê] [me] (وارێ مە). ur[mia]-wir[mê] (ورمێ، ئورمیە), ur[fa]. Armenian agarak has been suggested as an Armenian loan from 'awari'. Kurdish has even 'garak' (گەڕەک) with the same meaning</td>
       <td>awari</td>
       <td></td>
@@ -1311,8 +1311,8 @@ as well as the definition. The same goes for other languages.
       <td>quldi</td>
       <td>uninhabited</td>
       <td></td>
-      <td>kawil</td>
-      <td>کاول annihilate,destruction</td>
+      <td>kawil کاول</td>
+      <td>annihilate, destruction</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1330,7 +1330,7 @@ as well as the definition. The same goes for other languages.
       <td>give</td>
       <td></td>
       <td>ar-</td>
-      <td>give, dialectal as in slêmanî, for example  ''bi-ar-ê''  بیەرێ ''give him''</td>
+      <td>give, dialectal as in slêmanî, for example  [bi-] ar [-ê]  بیەرێ "give him"</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1349,7 +1349,7 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td>ture تووڕە</td>
       <td>angry</td>
-      <td></td>
+      <td>close in context</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1366,8 +1366,8 @@ as well as the definition. The same goes for other languages.
       <td>desire</td>
       <td></td>
       <td>awat ئاوات , aw-in ئەوین</td>
-      <td>desire to love</td>
-      <td></td>
+      <td>desire, to love</td>
+      <td>b>w</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1383,9 +1383,9 @@ as well as the definition. The same goes for other languages.
       <td>ada</td>
       <td>again</td>
       <td></td>
-      <td>idi ئیدی</td>
+      <td>îdî ئیدی</td>
       <td>another, anymore</td>
-      <td></td>
+      <td>a>î</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1402,8 +1402,8 @@ as well as the definition. The same goes for other languages.
       <td>year</td>
       <td></td>
       <td>sal ساڵ</td>
-      <td>year, but iranian ''sard'', new persian has also ''sal''</td>
-      <td></td>
+      <td>year, but iranian "sard", new persian has also ''sal''</td>
+      <td>sh>s, i>∅</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1416,12 +1416,12 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>74</th>
-      <td></td>
+      <td>šeh-i/eri/e</td>
       <td></td>
       <td></td>
       <td>zhiyar ژیار</td>
       <td>living</td>
-      <td></td>
+      <td>sh>zh</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1452,12 +1452,12 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>76</th>
-      <td></td>
-      <td></td>
+      <td>arnu-ia</td>
+      <td>come to the aid of</td>
       <td></td>
       <td>hana هانا</td>
       <td>come to the aid of</td>
-      <td>kurdish a- &gt;ha-</td>
+      <td>a- &gt;ha-</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1475,7 +1475,7 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td>rûx-[an] رووخان</td>
       <td>to destroy</td>
-      <td></td>
+      <td>l>r</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1491,9 +1491,9 @@ as well as the definition. The same goes for other languages.
       <td>'are</td>
       <td>granary</td>
       <td></td>
-      <td>harr هاڕ</td>
+      <td>har هاڕ</td>
       <td>granary</td>
-      <td>kurdish ha- &lt; -a notice 'zimharr' زمهاڕ meaning 'winter granary'</td>
+      <td>a- > -ha, notice 'zimharr' زمهاڕ meaning 'winter granary'</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1542,11 +1542,11 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>81</th>
-      <td>pi$ushe</td>
+      <td>pisuše</td>
       <td>joy</td>
       <td></td>
       <td>pishû پشوو</td>
-      <td>holyday, vacation</td>
+      <td>rest, holyday, vacation</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1560,11 +1560,11 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>82</th>
-      <td></td>
-      <td></td>
+      <td>sheshe</td>
+      <td>six</td>
       <td></td>
       <td>shesh شەش</td>
-      <td>six, but it is the same even in iranic</td>
+      <td>six, but it is the same in IE</td>
       <td></td>
       <td>sheshe</td>
       <td>six</td>
@@ -1583,7 +1583,7 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td>ezidi ئێزیدی</td>
       <td>name of a native religion in kurdistan</td>
-      <td></td>
+      <td>**unsatisfactory (just a guess)**</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1601,7 +1601,7 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td>yari یاری</td>
       <td>name of a native religion in kurdistan</td>
-      <td></td>
+      <td>**unsatisfactory (just a guess)**</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1619,7 +1619,7 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td>alewi ئالەوی</td>
       <td>name of a native religion in kurdistan</td>
-      <td></td>
+      <td>**unsatisfactory (even less likely)**</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1632,14 +1632,14 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>86</th>
-      <td>and hurrian /-i/, /-iye/</td>
+      <td>/-i/, /-iye/</td>
       <td>his, her, its</td>
       <td></td>
       <td>/-i/, /-y/ ی</td>
       <td>his, her, its</td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>/-i/, /-iye/</td>
+      <td>his, her, its</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1650,8 +1650,8 @@ as well as the definition. The same goes for other languages.
     </tr>
     <tr>
       <th>87</th>
-      <td></td>
-      <td></td>
+      <td>/-v/</td>
+      <td>your</td>
       <td></td>
       <td>/-w/ و</td>
       <td>your</td>
@@ -1673,7 +1673,7 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td>wuchan وچان</td>
       <td>rest, reprieve</td>
-      <td></td>
+      <td>sh>ch, u>w</td>
       <td></td>
       <td></td>
       <td></td>
@@ -4988,6 +4988,42 @@ as well as the definition. The same goes for other languages.
       <td></td>
       <td>xiríti</td>
       <td>trench</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>273</th>
+      <td>tu</td>
+      <td>you</td>
+      <td></td>
+      <td>to</td>
+      <td>you</td>
+      <td>u>o, (Also, IE to)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>274</th>
+      <td>ate</td>
+      <td>father</td>
+      <td></td>
+      <td>tate</td>
+      <td>father</td>
+      <td></td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
