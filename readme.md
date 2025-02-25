@@ -4,59 +4,214 @@
 
 <div align="center">
 <h2>Abstract</h2>
-<p>
-This study presents the etymologies of Kurdish words as having a possible <b>Hurro-Urartian</b> origin 
-(as opposed to Indo-European) <a href="http://landofkarda.blogspot.com/2011/04/hurro-urartian-substratum-in-kurdish-2.html" target="_blank">[1]</a>.
-As far as we know, there is no meticulous research conducted in this regard. Due to a lack of interest in Kurdish 
-studies, the majority of the previous works are generally considering the IE substratum of the Kurdish language while 
-neglecting the HU root. Apart from <a href="https://en.wikipedia.org/wiki/Pseudoscientific_language_comparison" target="_blank">pseudo-scientific</a> language 
-comparisons, which aim at setting up unrealistic postulations and naive historical correlations between languages 
-(sometimes used to justify other assertions), this article demonstrates genetic relatedness between Kurdish and 
-Urartian as well as Hurrian and Kassite, (also a few Armenian lexical possible relations).
+<p style="width: 80%; text-align: justify;">
+This study investigates the etymological connections between Kurdish and the Hurro-Urartian languages, a topic that has received limited attention in linguistic scholarship. 
+While previous studies have predominantly focused on the Indo-European substratum of Kurdish (MacKenzie, 1961; Windfuhr, 2009), 
+we seek to explore the potential Hurro-Urartian roots of Kurdish words, as suggested by online discussions ("Hurro-Urartian Substratum in Kurdish," 2011). 
+Drawing on comparative linguistic analysis and historical evidence, it assesses the hypothesis of a Hurro-Urartian substratum in Kurdish, alongside possible lexical affinities with Hurrian, Kassite, and Armenian languages.
+This study aims to contribute to a more nuanced understanding of Kurdish linguistic origins by examining specific examples of lexical correspondences and discussing the implications for our understanding of language contact and genetic relationships in the region.
 </p>
 </div>
 
-<div align="center">
+<div name="body" style="width: 100%; text-align: justify;">
+
+<div name="introduction">
+<h2>Introduction</h2>
+
+<p>
+The Urartian language, classified as part of the Hurro-Urartian language family, was the primary language of the 
+inhabitants of the Iron Age kingdom of Urartu, also known as the Kingdom of Van (Biaini or Biainili in Urartian). 
+This kingdom was geographically centered around Lake Van in the region of northern Kurdistan (southeastern Anatolia). 
+The earliest clear evidence of Urartian dates back to the 9th century BCE, and its written form ceased following the 
+fall of the Urartian kingdom in 585 BCE. Despite the limited knowledge of the Urartian language, with only about 300 
+known words, a significant portion of its vocabulary shows identical or closely related counterparts in modern Kurdish.
+
+</p>
+<p>
+This observation is particularly noteworthy when considering the pre-Indo-European and pre-Iranic substratum in Kurdish.
+The presence of such a substratum is so pronounced that it invites speculation about the potential creole nature of 
+Kurdish. Kurdish culture and identity have been shaped by a complex history of migrations and interactions with other 
+civilizations, as noted by historians like Mehrdad Izady, who highlight the long-standing presence of the Kurds in the 
+region (Izady, 1992). However, this hypothesis requires further investigation and is part of an ongoing study aimed at 
+exploring the linguistic origins and evolution of Kurdish. This research is not yet complete and seeks to contribute 
+to a deeper understanding of Kurdish linguistic history by examining the etymological connections between Kurdish 
+and the Hurro-Urartian languages.
+</p>
+</div>
+
+<div name="references">
+<h2>References</h2>
+<ul>
+    <li>MacKenzie, D. N. (1961). <i>Kurdish Dialect Studies</i>. London: Oxford University Press.</li>
+    <li>Windfuhr, G. (Ed.). (2009). <i>The Iranian Languages</i>. London and New York: Routledge. ISBN 978-0-415-62235-6.</li>    
+    <li>Hurro-Urartian Substratum in Kurdish. (2011, April). <i>Land of Karda Blog</i>. http://landofkarda.blogspot.com/2011/04/hurro-urartian-substratum-in-kurdish-2.html</li>
+    <li>Izady, M. R. (1992). <i>The Kurds: A Concise Handbook</i>. Taylor & Francis, published in association with Crane Russak, Washington, D.C.</li>
+</ul>
+</div>
+
+<div name="badges" align="center">
 <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
 <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg">
 <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square">
 <img src="https://img.shields.io/badge/Issues-welcome-brightgreen.svg?style=flat-square">
 </div>
 
-<div>
-<p>Urartian language is considered a Hurro-Urartian language which was the main language of the inhabitants of the
-Iron Age kingdom of Urartu (a.k.a. Kingdom of Van) (Biaini or Biainili in Urartian). The kingdom was a grographical 
-region centered around lake Van in the northern Kurdistan (south-eastern Anatolia).
 
-The first clear evidence in the 9th century BCE, Urartian came to an end to be written following the fall of the 
-Urartian kingdom in 585 BCE. There is not much known from the Urartian language (about 300 words), though, the 
-majority of its known vocab has an identical or at least a closely related peer in modern Kurdish.</p>
+<div name="appendix">
+<h2>Appendix</h2>
+<p>
+It is noteworthy that for many Indo-European (IE) words in Kurdish, there exist multiple native equivalents 
+(non-IE Kurdish words). Geographically, moving from northwest to southeast Kurdistan, the influence of Indo-European 
+becomes more pronounced, both in terms of lexemes and grammatical structures. A detailed examination of Kurdish 
+grammar will be addressed in a forthcoming study, where it will be observed that despite maintaining its structural 
+integrity, Kurdish diverges significantly from Indo-Iranic languages in various aspects.
+</p>
 
-<p>The pre-Indo-European and pre-Iranic substratum in Kurdish is so remarkable that it would be safe to bring up 
-Kurdish as a creole language.</p>
+<div name="notes">
+<h3>Important Note 🚨</h3>
+<p>
+This research is ongoing, and the accompanying table requires further refinement. Additionally, the Python scripts 
+used in this study are currently over-engineered and need to be generalized to accommodate diverse data sources.
+</p>
 
-<p>It is worth mentioning that, for the majority of the words in IE Kurdish, there are multiple native equivalents 
-(non-IE Kurdish words). starting from northwest Kurdistan, the more southeast you go the more IE becomes noticeable, 
-both in terms of its lexemes and grammar. Also, the Kurdish grammar will be covered in a separate study (or maybe 
-here), and it can be seen that it has maintained its structure almost perfectly while from various aspects, it is 
-completely different from Indo-Iranic languages.</p>
+<div name="contributions">
+<p>
 
+We invite scholars and linguists to contribute to this ongoing study by helping to standardize the vocabulary across 
+various languages, including Kurdish (both Latin-based and Arabic-based writing systems), Urartian, Hurrian, Kassite, 
+and Armenian. The goal is to ensure that all words are represented in a consistent and standardized form to facilitate 
+accurate comparisons.
+</p>
 
-<h3>Note</h3>
-<p>This process is still being developed and the following table needs further modification. Also, the python codes are 
-over-engineered, therefore, need to be generalized to cope with different sources.</p>
+<h3>Key Areas for Contribution</h3>
+<p>
+  We invite scholars and linguists to contribute to this ongoing study by focusing on the following key areas:
+</p>
 
-<p>For contributions, please visit the contribution section at the end of the page.</p>
+<ul>
+    <li><b>Standardization of Kurdish Vocabulary:</b><br>
+        Ensure that Kurdish words are consistently transcribed using the Latin alphabet (e.g., "ئەڵێ" as "Ełê") and 
+        provide phonetic transcriptions. Harmonize spellings across different Kurdish dialects.
+    </li>
+    <li><b>Consistency Across Writing Systems:</b><br>
+        Convert all words to a standardized writing system (e.g., Latin for Kurdish) to facilitate comparison. 
+        Provide notes on any significant variations in pronunciation or spelling across different writing systems.
+    </li>
+    <li><b>IPA Transcriptions for Consistency (High Priority): 🚨 </b><br>
+        Write the International Phonetic Alphabet (IPA) transcription for all words to ensure consistency and facilitate comparison. For example:
+        <ul>
+            <li><b>ale</b> (he says): /æle:/ (Urartian), /æɫe:/ (Kurdish)</li>
+            <li><b>shuri</b> (sword): /ʃu:ri:/ (Urartian), /ʃuːr/ (Kurdish)</li>
+            <li><b>kuri</b> (foot, leg): /kuri/ (Urartian), /qul/ (Kurdish)</li>
+            <li><b>xur</b> (deep): /xu:r/ (Urartian), /xuːr/, /qu:ł/, /ku:r/ (Kurdish)</li>
+            <li><b>agul</b> (to dig): /ægul/ or (/æqu:ł/?) (Hurrian), /koł[-iːn]/ also /keːł[-an]/ (or /qu:ł/ -> deep) (Kurdish)</li>
+        </ul>
+    </li>
+    <li><b>Morphological Transcriptions:</b><br>
+        Provide morphological notes to highlight any relevant grammatical features.
+    </li>
+    <li><b>Cross-Linguistic Comparisons:</b><br>
+        Identify and document cognates or similar words across the languages included in the study. Offer insights 
+        into historical linguistic relationships based on these comparisons.
+    </li>
+    <li>
+        <b>Add references to all words and their translation:</b><br>
+        Provide references for each word and its translation to ensure the accuracy and reliability of the data.
+    </li>
+    <li>
+        <b>Sound Change Analysis:</b><br>
+        Identify sound changes across languages, particularly by focusing on the historical periods during which these changes 
+        occurred including identifying series of sound changes and their temporal contexts.</li>
+        <ul>
+        <li><b>ale (he says): /æle:/ (Urartian), /æɫe:/ (Kurdish)</b>
+            <ul>
+                <li><b>Sound Change:</b> Palatalization or velarization of the vowel or consonant environment.</li>
+            </ul>
+        </li>
+        <li><b>shuri (sword): /ʃu:ri:/ (Urartian), /ʃuːr/ (Kurdish)</b>
+            <ul>
+                <li><b>Sound Change:</b> Reduction or loss of the final vowel (`/i:/` to no vowel).</li>
+                <li><b>Explanation:</b> This simplification could be part of a broader trend in Kurdish to reduce final vowels.</li>
+            </ul>
+        </li>
+        <li><b>kuri (foot, leg): /kuri/ (Urartian), /qul/ (Kurdish)</b>
+            <ul>
+                <li><b>Sound Change:</b> Shift from `/k/` to `/q/`, /x/ or /g/, /l/ to /r/, and vowel reduction.</li>
+                <li><b>Explanation:</b> These sound changes can be found frequently in many words in both directions.</li>
+            </ul>
+        </li>
+        <li><b>xur (deep): /xu:r/ (Urartian), /xuːr/, /qu:ł/, /ku:r/ (Kurdish)</b>
+            <ul>
+                <li><b>Sound Change:</b> Variation in the initial consonant (`/x/` to `/q/` or `/k/`), and potential vowel lengthening.</li>
+                <li><b>Explanation:</b> These sound changes can be found frequently in many words in both directions.</li>
+            </ul>
+        </li>
+        <li><b>agul (to dig): /ægul/ or (/æqu:ł/?) (Hurrian), /koł[-iːn]/ and /keːł[-an]/ (also /qu:ł/ meaning deep) (Kurdish)</b>
+            <ul>
+                <li><b>Sound Change:</b> Shift from `/æ/` to `/o/` or `/e/`, and from `/g/` to `/k/` or `/q/`.</li>
+                <li><b>Explanation:</b> These sound changes can be found frequently in many words in both directions.</li>
+            </ul>
+        </li>
+    </ul>
+</ul>
+<p>For further discussion or assistance, please feel free to reach out to us via email at soran.gdr.cs@gmail.com</p>
+<p>
 
+For more, please refer to the contributions section at the end of this document.
+</p>
 
+<h2>Exploring Linguistic Connections</h2>
+
+<p>Here's an example of how linguistic resources can be used to explore word relationships:</p>
+
+<p>For instance, I found the following new word and its potential connections using online dictionaries and databases:</p>
+
+<ul>
+    <li><strong>Word:</strong> gazuli</li>
+    <li><strong>Meaning:</strong> beautiful, excellent</li>
+    <li><strong>Kurdish equivalents:</strong>
+        <ul>
+            <li>gozeł (گۆزەڵ): /gozɛł/</li>
+            <li>kejał (کەژال): /kejaɫ/</li>
+            <li>qoz (قۆز): /qoz/</li>
+            <li>qazax (قازاخ): /qa:za:x/</li>
+            <li>qişt (قشت): /qiʃt/?</li>
+            <li>qiştîle (قشتیلە): /qiʃtiːle/?</li>
+        </ul>
+    </li>
+    <li><strong>Sources:</strong>
+        <ul>
+            <li><strong>Urartian:</strong> <a href="http://www.palaeolexicon.com/Word/Show/27657/">http://www.palaeolexicon.com/Word/Show/27657/</a></li>
+            <li><strong>Kurdish:</strong>
+                <ul>
+                    <li><a href="https://bradost.net/ferheng/index.php?detail=&name=%DA%AF%DB%86%D8%B2&fid=21&st=&md=&ed=&sr=&p=1">https://bradost.net/ferheng/index.php?detail=&name=%DA%AF%DB%86%D8%B2&fid=21&st=&md=&ed=&sr=&p=1</a></li>
+                    <li><a href="https://lex.vejin.net/ck/search?t=%DA%AF%DB%86%D8%B2%DB%95%DA%B5&f=0">https://lex.vejin.net/ck/search?t=%DA%AF%DB%86%D8%B2%DB%95%DA%B5&f=0</a></li>
+                    <li><a href="https://ferhengikaawa.com/index.php">https://ferhengikaawa.com/index.php</a></li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+</ul>
+<p>You can find many more words and explore their etymologies using a variety of online resources, including:</p>
+
+<ul>
+    <li><a href="https://starlingdb.org/cgi-bin/main.cgi?flags=eygtnnl">StarLing Database</a>: A comprehensive database of etymological dictionaries.</li>
+    <li><a href="https://en.wiktionary.org/wiki/Appendix:Hurro-Urartian_word_lists#cite_note-Kassian2010-1">Wiktionary Appendix: Hurro-Urartian word lists</a></li>
+    <li><a href="https://lex.vejin.net/ck/search?t=add&f=0">Vejinlex Dictionaries</a>: Kurdish dictionaries.</li>
+    <li><a href="https://ferhengikaawa.com/index.php">Ferhengî Kaawa</a>: Another Kurdish dictionary.</li>
+    <li><a href="https://cdli.mpiwg-berlin.mpg.de/articles/cdlj/2014-4">CDLI - Cuneiform Digital Library Initiative</a>: A digital library of cuneiform texts.</li>
+    <li><a href="https://www.palaeolexicon.com/Languages#">Palaeolexicon</a>: A dictionary of ancient languages.</li>
+</ul>
+
+</div>
 
 <p>
-The table gives the Urartian word first, followed by its definition, and then the morphological transcription in Kurdish
-as well as the definition. The same goes for other languages.
+The table presents the Urartian word, followed by its definition, and then provides the morphological transcription 
+in Kurdish along with its definition. This format is applied consistently across all languages included in the study.
 </p>
 </div>
 
-<div>
+<div name="table">
 <table border="1" class="dataframe">
   <thead>
     <tr>
@@ -5041,7 +5196,12 @@ as well as the definition. The same goes for other languages.
 </table>
 </div>
 
-<div>
+</div> # end of appendix
+
+
+</div> # end of the body div
+
+<div name="contribute">
 <h2>Call for Contributions</h2>
 <p>We welcome your expertise and enthusiasm!</p>
 
@@ -5058,19 +5218,11 @@ as well as the definition. The same goes for other languages.
 </ul>
 </div>
 
-<div>
-<h2>Don't forget to give the project a star ⭐! Thanks again!</h2>
+<div name="call-for-action">
+<h2>It'd be nice to consider giving the project a star ⭐! for more visibility! Thanks!</h2>
 </div>
 
-<div>
-<h2>References</h2>
-<p>
-[1] Within Land of Kurda 2011, hurro-urartian-substratum-in-kurdish-2, accessed 11 November 2022, 
-http://landofkarda.blogspot.com/2011/04/hurro-urartian-substratum-in-kurdish-2.html.
-</p>
-</div>
-
-<div>
+<div name="license">
 <h2>License</h2>
 <p>Released under the <a href="https://github.com/soran-ghaderi/urartian_kurdish/blob/master/license.txt">BSD license</a></p>
 </div>

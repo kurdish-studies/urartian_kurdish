@@ -1,0 +1,4825 @@
+[
+    {
+        "source_word": "Ale",
+        "source_lang": "Urartian",
+        "source_def": "he says",
+        "kurdish_word": [
+            {"word": "Ałê", "ipa_transcription": "/ɑːle/"},
+            "ئەڵێ"
+        ],
+        "kurdish_def": [
+            "he",
+            "says"
+        ],
+        "sound_changes": [],
+        "notes": ["Note: The Kurdish word is likely written as ئەڵێ in the Sorani script.", ]
+    },
+    {
+        "source_word": "Shuri",
+        "source_lang": "Urartian",
+        "source_def": "sword",
+        "kurdish_word": [
+            "Shur",
+            "شوور"
+        ],
+        "kurdish_def": [
+            "sword"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "Sowr",
+        "source_lang": "Armenian",
+        "source_def": "",
+        "kurdish_word": [
+            "Shur",
+            "شوور"
+        ],
+        "kurdish_def": [
+            "sword"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "sword"
+        ]
+    },
+    {
+        "source_word": "Kuri",
+        "source_lang": "Urartian",
+        "source_def": "foot, leg",
+        "kurdish_word": [
+            "Qul",
+            "قول"
+        ],
+        "kurdish_def": [
+            "foot,",
+            "leg"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "xur",
+        "source_lang": "Urartian",
+        "source_def": "deep",
+        "kurdish_word": [
+            "xur/qul/kur",
+            "خووڕ/قوول/کوور"
+        ],
+        "kurdish_def": [
+            "deep),"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "agul",
+        "source_lang": "Hurrian",
+        "source_def": "carve",
+        "kurdish_word": [
+            "'kol-[în]'",
+            "کۆڵین",
+            ":"
+        ],
+        "kurdish_def": [
+            "to",
+            "digg),",
+            "kêla:",
+            "(plow"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "to digg",
+            "plow"
+        ]
+    },
+    {
+        "source_word": "shini",
+        "source_lang": "Urartian",
+        "source_def": "you, plural",
+        "kurdish_word": [
+            "hin",
+            "هین/هون"
+        ],
+        "kurdish_def": [
+            "you,",
+            "plural,",
+            "cf.",
+            "sh&gt;h",
+            "a",
+            "regular",
+            "sound",
+            "change",
+            "in",
+            "Kurdish"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "you, plural, cf. sh&gt;h a regular sound change in Kurdish"
+        ]
+    },
+    {
+        "source_word": "apa",
+        "source_lang": "Urartian",
+        "source_def": "he/she/it",
+        "kurdish_word": [
+            "awa,",
+            "aw/ava,",
+            "av",
+            "cf.",
+            "Kurdish",
+            "p&gt;w",
+            "and",
+            "p&gt;v",
+            "ئەوە"
+        ],
+        "kurdish_def": [
+            "he/she/it"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "Sale",
+        "source_lang": "Urartian",
+        "source_def": "kid",
+        "kurdish_word": [
+            "Zaro",
+            "زارۆ"
+        ],
+        "kurdish_def": [
+            "kid"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "jar",
+        "source_lang": "Armenian",
+        "source_def": "he-goat",
+        "kurdish_word": [
+            "Zaro",
+            "زارۆ"
+        ],
+        "kurdish_def": [
+            "kid"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "kid"
+        ]
+    },
+    {
+        "source_word": "tali",
+        "source_lang": "Urartian",
+        "source_def": "stick",
+        "kurdish_word": [
+            "têla"
+        ],
+        "kurdish_def": [
+            "stick,",
+            "cf.",
+            "Kurdish",
+            "a&gt;ê"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "stick, cf. Kurdish a&gt;ê"
+        ]
+    },
+    {
+        "source_word": "papi/bab/babani",
+        "source_lang": "Urartian",
+        "source_def": "mountain top",
+        "kurdish_word": [
+            "pope",
+            "پۆپە"
+        ],
+        "kurdish_def": [
+            "head)/",
+            "bani",
+            "بانی",
+            "(mountain",
+            "top"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "head"
+        ]
+    },
+    {
+        "source_word": "qal/kar",
+        "source_lang": "Urartian",
+        "source_def": "kill/slay, subjugate",
+        "kurdish_word": [
+            "qir",
+            "قڕ"
+        ],
+        "kurdish_def": [
+            "kill,",
+            "slay,",
+            "cf",
+            "Kurdish",
+            "a&gt;i"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "kill, slay, cf Kurdish a&gt;i"
+        ]
+    },
+    {
+        "source_word": "shur",
+        "source_lang": "Hurrian",
+        "source_def": "war",
+        "kurdish_word": [
+            "sher",
+            "شەڕ"
+        ],
+        "kurdish_def": [
+            "war"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "bidia",
+        "source_lang": "Urartian",
+        "source_def": "turn",
+        "kurdish_word": [
+            "bada-n",
+            "بادان"
+        ],
+        "kurdish_def": [
+            "turn"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "da",
+        "source_lang": "Urartian",
+        "source_def": "give",
+        "kurdish_word": [
+            "da,",
+            "دا"
+        ],
+        "kurdish_def": [
+            "give,",
+            "Iranic",
+            "and",
+            "other",
+            "IE",
+            "languages",
+            "have",
+            "a",
+            "similar",
+            "lexeme"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "give, Iranic and other IE languages have a similar lexeme"
+        ]
+    },
+    {
+        "source_word": "xus/hush",
+        "source_lang": "Urartian",
+        "source_def": "throw",
+        "kurdish_word": [
+            "xis-[tin]/hawish-[tin]",
+            "خستن/هاویشتن"
+        ],
+        "kurdish_def": [
+            "throw,",
+            "cf",
+            "Kurdish",
+            "u&gt;i"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "throw, cf Kurdish u&gt;i"
+        ]
+    },
+    {
+        "source_word": "karbe",
+        "source_lang": "Urartian",
+        "source_def": "rock, stone",
+        "kurdish_word": [
+            "karra",
+            "کەڕا"
+        ],
+        "kurdish_def": [
+            "rock,",
+            "stone"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "qar",
+        "source_lang": "Armenian",
+        "source_def": "rock, stone",
+        "kurdish_word": [
+            "karra",
+            "کەڕا"
+        ],
+        "kurdish_def": [
+            "rock,",
+            "stone"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "quira",
+        "source_lang": "Urartian",
+        "source_def": "earth, dust",
+        "kurdish_word": [
+            "qur,",
+            "xol",
+            "قوڕ/خۆڵ"
+        ],
+        "kurdish_def": [
+            "earth,",
+            "dust"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "arte",
+        "source_lang": "Hurrian",
+        "source_def": "earth, soil",
+        "kurdish_word": [
+            "ard",
+            "ئەرد/هەرد"
+        ],
+        "kurdish_def": [
+            "earth,",
+            "soil,",
+            "cf",
+            "Kurdish",
+            "rt",
+            "&gt;",
+            "rd"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "earth, soil, cf Kurdish rt &gt; rd"
+        ]
+    },
+    {
+        "source_word": "$erab",
+        "source_lang": "Urartian",
+        "source_def": "dry",
+        "kurdish_word": [
+            "chora",
+            "چۆڕا"
+        ],
+        "kurdish_def": [
+            "dry"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "caraw",
+        "source_lang": "Armenian",
+        "source_def": "dry",
+        "kurdish_word": [
+            "chora",
+            "چۆڕا"
+        ],
+        "kurdish_def": [
+            "dry"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "eue",
+        "source_lang": "Urartian",
+        "source_def": "and",
+        "kurdish_word": [
+            "u",
+            "ئوو"
+        ],
+        "kurdish_def": [
+            "and)",
+            "but",
+            "see",
+            "even",
+            "Iranic",
+            "''ut''"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "tur",
+        "source_lang": "Urartian",
+        "source_def": "to leave",
+        "kurdish_word": [
+            "tor-[an],",
+            "تۆران",
+            "to",
+            "leave"
+        ],
+        "kurdish_def": [
+            ""
+        ],
+        "sound_changes": [],
+        "notes": [
+            "to leave"
+        ]
+    },
+    {
+        "source_word": "ul",
+        "source_lang": "Urartian",
+        "source_def": "to go",
+        "kurdish_word": [
+            "lu-wan",
+            "لوان"
+        ],
+        "kurdish_def": [
+            "to",
+            "go"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "ulhu",
+        "source_lang": "Urartian",
+        "source_def": "order",
+        "kurdish_word": [
+            "ol",
+            "ئۆل"
+        ],
+        "kurdish_def": [
+            "religion"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "religion"
+        ]
+    },
+    {
+        "source_word": "bura",
+        "source_lang": "Urartian",
+        "source_def": "slave, servant",
+        "kurdish_word": [
+            "bora",
+            "بۆرە"
+        ],
+        "kurdish_def": [
+            "commoner,",
+            "low-class"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "commoner, low-class"
+        ]
+    },
+    {
+        "source_word": "xarxar",
+        "source_lang": "Urartian",
+        "source_def": "destroy",
+        "kurdish_word": [
+            "xirxal",
+            "خرخاڵ"
+        ],
+        "kurdish_def": [
+            "destroyed"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "destroyed"
+        ]
+    },
+    {
+        "source_word": "ale",
+        "source_lang": "Urartian",
+        "source_def": "but",
+        "kurdish_word": [
+            "lê",
+            "لێ"
+        ],
+        "kurdish_def": [
+            "but"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "duli",
+        "source_lang": "Urartian",
+        "source_def": "grape",
+        "kurdish_word": [
+            "trê,",
+            "tirî",
+            "ترێ"
+        ],
+        "kurdish_def": [
+            "grape,",
+            "cf.",
+            "l&gt;r",
+            "and",
+            "u&gt;i"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "grape, cf. l&gt;r and u&gt;i"
+        ]
+    },
+    {
+        "source_word": "toli",
+        "source_lang": "Armenian",
+        "source_def": "grape",
+        "kurdish_word": [
+            "trê,",
+            "tirî",
+            "ترێ"
+        ],
+        "kurdish_def": [
+            "grape,",
+            "cf.",
+            "l&gt;r",
+            "and",
+            "u&gt;i"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "grape, cf. l&gt;r and u&gt;i"
+        ]
+    },
+    {
+        "source_word": "kapi",
+        "source_lang": "Urartian",
+        "source_def": "capacity measure",
+        "kurdish_word": [
+            "kap/qap",
+            "کاپ/قاپ"
+        ],
+        "kurdish_def": [
+            "capacity",
+            "measure"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "nah",
+        "source_lang": "Urartian",
+        "source_def": "to bring",
+        "kurdish_word": [
+            "hên-an/han-în",
+            "هانین/هێنان"
+        ],
+        "kurdish_def": [
+            "to",
+            "bring"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "pare",
+        "source_lang": "Urartian",
+        "source_def": "toward",
+        "kurdish_word": [
+            "pîr",
+            "پیر"
+        ],
+        "kurdish_def": [
+            "toward),"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "pile",
+        "source_lang": "Urartian",
+        "source_def": "water canal",
+        "kurdish_word": [
+            "pil-û-sk",
+            "پلووسک"
+        ],
+        "kurdish_def": [
+            "rain",
+            "canal"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "rain canal"
+        ]
+    },
+    {
+        "source_word": "tan",
+        "source_lang": "Urartian",
+        "source_def": "lay down",
+        "kurdish_word": [
+            "dan-[an]",
+            "دانان"
+        ],
+        "kurdish_def": [
+            "lay",
+            "down"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "id-",
+        "source_lang": "Hurrian",
+        "source_def": "hit, strike",
+        "kurdish_word": [
+            "-d-"
+        ],
+        "kurdish_def": [
+            "hit",
+            "strike);",
+            "([lê]",
+            "d-[an]"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "hit strike",
+            "[lê] d-[an]"
+        ]
+    },
+    {
+        "source_word": "teq-",
+        "source_lang": "Urartian",
+        "source_def": "to thump, to break",
+        "kurdish_word": [
+            "teq-[în]",
+            "تەقین"
+        ],
+        "kurdish_def": [
+            "to",
+            "thump,",
+            "to",
+            "break"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "uzgi",
+        "source_lang": "Urartian",
+        "source_def": "power, strength",
+        "kurdish_word": [
+            "wuze",
+            "وزە"
+        ],
+        "kurdish_def": [
+            "power,",
+            "strength,",
+            "cf.",
+            "Kurdish",
+            "u-",
+            "&gt;",
+            "w-"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "power, strength, cf. Kurdish u- &gt; w-"
+        ]
+    },
+    {
+        "source_word": "mari",
+        "source_lang": "Urartian",
+        "source_def": "lord, horseman",
+        "kurdish_word": [
+            "mir",
+            "میر"
+        ],
+        "kurdish_def": [
+            "lord,",
+            "compare",
+            "also",
+            "with",
+            "the",
+            "Semitic",
+            "''Amir''"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "lord, compare also with the Semitic ''Amir''"
+        ]
+    },
+    {
+        "source_word": "shu/shia",
+        "source_lang": "Urartian",
+        "source_def": "to go",
+        "kurdish_word": [
+            "chu,",
+            "چوو"
+        ],
+        "kurdish_def": [
+            "to",
+            "go,",
+            "cf.",
+            "also",
+            "Iranic",
+            "''shiyaw''"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "to go, cf. also Iranic ''shiyaw''"
+        ]
+    },
+    {
+        "source_word": "euri",
+        "source_lang": "Urartian",
+        "source_def": "lord",
+        "kurdish_word": [
+            "hêwir",
+            "هێور"
+        ],
+        "kurdish_def": [
+            "brave"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "brave"
+        ]
+    },
+    {
+        "source_word": "xarari",
+        "source_lang": "Urartian",
+        "source_def": "calm",
+        "kurdish_word": [
+            "oqre",
+            "ئۆقرە"
+        ],
+        "kurdish_def": [
+            "calm),"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "",
+        "source_lang": "Armenian",
+        "source_def": "",
+        "kurdish_word": [
+            "oqre",
+            "ئۆقرە"
+        ],
+        "kurdish_def": [
+            "calm),"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "calm"
+        ]
+    },
+    {
+        "source_word": "zar",
+        "source_lang": "Urartian",
+        "source_def": "orchard",
+        "kurdish_word": [
+            "zar",
+            "زار"
+        ],
+        "kurdish_def": [
+            "orchard"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "car",
+        "source_lang": "Armenian",
+        "source_def": "tree",
+        "kurdish_word": [
+            "zar",
+            "زار"
+        ],
+        "kurdish_def": [
+            "orchard"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "orchard"
+        ]
+    },
+    {
+        "source_word": "ur",
+        "source_lang": "Urartian",
+        "source_def": "to place down",
+        "kurdish_word": [
+            "wer-[in],",
+            "وەرین"
+        ],
+        "kurdish_def": [
+            "to",
+            "place",
+            "down,",
+            "cf.",
+            "Kurdish",
+            "u-&gt;",
+            "w-"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "to place down, cf. Kurdish u-&gt; w-"
+        ]
+    },
+    {
+        "source_word": "wal,",
+        "source_lang": "Urartian",
+        "source_def": "to win",
+        "kurdish_word": [
+            "wêr-an",
+            "وێران"
+        ],
+        "kurdish_def": [
+            "to",
+            "dare"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "to dare"
+        ]
+    },
+    {
+        "source_word": "zelbi",
+        "source_lang": "Urartian",
+        "source_def": "descendant",
+        "kurdish_word": [
+            "zol",
+            "زۆڵ"
+        ],
+        "kurdish_def": [
+            "bastard"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "bastard"
+        ]
+    },
+    {
+        "source_word": "zeld,",
+        "source_lang": "Urartian",
+        "source_def": "to shatter the enemies",
+        "kurdish_word": [
+            "zal",
+            "زاڵ"
+        ],
+        "kurdish_def": [
+            "to",
+            "shatter",
+            "the",
+            "enemies"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "qarqar",
+        "source_lang": "Urartian",
+        "source_def": "throat",
+        "kurdish_word": [
+            "qurg",
+            "قورگ"
+        ],
+        "kurdish_def": [
+            "throat,",
+            "compare",
+            "also",
+            "with",
+            "the",
+            "Irano-Kurdish",
+            "garû,",
+            "and",
+            "Persian",
+            "galu,",
+            "there",
+            "is",
+            "also",
+            "another",
+            "word",
+            "in",
+            "",
+            "qurquroska"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "throat, compare also with the Irano-Kurdish garû, and Persian galu, there is also another word in  qurquroska"
+        ]
+    },
+    {
+        "source_word": "kut/kud",
+        "source_lang": "Hurrian",
+        "source_def": "to make fall, to kill",
+        "kurdish_word": [
+            "kut",
+            "کوت"
+        ],
+        "kurdish_def": [
+            "piece),",
+            "kut-a",
+            "کوتان",
+            "(to",
+            "smash),",
+            "kud",
+            "(to",
+            "kill"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "piece",
+            "to smash",
+            "to kill"
+        ]
+    },
+    {
+        "source_word": "qot",
+        "source_lang": "Urartian",
+        "source_def": "piece",
+        "kurdish_word": [
+            "kut",
+            "کوت"
+        ],
+        "kurdish_def": [
+            "piece),",
+            "kut-a",
+            "کوتان",
+            "(to",
+            "smash),",
+            "kud",
+            "(to",
+            "kill"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "to smash",
+            "to kill"
+        ]
+    },
+    {
+        "source_word": "xubi",
+        "source_lang": "Urartian",
+        "source_def": "valley",
+        "kurdish_word": [
+            "qopi",
+            "قۆپی"
+        ],
+        "kurdish_def": [
+            "valley,",
+            "vale,",
+            "plain"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "valley, vale, plain"
+        ]
+    },
+    {
+        "source_word": "xare",
+        "source_lang": "Urartian",
+        "source_def": "to march, to raid",
+        "kurdish_word": [
+            "xar",
+            "غار"
+        ],
+        "kurdish_def": [
+            "to",
+            "march,",
+            "to",
+            "raid"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "Hiuri",
+        "source_lang": "Hurrian",
+        "source_def": "smoke",
+        "kurdish_word": [
+            "Hulm",
+            "هوڵم"
+        ],
+        "kurdish_def": [
+            "steam"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "steam"
+        ]
+    },
+    {
+        "source_word": "$ue",
+        "source_lang": "Urartian",
+        "source_def": "river, lake",
+        "kurdish_word": [
+            "chom/gom",
+            "چۆم/گۆم"
+        ],
+        "kurdish_def": [
+            "rive",
+            "lake"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "rive lake"
+        ]
+    },
+    {
+        "source_word": "cov",
+        "source_lang": "Armenian",
+        "source_def": "lake",
+        "kurdish_word": [
+            "chom/gom",
+            "چۆم/گۆم"
+        ],
+        "kurdish_def": [
+            "rive",
+            "lake"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "rive lake"
+        ]
+    },
+    {
+        "source_word": "tiv",
+        "source_lang": "Hurrian",
+        "source_def": "word",
+        "kurdish_word": [
+            "diw-an",
+            "دوان"
+        ],
+        "kurdish_def": [
+            "to",
+            "speak"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "to speak"
+        ]
+    },
+    {
+        "source_word": "tiw",
+        "source_lang": "Urartian",
+        "source_def": "to speak",
+        "kurdish_word": [
+            "diw-an",
+            "دوان"
+        ],
+        "kurdish_def": [
+            "to",
+            "speak"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "abeli/aweli",
+        "source_lang": "Urartian",
+        "source_def": "attach, increase",
+        "kurdish_word": [
+            "awale/awela",
+            "ئاواڵە/ئاوەڵا"
+        ],
+        "kurdish_def": [
+            "open"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "open"
+        ]
+    },
+    {
+        "source_word": "an,",
+        "source_lang": "Urartian",
+        "source_def": "no",
+        "kurdish_word": [
+            "na,",
+            "نا"
+        ],
+        "kurdish_def": [
+            "no;",
+            "there",
+            "is",
+            "also",
+            "a",
+            "similar",
+            "equivalent",
+            "in",
+            "Iranic"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "no; there is also a similar equivalent in Iranic"
+        ]
+    },
+    {
+        "source_word": "ari-beri",
+        "source_lang": "Urartian",
+        "source_def": "",
+        "kurdish_word": [
+            "birin",
+            "برن"
+        ],
+        "kurdish_def": [
+            "to",
+            "carry,",
+            "there",
+            "is",
+            "also",
+            "a",
+            "similar",
+            "equivalent",
+            "in",
+            "Iranic"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "to carry, there is also a similar equivalent in Iranic"
+        ]
+    },
+    {
+        "source_word": "ewani/ebani",
+        "source_lang": "Urartian",
+        "source_def": "land",
+        "kurdish_word": [
+            "-wan",
+            "وان"
+        ],
+        "kurdish_def": [
+            "suffix",
+            "used",
+            "after",
+            "place-names"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "suffix used after place-names"
+        ]
+    },
+    {
+        "source_word": "kulune",
+        "source_lang": "Urartian",
+        "source_def": "side",
+        "kurdish_word": [
+            "qulin-chk",
+            "قولینچک/",
+            "qurne",
+            "قوڕنە"
+        ],
+        "kurdish_def": [
+            "side,",
+            "corner"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "side, corner"
+        ]
+    },
+    {
+        "source_word": "koln",
+        "source_lang": "Armenian",
+        "source_def": "",
+        "kurdish_word": [
+            "qulin-chk",
+            "قولینچک/",
+            "qurne",
+            "قوڕنە"
+        ],
+        "kurdish_def": [
+            "side,",
+            "corner"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "side, corner"
+        ]
+    },
+    {
+        "source_word": "man",
+        "source_lang": "Urartian",
+        "source_def": "to stay",
+        "kurdish_word": [
+            "man",
+            "مان"
+        ],
+        "kurdish_def": [
+            "to",
+            "stay),",
+            "(resembles",
+            "even",
+            "Iranic,",
+            "cf.",
+            "New",
+            "Persian",
+            "''mandan''"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "resembles even Iranic, cf. New Persian ''mandan''"
+        ]
+    },
+    {
+        "source_word": "mana &lt;Iranic",
+        "source_lang": "Urartian",
+        "source_def": "measure unite, mina",
+        "kurdish_word": [
+            "man&lt;Iranic"
+        ],
+        "kurdish_def": [
+            "measure",
+            "unite,",
+            "mina"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "me",
+        "source_lang": "Urartian",
+        "source_def": "prohibitive particle",
+        "kurdish_word": [
+            "me",
+            "مە"
+        ],
+        "kurdish_def": [
+            "prohibitive",
+            "particle"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "pahi",
+        "source_lang": "Urartian",
+        "source_def": "cattle",
+        "kurdish_word": [
+            "patal",
+            "پاتاڵ"
+        ],
+        "kurdish_def": [
+            "cattle"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "pedari",
+        "source_lang": "Hurrian",
+        "source_def": "cattle",
+        "kurdish_word": [
+            "patal",
+            "پاتاڵ"
+        ],
+        "kurdish_def": [
+            "cattle"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "badar",
+        "source_lang": "Kassite",
+        "source_def": "bull, cattle",
+        "kurdish_word": [
+            "patal",
+            "پاتاڵ"
+        ],
+        "kurdish_def": [
+            "cattle"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "cattle"
+        ]
+    },
+    {
+        "source_word": "paxre",
+        "source_lang": "Armenian",
+        "source_def": "",
+        "kurdish_word": [
+            "patal",
+            "پاتاڵ"
+        ],
+        "kurdish_def": [
+            "cattle"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "cattle"
+        ]
+    },
+    {
+        "source_word": "par, to take off",
+        "source_lang": "Urartian",
+        "source_def": "",
+        "kurdish_word": [
+            "pirr",
+            "[-dan]",
+            "پڕ"
+        ],
+        "kurdish_def": [
+            "to",
+            "take",
+            "off,",
+            "cf.",
+            "Kurdish",
+            "a&gt;i"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "to take off, cf. Kurdish a&gt;i"
+        ]
+    },
+    {
+        "source_word": "kamn",
+        "source_lang": "Urartian",
+        "source_def": "old, earlier",
+        "kurdish_word": [
+            "kavn/kawn",
+            "کەڤن/کەون"
+        ],
+        "kurdish_def": [
+            "old,",
+            "cf.",
+            "m&gt;v",
+            "but",
+            "also",
+            "Iranic",
+            "''kohan''",
+            "which",
+            "has",
+            "led",
+            "to",
+            "Kurdish",
+            "''kon''"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "old, cf. m&gt;v but also Iranic ''kohan'' which has led to Kurdish ''kon''"
+        ]
+    },
+    {
+        "source_word": "pe?",
+        "source_lang": "Urartian",
+        "source_def": "under",
+        "kurdish_word": [
+            "pe?",
+            "پێ"
+        ],
+        "kurdish_def": [
+            "under,",
+            "foot,",
+            "cf.",
+            "even",
+            "Iranic",
+            "pey"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "under, foot, cf. even Iranic pey"
+        ]
+    },
+    {
+        "source_word": "shid",
+        "source_lang": "Urartian",
+        "source_def": "build",
+        "kurdish_word": [
+            "chê-[kirin],",
+            "چێ"
+        ],
+        "kurdish_def": [
+            "build",
+            "cf,",
+            "kurdish",
+            "d&gt;nil"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "build cf, kurdish d&gt;nil"
+        ]
+    },
+    {
+        "source_word": "awari",
+        "source_lang": "Hurrian",
+        "source_def": "",
+        "kurdish_word": [
+            "awari",
+            "ئەواری"
+        ],
+        "kurdish_def": [
+            "land,",
+            "country,",
+            "field,",
+            "cf.",
+            "kurdawari,",
+            "کوردەواری",
+            "/",
+            "warê",
+            "me",
+            "وارێ",
+            "مە)",
+            "(Armenian",
+            "agarak",
+            "has",
+            "been",
+            "suggested",
+            "as",
+            "an",
+            "Armenian",
+            "loan",
+            "from",
+            "'awari'.",
+            "Kurdish",
+            "has",
+            "even",
+            "'garak'",
+            "with",
+            "the",
+            "same",
+            "meaning)."
+        ],
+        "sound_changes": [],
+        "notes": [
+            "land, country, field, cf. kurdawari, کوردەواری / warê me وارێ مە",
+            "Armenian agarak has been suggested as an Armenian loan from 'awari'. Kurdish has even 'garak' with the same meaning"
+        ]
+    },
+    {
+        "source_word": "ur",
+        "source_lang": "Urartian",
+        "source_def": "territory",
+        "kurdish_word": [
+            "awari",
+            "ئەواری"
+        ],
+        "kurdish_def": [
+            "land,",
+            "country,",
+            "field,",
+            "cf.",
+            "kurdawari,",
+            "کوردەواری",
+            "/",
+            "warê",
+            "me",
+            "وارێ",
+            "مە)",
+            "(Armenian",
+            "agarak",
+            "has",
+            "been",
+            "suggested",
+            "as",
+            "an",
+            "Armenian",
+            "loan",
+            "from",
+            "'awari'.",
+            "Kurdish",
+            "has",
+            "even",
+            "'garak'",
+            "with",
+            "the",
+            "same",
+            "meaning)."
+        ],
+        "sound_changes": [],
+        "notes": [
+            "land, country, field, cf. kurdawari, کوردەواری / warê me وارێ مە",
+            "Armenian agarak has been suggested as an Armenian loan from 'awari'. Kurdish has even 'garak' with the same meaning"
+        ]
+    },
+    {
+        "source_word": "qapqari",
+        "source_lang": "Urartian",
+        "source_def": "",
+        "kurdish_word": [
+            "gamaro"
+        ],
+        "kurdish_def": [
+            "p&gt;w&gt;m",
+            "cf",
+            "Kurdish",
+            "ziman&lt;ziwan&lt;zban"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "p&gt;w&gt;m cf Kurdish ziman&lt;ziwan&lt;zban"
+        ]
+    },
+    {
+        "source_word": "sher",
+        "source_lang": "Urartian",
+        "source_def": "hide",
+        "kurdish_word": [
+            "sher/shar",
+            "شێر/وەشارتن"
+        ],
+        "kurdish_def": [
+            "hide"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "quldi",
+        "source_lang": "Urartian",
+        "source_def": "uninhabited",
+        "kurdish_word": [
+            "kawil"
+        ],
+        "kurdish_def": [
+            "کاول)",
+            "(annihilate,destruction"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "کاول",
+            "annihilate,destruction"
+        ]
+    },
+    {
+        "source_word": "ar-",
+        "source_lang": "Urartian",
+        "source_def": "give",
+        "kurdish_word": [
+            "ar-"
+        ],
+        "kurdish_def": [
+            "give,",
+            "dialectal",
+            "as",
+            "in",
+            "Slêmanî,",
+            "for",
+            "example:",
+            "''bi-ar-ê'':",
+            "بیەرێ",
+            "''give",
+            "him''"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "give, dialectal as in Slêmanî, for example: ''bi-ar-ê'': بیەرێ ''give him''"
+        ]
+    },
+    {
+        "source_word": "ture",
+        "source_lang": "Urartian",
+        "source_def": "destroy",
+        "kurdish_word": [
+            "ture",
+            "تووڕە"
+        ],
+        "kurdish_def": [
+            "angry"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "angry"
+        ]
+    },
+    {
+        "source_word": "aba",
+        "source_lang": "Urartian",
+        "source_def": "desire",
+        "kurdish_word": [
+            "awat",
+            "ئاوات"
+        ],
+        "kurdish_def": [
+            "desire),",
+            "aw-in",
+            "ئەوین",
+            "(to",
+            "love"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "to love"
+        ]
+    },
+    {
+        "source_word": "ada",
+        "source_lang": "Urartian",
+        "source_def": "again",
+        "kurdish_word": [
+            "idi",
+            "ئیدی"
+        ],
+        "kurdish_def": [
+            "another,",
+            "anymore"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "another, anymore"
+        ]
+    },
+    {
+        "source_word": "shal-i",
+        "source_lang": "Urartian",
+        "source_def": "year",
+        "kurdish_word": [
+            "sal",
+            "ساڵ"
+        ],
+        "kurdish_def": [
+            "year,",
+            "but",
+            "Iranian",
+            "''sard'',",
+            "New",
+            "Persian",
+            "has",
+            "also",
+            "''sal''"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "year, but Iranian ''sard'', New Persian has also ''sal''"
+        ]
+    },
+    {
+        "source_word": "tari",
+        "source_lang": "Armenian",
+        "source_def": "",
+        "kurdish_word": [
+            "sal",
+            "ساڵ"
+        ],
+        "kurdish_def": [
+            "year,",
+            "but",
+            "Iranian",
+            "''sard'',",
+            "New",
+            "Persian",
+            "has",
+            "also",
+            "''sal''"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "year, but Iranian ''sard'', New Persian has also ''sal''"
+        ]
+    },
+    {
+        "source_word": "lak-",
+        "source_lang": "Urartian",
+        "source_def": "to destroy",
+        "kurdish_word": [
+            "Rûx-[an]",
+            "رووخان"
+        ],
+        "kurdish_def": [
+            "to",
+            "destroy"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "'are",
+        "source_lang": "Urartian",
+        "source_def": "granary",
+        "kurdish_word": [
+            "harr",
+            "هاڕ"
+        ],
+        "kurdish_def": [
+            "granary,",
+            "cf",
+            "Kurdish",
+            "ha-&lt;-a,",
+            "notice",
+            "'zimharr'",
+            "زمهاڕ,",
+            "meaning",
+            "'winter",
+            "granary'"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "granary, cf Kurdish ha-&lt;-a, notice 'zimharr' زمهاڕ, meaning 'winter granary'"
+        ]
+    },
+    {
+        "source_word": "ieshti",
+        "source_lang": "Urartian",
+        "source_def": "here",
+        "kurdish_word": [
+            "hêsthte",
+            "هێشتە"
+        ],
+        "kurdish_def": [
+            "now"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "now"
+        ]
+    },
+    {
+        "source_word": "meshe",
+        "source_lang": "Urartian",
+        "source_def": "part, tribute, share",
+        "kurdish_word": [
+            "mûche",
+            "مووچە"
+        ],
+        "kurdish_def": [
+            "part,",
+            "tribute,",
+            "share"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "pi$ushe",
+        "source_lang": "Urartian",
+        "source_def": "joy",
+        "kurdish_word": [
+            "pishû",
+            "پشوو"
+        ],
+        "kurdish_def": [
+            "holyday,",
+            "vacation"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "holyday, vacation"
+        ]
+    },
+    {
+        "source_word": "sheshe",
+        "source_lang": "Hurrian",
+        "source_def": "six",
+        "kurdish_word": [
+            "shesh",
+            "شەش"
+        ],
+        "kurdish_def": [
+            "six,",
+            "but",
+            "it",
+            "is",
+            "the",
+            "same",
+            "even",
+            "in",
+            "Iranic"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "six, but it is the same even in Iranic"
+        ]
+    },
+    {
+        "source_word": "izidu",
+        "source_lang": "Urartian",
+        "source_def": "admonish, command",
+        "kurdish_word": [
+            "ezidi",
+            "ئێزیدی"
+        ],
+        "kurdish_def": [
+            "name",
+            "of",
+            "a",
+            "native",
+            "religion",
+            "in",
+            "Kurdistan"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "name of a native religion in Kurdistan"
+        ]
+    },
+    {
+        "source_word": "yarani",
+        "source_lang": "urartian",
+        "source_def": "kind of cultic building, altar",
+        "kurdish_word": [
+            "yari",
+            "یاری"
+        ],
+        "kurdish_def": [
+            "name",
+            "of",
+            "a",
+            "native",
+            "religion",
+            "in",
+            "Kurdistan"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "name of a native religion in Kurdistan"
+        ]
+    },
+    {
+        "source_word": "aleu",
+        "source_lang": "Urartian",
+        "source_def": "dignity",
+        "kurdish_word": [
+            "alewi",
+            "ئالەوی"
+        ],
+        "kurdish_def": [
+            "name",
+            "of",
+            "a",
+            "native",
+            "religion",
+            "in",
+            "Kurdistan"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "name of a native religion in Kurdistan"
+        ]
+    },
+    {
+        "source_word": "/-i/, /-iye/",
+        "source_lang": "Urartian and Hurrian",
+        "source_def": "his, her, its",
+        "kurdish_word": [
+            "/-i/,",
+            "/-y/",
+            "ی"
+        ],
+        "kurdish_def": [
+            "his,",
+            "her,",
+            "its"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "/-v/",
+        "source_lang": "Hurrian",
+        "source_def": "your",
+        "kurdish_word": [
+            "/-w/",
+            "و"
+        ],
+        "kurdish_def": [
+            "your"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "ushanu",
+        "source_lang": "Urartian",
+        "source_def": "award, bestow, feel affection for",
+        "kurdish_word": [
+            "wuchan",
+            "وچان"
+        ],
+        "kurdish_def": [
+            "rest,",
+            "reprieve"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "award, bestow, feel affection for",
+            "rest, reprieve"
+        ]
+    },
+    {
+        "source_word": "napahia",
+        "source_lang": "Urartian",
+        "source_def": "submission, bondage, domestication",
+        "kurdish_word": [
+            "nawi",
+            "نەوی"
+        ],
+        "kurdish_def": [
+            "low,",
+            "a",
+            "low",
+            "level,",
+            "position",
+            "or",
+            "degree),",
+            "(p&gt;w"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "low, a low level, position or degree",
+            "p&gt;w"
+        ]
+    },
+    {
+        "source_word": "tur",
+        "source_lang": "Urartian",
+        "source_def": "defeat, destroy",
+        "kurdish_word": [
+            "dor-",
+            "دۆڕ"
+        ],
+        "kurdish_def": [
+            "defeat"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "defeat"
+        ]
+    },
+    {
+        "source_word": "sal-zi",
+        "source_lang": "Urartian",
+        "source_def": "steep, abrupt",
+        "kurdish_word": [
+            "sila",
+            "سڵا"
+        ],
+        "kurdish_def": [
+            "height"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "height"
+        ]
+    },
+    {
+        "source_word": "sil-e",
+        "source_lang": "Urartian",
+        "source_def": "woman, doughter",
+        "kurdish_word": [
+            "selar",
+            "سەلار"
+        ],
+        "kurdish_def": [
+            "mistress",
+            "of",
+            "the",
+            "house,",
+            "beautiful",
+            "woman)",
+            "(note",
+            "''Selardi'',",
+            "a",
+            "lunar",
+            "goddess",
+            "of",
+            "Urartu"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "mistress of the house, beautiful woman",
+            "note ''Selardi'', a lunar goddess of Urartu"
+        ]
+    },
+    {
+        "source_word": "lutu",
+        "source_lang": "Urartian",
+        "source_def": "woman",
+        "kurdish_word": [
+            "lute",
+            "لووتە"
+        ],
+        "kurdish_def": [
+            "quoquettish",
+            "woman"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "quoquettish woman"
+        ]
+    },
+    {
+        "source_word": "uldie",
+        "source_lang": "Urartian",
+        "source_def": "vineyard",
+        "kurdish_word": [
+            "lote",
+            "لۆتە"
+        ],
+        "kurdish_def": [
+            "grapes",
+            "hanged",
+            "in",
+            "order",
+            "to",
+            "be",
+            "sun",
+            "dried",
+            "in",
+            "a",
+            "vineyard"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "grapes hanged in order to be sun dried in a vineyard"
+        ]
+    },
+    {
+        "source_word": "nikidu",
+        "source_lang": "Urartian",
+        "source_def": "water",
+        "kurdish_word": [
+            "niqdo/niqût",
+            "نقووت/نقدۆ"
+        ],
+        "kurdish_def": [
+            "water",
+            "infiltration,",
+            "water",
+            "dropping,",
+            "water",
+            "penetration),",
+            "(plus",
+            "some",
+            "other",
+            "cognates",
+            "of",
+            "the",
+            "word"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "water infiltration, water dropping, water penetration",
+            "plus some other cognates of the word"
+        ]
+    },
+    {
+        "source_word": "kan/kain",
+        "source_lang": "Urartian",
+        "source_def": "in front of",
+        "kurdish_word": [
+            "kin",
+            "کن"
+        ],
+        "kurdish_def": [
+            "in",
+            "front",
+            "of,",
+            "near)",
+            "(but",
+            "cf.",
+            "also",
+            "Iranic",
+            "''kenar''"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "in front of, near",
+            "but cf. also Iranic ''kenar''"
+        ]
+    },
+    {
+        "source_word": "haš-ia:",
+        "source_lang": "Urartian",
+        "source_def": "be interested in",
+        "kurdish_word": [
+            "haz",
+            "حەز"
+        ],
+        "kurdish_def": [
+            "be",
+            "interested",
+            "in,",
+            "love,",
+            "like"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "be interested in, love, like"
+        ]
+    },
+    {
+        "source_word": "d-u-:",
+        "source_lang": "Urartian",
+        "source_def": "do, cause to do",
+        "kurdish_word": [
+            "da/di:",
+            "ده/د"
+        ],
+        "kurdish_def": [
+            "do,",
+            "cause",
+            "to",
+            "do,",
+            "used",
+            "as",
+            "a",
+            "preffix",
+            "for",
+            "verbs"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "do, cause to do, used as a preffix for verbs"
+        ]
+    },
+    {
+        "source_word": "shalur",
+        "source_lang": "Urartian",
+        "source_def": "medlar",
+        "kurdish_word": [
+            "shalor",
+            "شەلۆر"
+        ],
+        "kurdish_def": [
+            "nectarine"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "nectarine"
+        ]
+    },
+    {
+        "source_word": "salor",
+        "source_lang": "Armenian",
+        "source_def": "plum) (clearly borrowed via Kurdish",
+        "kurdish_word": [
+            "shalor",
+            "شەلۆر"
+        ],
+        "kurdish_def": [
+            "nectarine"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "plum",
+            "clearly borrowed via Kurdish",
+            "nectarine"
+        ]
+    },
+    {
+        "source_word": "mure",
+        "source_lang": "Urartian",
+        "source_def": "house",
+        "kurdish_word": [
+            "mal",
+            "ماڵ"
+        ],
+        "kurdish_def": [
+            "house"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "urishi",
+        "source_lang": "Urartian",
+        "source_def": "weapon",
+        "kurdish_word": [
+            "hereshe",
+            "هەڕەشە"
+        ],
+        "kurdish_def": [
+            "threat),",
+            "/(there",
+            "is",
+            "also",
+            "''huruzhim'':",
+            "هوروژم",
+            "attack"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "threat",
+            "there is also ''huruzhim'': هوروژم attack"
+        ]
+    },
+    {
+        "source_word": "shini",
+        "source_lang": "Hurrian",
+        "source_def": "two",
+        "kurdish_word": [
+            "shingil",
+            "شنگڵ"
+        ],
+        "kurdish_def": [
+            "twin,",
+            "twin",
+            "fruit"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "twin, twin fruit"
+        ]
+    },
+    {
+        "source_word": "egur-hu",
+        "source_lang": "Urartian",
+        "source_def": "free",
+        "kurdish_word": [
+            "xorayi",
+            "خۆرایی"
+        ],
+        "kurdish_def": [
+            "free"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "bad-gul",
+        "source_lang": "Urartian",
+        "source_def": "surround",
+        "kurdish_word": [
+            "bawe-xulê",
+            "باوەخولێ"
+        ],
+        "kurdish_def": [
+            "turn",
+            "around,",
+            "also",
+            "a",
+            "kids",
+            "game"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "turn around, also a kids game"
+        ]
+    },
+    {
+        "source_word": "aish-ti",
+        "source_lang": "Urartian",
+        "source_def": "leap, jump",
+        "kurdish_word": [
+            "hej-an",
+            "هەژان"
+        ],
+        "kurdish_def": [
+            "quake"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "quake"
+        ]
+    },
+    {
+        "source_word": "ibirani",
+        "source_lang": "Urartian",
+        "source_def": "whole, complete, full",
+        "kurdish_word": [
+            "pirani",
+            "پڕانی"
+        ],
+        "kurdish_def": [
+            "majority"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "majority"
+        ]
+    },
+    {
+        "source_word": "hinzur",
+        "source_lang": "Hurrian",
+        "source_def": "apple? pear?",
+        "kurdish_word": [
+            "hencor",
+            "هەنجۆر"
+        ],
+        "kurdish_def": [
+            "unripe",
+            "melon"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "unripe melon"
+        ]
+    },
+    {
+        "source_word": "kut-u",
+        "source_lang": "Urartian",
+        "source_def": "reach",
+        "kurdish_word": [
+            ""
+        ],
+        "kurdish_def": [
+            "geh&lt;*ged)",
+            "گەهشتن/گەیشتن",
+            "(reach"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "geh&lt;*ged"
+        ]
+    },
+    {
+        "source_word": "ai/ay:",
+        "source_lang": "Urartian",
+        "source_def": "look, take care",
+        "kurdish_word": [
+            "aw-ir",
+            "ئاوڕ"
+        ],
+        "kurdish_def": [
+            "look"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "look"
+        ]
+    },
+    {
+        "source_word": "di/erasia",
+        "source_lang": "Urartian",
+        "source_def": "fear",
+        "kurdish_word": [
+            "tirs",
+            "ترس"
+        ],
+        "kurdish_def": [
+            "fear,",
+            "but",
+            "cf.",
+            "also",
+            "Iranic",
+            "''tars''"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "fear, but cf. also Iranic ''tars''"
+        ]
+    },
+    {
+        "source_word": "Ti/er-usi, measure for liquid",
+        "source_lang": "Urartian",
+        "source_def": "",
+        "kurdish_word": [
+            "Telîs?تەلیس",
+            "measure",
+            "of",
+            "unit"
+        ],
+        "kurdish_def": [
+            ""
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "ben",
+        "source_lang": "Hurrian",
+        "source_def": "",
+        "kurdish_word": [
+            "minal",
+            "مناڵ"
+        ],
+        "kurdish_def": [
+            "child"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "child"
+        ]
+    },
+    {
+        "source_word": "ban",
+        "source_lang": "Kassite",
+        "source_def": "",
+        "kurdish_word": [
+            "minal",
+            "مناڵ"
+        ],
+        "kurdish_def": [
+            "child"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "child"
+        ]
+    },
+    {
+        "source_word": "nadz",
+        "source_lang": "Kassite",
+        "source_def": "shade",
+        "kurdish_word": [
+            "nisê",
+            "نسێ"
+        ],
+        "kurdish_def": [
+            "shade"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "ulam",
+        "source_lang": "Kassite",
+        "source_def": "son, child",
+        "kurdish_word": [
+            "law",
+            "لاو"
+        ],
+        "kurdish_def": [
+            "young",
+            "boy"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "young boy"
+        ]
+    },
+    {
+        "source_word": "alaue",
+        "source_lang": "Urartian",
+        "source_def": "man",
+        "kurdish_word": [
+            "law",
+            "لاو"
+        ],
+        "kurdish_def": [
+            "young",
+            "boy"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "young boy"
+        ]
+    },
+    {
+        "source_word": "çugi",
+        "source_lang": "Hurrian",
+        "source_def": "",
+        "kurdish_word": [
+            "chuk",
+            "چووک"
+        ],
+        "kurdish_def": [
+            "small"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "small"
+        ]
+    },
+    {
+        "source_word": "tsugi",
+        "source_lang": "Kassite",
+        "source_def": "",
+        "kurdish_word": [
+            "chuk",
+            "چووک"
+        ],
+        "kurdish_def": [
+            "small"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "small"
+        ]
+    },
+    {
+        "source_word": "shiye",
+        "source_lang": "Hurrian",
+        "source_def": "watery",
+        "kurdish_word": [
+            "she",
+            "شە"
+        ],
+        "kurdish_def": [
+            "moisture"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "moisture"
+        ]
+    },
+    {
+        "source_word": "zainua",
+        "source_lang": "Urartian",
+        "source_def": "high",
+        "kurdish_word": [
+            "zinar",
+            "زنار"
+        ],
+        "kurdish_def": [
+            "high",
+            "cliff,",
+            "high",
+            "boulder"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "high cliff, high boulder"
+        ]
+    },
+    {
+        "source_word": "puhi",
+        "source_lang": "Hurrian",
+        "source_def": "nose",
+        "kurdish_word": [
+            ""
+        ],
+        "kurdish_def": [
+            "kepû)",
+            "کەپۆ",
+            "(nose"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "kepû"
+        ]
+    },
+    {
+        "source_word": "shepuiaru",
+        "source_lang": "Urartian",
+        "source_def": "spoil",
+        "kurdish_word": [
+            "sheprêwشپڕێو"
+        ],
+        "kurdish_def": [
+            "disorderly"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "disorderly"
+        ]
+    },
+    {
+        "source_word": "mesh-",
+        "source_lang": "Urartian",
+        "source_def": "distribute, share",
+        "kurdish_word": [
+            "wesh-[an]",
+            "وەشان"
+        ],
+        "kurdish_def": [
+            "distribute,",
+            "share"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "teribi",
+        "source_lang": "Urartian",
+        "source_def": "monument",
+        "kurdish_word": [
+            "tirb",
+            "ترب"
+        ],
+        "kurdish_def": [
+            "monument,",
+            "grave)",
+            "(not",
+            "be",
+            "confused",
+            "with",
+            "Arabic",
+            "'turbat':",
+            "soil"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "monument, grave",
+            "not be confused with Arabic 'turbat': soil"
+        ]
+    },
+    {
+        "source_word": "fur-i",
+        "source_lang": "Hurrian",
+        "source_def": "viw",
+        "kurdish_word": [
+            "wuria",
+            "وریا"
+        ],
+        "kurdish_def": [
+            "viewer,",
+            "careful),",
+            "awur",
+            "ئاووڕ",
+            "(sight),",
+            "(even",
+            "the",
+            "Kurdish",
+            "verb",
+            "''ruwan''-[in]",
+            "(view)",
+            "is",
+            "likely",
+            "connected",
+            "to",
+            "the",
+            "Urartian",
+            "''wur'',",
+            "rarther",
+            "than",
+            "being",
+            "a",
+            "metathesis",
+            "for",
+            "Iranic",
+            "''negar''"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "viewer, careful",
+            "sight",
+            "view"
+        ]
+    },
+    {
+        "source_word": "wur-i",
+        "source_lang": "Urartian",
+        "source_def": "view",
+        "kurdish_word": [
+            "wuria",
+            "وریا"
+        ],
+        "kurdish_def": [
+            "viewer,",
+            "careful),",
+            "awur",
+            "ئاووڕ",
+            "(sight),",
+            "(even",
+            "the",
+            "Kurdish",
+            "verb",
+            "''ruwan''-[in]",
+            "(view)",
+            "is",
+            "likely",
+            "connected",
+            "to",
+            "the",
+            "Urartian",
+            "''wur'',",
+            "rarther",
+            "than",
+            "being",
+            "a",
+            "metathesis",
+            "for",
+            "Iranic",
+            "''negar''"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "viewer, careful",
+            "sight"
+        ]
+    },
+    {
+        "source_word": "halv-",
+        "source_lang": "Hurrian",
+        "source_def": "enclose",
+        "kurdish_word": [
+            "hal-",
+            "هاڵ"
+        ],
+        "kurdish_def": [
+            "enclose"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "kul-me",
+        "source_lang": "Urartian",
+        "source_def": "wealth, prosperity",
+        "kurdish_word": [
+            "kel-k",
+            "کەڵک"
+        ],
+        "kurdish_def": [
+            "profitable,",
+            "usefulness"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "profitable, usefulness"
+        ]
+    },
+    {
+        "source_word": "pâl",
+        "source_lang": "Hurrian",
+        "source_def": "false",
+        "kurdish_word": [
+            "fêl",
+            "فێڵ"
+        ],
+        "kurdish_def": [
+            "fraud"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "fraud"
+        ]
+    },
+    {
+        "source_word": "tapsh-",
+        "source_lang": "Hurrian",
+        "source_def": "destroy",
+        "kurdish_word": [
+            "tawjm",
+            "تەوژم"
+        ],
+        "kurdish_def": [
+            "pressure),",
+            "tapi",
+            "(destroy"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "pressure"
+        ]
+    },
+    {
+        "source_word": "apxe",
+        "source_lang": "Hurrian",
+        "source_def": "louse",
+        "kurdish_word": [
+            "aspe",
+            "ئەسپێ"
+        ],
+        "kurdish_def": [
+            "louse"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "kapp-",
+        "source_lang": "Hurrian",
+        "source_def": "fill",
+        "kurdish_word": [
+            "kipp",
+            "کپ"
+        ],
+        "kurdish_def": [
+            "filled"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "filled"
+        ]
+    },
+    {
+        "source_word": "azhoge",
+        "source_lang": "Hurrian",
+        "source_def": "meal",
+        "kurdish_word": [
+            "azhge/zig"
+        ],
+        "kurdish_def": [
+            "stomach"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "stomach"
+        ]
+    },
+    {
+        "source_word": "kul-",
+        "source_lang": "Hurrian",
+        "source_def": "to speak",
+        "kurdish_word": [
+            "qul-",
+            "قوول"
+        ],
+        "kurdish_def": [
+            "to",
+            "speak",
+            "aloud"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "to speak aloud"
+        ]
+    },
+    {
+        "source_word": "timeri",
+        "source_lang": "Hurrian",
+        "source_def": "black",
+        "kurdish_word": [
+            "tem",
+            "تەم"
+        ],
+        "kurdish_def": [
+            "darkness"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "darkness"
+        ]
+    },
+    {
+        "source_word": "tara-gie",
+        "source_lang": "Urartian",
+        "source_def": "powerful, strong",
+        "kurdish_word": [
+            "daraqat",
+            "دەرەقەت"
+        ],
+        "kurdish_def": [
+            "to",
+            "be",
+            "powerful,",
+            "to",
+            "be",
+            "strong"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "to be powerful, to be strong"
+        ]
+    },
+    {
+        "source_word": "tam-hu",
+        "source_lang": "Urartian",
+        "source_def": "eliminate separate",
+        "kurdish_word": [
+            "toq-[andin]&lt;tawq"
+        ],
+        "kurdish_def": [
+            "terrorize,",
+            "frighten"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "terrorize, frighten"
+        ]
+    },
+    {
+        "source_word": "shi-u",
+        "source_lang": "Urartian",
+        "source_def": "carry away",
+        "kurdish_word": [
+            "shi-[andin]"
+        ],
+        "kurdish_def": [
+            "send"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "send"
+        ]
+    },
+    {
+        "source_word": "anda-ni",
+        "source_lang": "Urartian",
+        "source_def": "right",
+        "kurdish_word": [
+            "and",
+            "ئاند"
+        ],
+        "kurdish_def": [
+            "right"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "irb-u",
+        "source_lang": "Urartian",
+        "source_def": "take away grab",
+        "kurdish_word": [
+            "rev-[andin]/rif-[andin]"
+        ],
+        "kurdish_def": [
+            "take",
+            "away,",
+            "grab)",
+            "(but",
+            "cf.",
+            "also",
+            "Iranian",
+            "'robudan',",
+            "take",
+            "away,",
+            "grab"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "take away, grab",
+            "but cf. also Iranian 'robudan', take away, grab"
+        ]
+    },
+    {
+        "source_word": "pit-",
+        "source_lang": "Urartian",
+        "source_def": "beat apart, destroy",
+        "kurdish_word": [
+            "pis-/pichr-"
+        ],
+        "kurdish_def": [
+            "beat",
+            "apart,",
+            "destroy"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "tishni",
+        "source_lang": "Urartian",
+        "source_def": "heart",
+        "kurdish_word": [
+            "dine",
+            "دنە"
+        ],
+        "kurdish_def": [
+            "encourage)",
+            "(cf.",
+            "t",
+            "&gt;",
+            "d",
+            "&amp;",
+            "sh",
+            "&gt;",
+            "nil"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "encourage",
+            "cf. t &gt; d &amp; sh &gt; nil"
+        ]
+    },
+    {
+        "source_word": "ti-ni",
+        "source_lang": "Urartian",
+        "source_def": "name",
+        "kurdish_word": [
+            "deng",
+            "دەنگ"
+        ],
+        "kurdish_def": [
+            "voice"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "voice"
+        ]
+    },
+    {
+        "source_word": "bauše",
+        "source_lang": "Urartian",
+        "source_def": "word",
+        "kurdish_word": [
+            "wuše",
+            "وشە"
+        ],
+        "kurdish_def": [
+            "word"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "durba",
+        "source_lang": "Urartian",
+        "source_def": "revolt, rebel",
+        "kurdish_word": [
+            "tola"
+        ],
+        "kurdish_def": [
+            "revenge"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "revenge"
+        ]
+    },
+    {
+        "source_word": "hut-ia",
+        "source_lang": "Urartian",
+        "source_def": "to ask",
+        "kurdish_word": [
+            "qut-abî"
+        ],
+        "kurdish_def": [
+            "student"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "student"
+        ]
+    },
+    {
+        "source_word": "fir",
+        "source_lang": "Hurrian",
+        "source_def": "remove, untie",
+        "kurdish_word": [
+            "fir,",
+            "firê"
+        ],
+        "kurdish_def": [
+            "throw"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "throw"
+        ]
+    },
+    {
+        "source_word": "halme",
+        "source_lang": "Hurrian",
+        "source_def": "singing",
+        "kurdish_word": [
+            "hore",
+            "هۆرە"
+        ],
+        "kurdish_def": [
+            "singing"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "havur",
+        "source_lang": "Hurrian",
+        "source_def": "heaven",
+        "kurdish_word": [
+            "hawr"
+        ],
+        "kurdish_def": [
+            "cloud),",
+            "(note",
+            "also",
+            "Indo-Iranic",
+            "abra"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "cloud",
+            "note also Indo-Iranic abra"
+        ]
+    },
+    {
+        "source_word": "agu",
+        "source_lang": "Urartian",
+        "source_def": "lead away) (of IE origin?",
+        "kurdish_word": [
+            "ajo-[tin]",
+            "ئاژۆتن"
+        ],
+        "kurdish_def": [
+            "lead",
+            "away,",
+            "drive"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "lead away",
+            "of IE origin?",
+            "lead away, drive"
+        ]
+    },
+    {
+        "source_word": "asti",
+        "source_lang": "Hurrian",
+        "source_def": "woman",
+        "kurdish_word": [
+            "astê"
+        ],
+        "kurdish_def": [
+            "name",
+            "of",
+            "a",
+            "beloved",
+            "woman",
+            "in",
+            "Kurdish",
+            "folklore"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "name of a beloved woman in Kurdish folklore"
+        ]
+    },
+    {
+        "source_word": "tav/",
+        "source_lang": "Hurrian",
+        "source_def": "-b) (to cast metal",
+        "kurdish_word": [
+            "taw"
+        ],
+        "kurdish_def": [
+            "thaw,",
+            "melt"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "-b",
+            "to cast metal",
+            "thaw, melt"
+        ]
+    },
+    {
+        "source_word": "ai",
+        "source_lang": "Hurrian",
+        "source_def": "if",
+        "kurdish_word": [
+            "ai"
+        ],
+        "kurdish_def": [
+            "if"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "alilan",
+        "source_lang": "Hurrian",
+        "source_def": "lament",
+        "kurdish_word": [
+            "lalan"
+        ],
+        "kurdish_def": [
+            "lament"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "çabalgi",
+        "source_lang": "Hurrian",
+        "source_def": "fault",
+        "kurdish_word": [
+            "çapal",
+            "چەپەڵ"
+        ],
+        "kurdish_def": [
+            "dirty"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "dirty"
+        ]
+    },
+    {
+        "source_word": "xiyari",
+        "source_lang": "Hurrian",
+        "source_def": "all",
+        "kurdish_word": [
+            "xir"
+        ],
+        "kurdish_def": [
+            "all"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "çere",
+        "source_lang": "Hurrian",
+        "source_def": "donkey",
+        "kurdish_word": [
+            "ker"
+        ],
+        "kurdish_def": [
+            "donkey"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "çik-",
+        "source_lang": "Hurrian",
+        "source_def": "break",
+        "kurdish_word": [
+            "shik-"
+        ],
+        "kurdish_def": [
+            "break"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "xîri",
+        "source_lang": "Hurrian",
+        "source_def": "hour, time, moment",
+        "kurdish_word": [
+            "xêra",
+            "خێرا"
+        ],
+        "kurdish_def": [
+            "soon,",
+            "hurry"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "soon, hurry"
+        ]
+    },
+    {
+        "source_word": "xizli",
+        "source_lang": "Hurrian",
+        "source_def": "coiled",
+        "kurdish_word": [
+            "cexiz",
+            "جەخز"
+        ],
+        "kurdish_def": [
+            "coiled"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "xub-",
+        "source_lang": "Hurrian",
+        "source_def": "to break, to destroy",
+        "kurdish_word": [
+            "qup-"
+        ],
+        "kurdish_def": [
+            "to",
+            "break,",
+            "to",
+            "destroy"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "istani",
+        "source_lang": "Hurrian",
+        "source_def": "between, among",
+        "kurdish_word": [
+            "astang",
+            "ئاستەنگ"
+        ],
+        "kurdish_def": [
+            "obstacle"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "obstacle"
+        ]
+    },
+    {
+        "source_word": "izikun-",
+        "source_lang": "Hurrian",
+        "source_def": "to wail",
+        "kurdish_word": [
+            "zikan-"
+        ],
+        "kurdish_def": [
+            "to",
+            "wail"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "kakari",
+        "source_lang": "Hurrian",
+        "source_def": "sort of ritual bread",
+        "kurdish_word": [
+            "kullêre,",
+            "kellane"
+        ],
+        "kurdish_def": [
+            "sort",
+            "of",
+            "ritual",
+            "bread"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "magunni",
+        "source_lang": "Hurrian",
+        "source_def": "desire",
+        "kurdish_word": [
+            "magirani"
+        ],
+        "kurdish_def": [
+            "desire"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "shakari or sagari",
+        "source_lang": "&#8204;Hurrian",
+        "source_def": "sprout, bud",
+        "kurdish_word": [
+            "chakara",
+            "چەکەرە"
+        ],
+        "kurdish_def": [
+            "sprout,",
+            "bud"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "arushal",
+        "source_lang": "Hurrian",
+        "source_def": "hurry",
+        "kurdish_word": [
+            "halasha",
+            "هەڵەشە"
+        ],
+        "kurdish_def": [
+            "stressful"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "stressful"
+        ]
+    },
+    {
+        "source_word": "heni",
+        "source_lang": "Hurrian",
+        "source_def": "now",
+        "kurdish_word": [
+            "henu-ke,",
+            "niha,",
+            "neha"
+        ],
+        "kurdish_def": [
+            "now"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "parili",
+        "source_lang": "Hurrian",
+        "source_def": "crime",
+        "kurdish_word": [
+            "palamar",
+            "پەلامار"
+        ],
+        "kurdish_def": [
+            "attack"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "attack"
+        ]
+    },
+    {
+        "source_word": "adi",
+        "source_lang": "Hurrian",
+        "source_def": "thus",
+        "kurdish_word": [
+            "dai"
+        ],
+        "kurdish_def": [
+            "thus"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "ak-i/u",
+        "source_lang": "Hurrian",
+        "source_def": "other",
+        "kurdish_word": [
+            "-ka"
+        ],
+        "kurdish_def": [
+            "other"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "we",
+        "source_lang": "Hurrian",
+        "source_def": "thou",
+        "kurdish_word": [
+            "ê-we"
+        ],
+        "kurdish_def": [
+            "you"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "you"
+        ]
+    },
+    {
+        "source_word": "buru",
+        "source_lang": "Hurrian",
+        "source_def": "strong",
+        "kurdish_word": [
+            "wure",
+            "ورە"
+        ],
+        "kurdish_def": [
+            "strength"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "strength"
+        ]
+    },
+    {
+        "source_word": "zurgi",
+        "source_lang": "Hurrian",
+        "source_def": "blood",
+        "kurdish_word": [
+            "zûx"
+        ],
+        "kurdish_def": [
+            "blood),",
+            "(compare,",
+            "xwênaw=zûxaw"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "compare, xwênaw=zûxaw"
+        ]
+    },
+    {
+        "source_word": "xahli",
+        "source_lang": "Hurrian",
+        "source_def": "cheek",
+        "kurdish_word": [
+            "kulm"
+        ],
+        "kurdish_def": [
+            "cheek"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "halwu",
+        "source_lang": "Hurrian",
+        "source_def": "fence made with stones",
+        "kurdish_word": [
+            "hêl",
+            "هێڵ"
+        ],
+        "kurdish_def": [
+            "fence"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "fence"
+        ]
+    },
+    {
+        "source_word": "hendz",
+        "source_lang": "Hurrian",
+        "source_def": "constrain",
+        "kurdish_word": [
+            "hêndj"
+        ],
+        "kurdish_def": [
+            "constrain"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "xerari",
+        "source_lang": "Hurrian",
+        "source_def": "sinew",
+        "kurdish_word": [
+            "kiroje"
+        ],
+        "kurdish_def": [
+            "sinew"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "xeshmi",
+        "source_lang": "Hurrian",
+        "source_def": "bright",
+        "kurdish_word": [
+            "gesh"
+        ],
+        "kurdish_def": [
+            "bright"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "nali",
+        "source_lang": "Hurrian",
+        "source_def": "deer",
+        "kurdish_word": [
+            "nêrî"
+        ],
+        "kurdish_def": [
+            "male",
+            "adult",
+            "goat"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "male adult goat"
+        ]
+    },
+    {
+        "source_word": "nawn-",
+        "source_lang": "Hurrian",
+        "source_def": "pasture",
+        "kurdish_word": [
+            "naw-"
+        ],
+        "kurdish_def": [
+            "pasture"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "ul-",
+        "source_lang": "Hurrian",
+        "source_def": "to, eat, to devour",
+        "kurdish_word": [
+            "lawar"
+        ],
+        "kurdish_def": [
+            "la-war-)",
+            "(to",
+            "devour"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "la-war-",
+            "to devour"
+        ]
+    },
+    {
+        "source_word": "ubi",
+        "source_lang": "Hurrian",
+        "source_def": "stupid, insane",
+        "kurdish_word": [
+            "hapa"
+        ],
+        "kurdish_def": [
+            "stupid,",
+            "insane"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "ashxu",
+        "source_lang": "Hurrian",
+        "source_def": "high",
+        "kurdish_word": [
+            "shax"
+        ],
+        "kurdish_def": [
+            "mountain),",
+            "also",
+            "'asê'",
+            "means:",
+            "uppward,",
+            "high."
+        ],
+        "sound_changes": [],
+        "notes": [
+            "mountain"
+        ]
+    },
+    {
+        "source_word": "kaziari",
+        "source_lang": "Hurrian",
+        "source_def": "high mountains of the Mesopotamian valley",
+        "kurdish_word": [
+            "kazh"
+        ],
+        "kurdish_def": [
+            "high",
+            "mountain"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "high mountain"
+        ]
+    },
+    {
+        "source_word": "kewiranna",
+        "source_lang": "Hurrian",
+        "source_def": "the senate, the old men",
+        "kurdish_word": [
+            "gewran"
+        ],
+        "kurdish_def": [
+            "the",
+            "big",
+            "ones,",
+            "the",
+            "adult",
+            "ones"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "the big ones, the adult ones"
+        ]
+    },
+    {
+        "source_word": "kuzh-",
+        "source_lang": "Hurrian",
+        "source_def": "to keep, to retain",
+        "kurdish_word": [
+            "kush-"
+        ],
+        "kurdish_def": [
+            "to",
+            "hold",
+            "in",
+            "hands,",
+            "to",
+            "press",
+            "in",
+            "hands),",
+            "alt:",
+            "Kurdish",
+            "qoz-",
+            "(to",
+            "catch"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "to hold in hands, to press in hands",
+            "to catch"
+        ]
+    },
+    {
+        "source_word": "nekri",
+        "source_lang": "Hurrian",
+        "source_def": "&lt;nek, negh) (lock",
+        "kurdish_word": [
+            "neq",
+            "نقاندن"
+        ],
+        "kurdish_def": [
+            "niq/nûq)-",
+            "(to",
+            "close"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "&lt;nek, negh",
+            "lock",
+            "niq/nûq",
+            "to close"
+        ]
+    },
+    {
+        "source_word": "shalhi",
+        "source_lang": "Hurrian",
+        "source_def": "to listen",
+        "kurdish_word": [
+            "shil"
+        ],
+        "kurdish_def": [
+            "listen"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "listen"
+        ]
+    },
+    {
+        "source_word": "siba",
+        "source_lang": "Hurrian",
+        "source_def": "dry",
+        "kurdish_word": [
+            "zuwa",
+            "زوا"
+        ],
+        "kurdish_def": [
+            "dry"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "dibi",
+        "source_lang": "Urartian",
+        "source_def": "building, room",
+        "kurdish_word": [
+            "diw",
+            "دیو"
+        ],
+        "kurdish_def": [
+            "room"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "room"
+        ]
+    },
+    {
+        "source_word": "shu",
+        "source_lang": "Hurrian",
+        "source_def": "day",
+        "kurdish_word": [
+            "shawa-ki"
+        ],
+        "kurdish_def": [
+            "morning,",
+            "day"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "morning, day"
+        ]
+    },
+    {
+        "source_word": "shirat",
+        "source_lang": "Hurrian",
+        "source_def": "narrate",
+        "kurdish_word": [
+            "shirove"
+        ],
+        "kurdish_def": [
+            "narrate"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "tishan",
+        "source_lang": "Hurrian",
+        "source_def": "very much",
+        "kurdish_word": [
+            "tizha",
+            "تژە"
+        ],
+        "kurdish_def": [
+            "full"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "full"
+        ]
+    },
+    {
+        "source_word": "sutug",
+        "source_lang": "Urartian",
+        "source_def": "tear away, unjoin",
+        "kurdish_word": [
+            "shetek"
+        ],
+        "kurdish_def": [
+            "knot"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "knot"
+        ]
+    },
+    {
+        "source_word": "baz",
+        "source_lang": "Hurrian",
+        "source_def": "enter",
+        "kurdish_word": [
+            "baz"
+        ],
+        "kurdish_def": [
+            "pass",
+            "by"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "pass by"
+        ]
+    },
+    {
+        "source_word": "xeban-:",
+        "source_lang": "Hurrian",
+        "source_def": "to set moving",
+        "kurdish_word": [
+            "xebi-",
+            "خەبتین"
+        ],
+        "kurdish_def": [
+            "to",
+            "be",
+            "active"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "to be active"
+        ]
+    },
+    {
+        "source_word": "hamadz-:",
+        "source_lang": "Hurrian",
+        "source_def": "to oppress",
+        "kurdish_word": [
+            "chaws-"
+        ],
+        "kurdish_def": [
+            "to",
+            "oppress"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "haz-",
+        "source_lang": "Hurrian",
+        "source_def": "to hear",
+        "kurdish_word": [
+            "bihiz-:"
+        ],
+        "kurdish_def": [
+            "to",
+            "hear"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "xaz",
+        "source_lang": "Hurrian",
+        "source_def": "to oil",
+        "kurdish_word": [
+            "xiz"
+        ],
+        "kurdish_def": [
+            "oily,",
+            "slippery"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "oily, slippery"
+        ]
+    },
+    {
+        "source_word": "pas-",
+        "source_lang": "Hurrian",
+        "source_def": "to send somebody",
+        "kurdish_word": [
+            "pas-"
+        ],
+        "kurdish_def": [
+            "to",
+            "send,",
+            "as",
+            "in",
+            "'hal",
+            "pasardin':",
+            "'to",
+            "send",
+            "into",
+            "exile'"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "to send, as in 'hal pasardin': 'to send into exile'"
+        ]
+    },
+    {
+        "source_word": "shagari",
+        "source_lang": "&#8204;Hurrian",
+        "source_def": "ram",
+        "kurdish_word": [
+            "shak"
+        ],
+        "kurdish_def": [
+            "young",
+            "sheep"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "young sheep"
+        ]
+    },
+    {
+        "source_word": "pal",
+        "source_lang": "Hurrian",
+        "source_def": "know, understand",
+        "kurdish_word": [
+            "fêr"
+        ],
+        "kurdish_def": [
+            "learn"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "learn"
+        ]
+    },
+    {
+        "source_word": "-kai",
+        "source_lang": "Urartian",
+        "source_def": "position, in place",
+        "kurdish_word": [
+            "-ka"
+        ],
+        "kurdish_def": [
+            "location",
+            "suffix"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "location suffix"
+        ]
+    },
+    {
+        "source_word": "muš-",
+        "source_lang": "Urartian",
+        "source_def": "true, fair",
+        "kurdish_word": [
+            "mušur",
+            "موشوور"
+        ],
+        "kurdish_def": [
+            "fairness"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "fairness"
+        ]
+    },
+    {
+        "source_word": "abi",
+        "source_lang": "Hurrian",
+        "source_def": "in front of",
+        "kurdish_word": [
+            "ba"
+        ],
+        "kurdish_def": [
+            "in",
+            "front",
+            "of,",
+            "near"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "in front of, near"
+        ]
+    },
+    {
+        "source_word": "shimi",
+        "source_lang": "Hurrian",
+        "source_def": "sun",
+        "kurdish_word": [
+            "shem"
+        ],
+        "kurdish_def": [
+            "sun)",
+            "(focilized",
+            "in",
+            "shemshemekwere,",
+            "''blind",
+            "for",
+            "the",
+            "sun'':",
+            "''bat''."
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "derzu/derju",
+        "source_lang": "Urartian",
+        "source_def": "order, arrangement",
+        "kurdish_word": [
+            "darêj-"
+        ],
+        "kurdish_def": [
+            "order,",
+            "arrangement"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "tep-",
+        "source_lang": "Urartian",
+        "source_def": "throw down",
+        "kurdish_word": [
+            "tep-"
+        ],
+        "kurdish_def": [
+            "throw",
+            "down"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "atqan:",
+        "source_lang": "Urartian",
+        "source_def": "to consecrate",
+        "kurdish_word": [
+            "tarxân"
+        ],
+        "kurdish_def": [
+            "to",
+            "consecrate"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "shuki",
+        "source_lang": "Urartian",
+        "source_def": "as",
+        "kurdish_word": [
+            "waki",
+            "&lt;",
+            "hoki&lt;shuki",
+            "وەکی"
+        ],
+        "kurdish_def": [
+            "as"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "hur",
+        "source_lang": "Hurrian",
+        "source_def": "drink",
+        "kurdish_word": [
+            "qurishke",
+            "قوریشکە"
+        ],
+        "kurdish_def": [
+            "cup"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "cup"
+        ]
+    },
+    {
+        "source_word": "xurishe",
+        "source_lang": "Urartian",
+        "source_def": "irrigator",
+        "kurdish_word": [
+            "qurishke",
+            "قوریشکە"
+        ],
+        "kurdish_def": [
+            "cup"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "cup"
+        ]
+    },
+    {
+        "source_word": "ulx",
+        "source_lang": "Urartian",
+        "source_def": "flow out",
+        "kurdish_word": [
+            "bilqبڵق"
+        ],
+        "kurdish_def": [
+            "b&lt;w,",
+            "bubble"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "b&lt;w, bubble"
+        ]
+    },
+    {
+        "source_word": "alga-ni",
+        "source_lang": "Urartian",
+        "source_def": "mountain",
+        "kurdish_word": [
+            "Lêj",
+            "لێژ"
+        ],
+        "kurdish_def": [
+            "abrupt,",
+            "steep"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "abrupt, steep"
+        ]
+    },
+    {
+        "source_word": "auiei",
+        "source_lang": "Urartian",
+        "source_def": "somewher",
+        "kurdish_word": [
+            "awê",
+            "ئەوێ"
+        ],
+        "kurdish_def": [
+            "there"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "there"
+        ]
+    },
+    {
+        "source_word": "puluse",
+        "source_lang": "Urartian",
+        "source_def": "inscription, stele",
+        "kurdish_word": [
+            "psule"
+        ],
+        "kurdish_def": [
+            "voucher,",
+            "receipt"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "voucher, receipt"
+        ]
+    },
+    {
+        "source_word": "niribe",
+        "source_lang": "Urartian",
+        "source_def": "herd",
+        "kurdish_word": [
+            "ran"
+        ],
+        "kurdish_def": [
+            "herd"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "iese/ieshe?",
+        "source_lang": "Urartian",
+        "source_def": "I, pronoun",
+        "kurdish_word": [
+            "ez",
+            "ئەز"
+        ],
+        "kurdish_def": [
+            "I,",
+            "resembles",
+            "also",
+            "the",
+            "old",
+            "Iranian",
+            "'azm',",
+            "but",
+            "which",
+            "one",
+            "is",
+            "'az'",
+            "actually",
+            "derives",
+            "of?",
+            "Armenians",
+            "claim",
+            "Armenian",
+            "'yes'",
+            "(I)",
+            "is",
+            "derived",
+            "of",
+            "Ur.",
+            "'iese"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "I"
+        ]
+    },
+    {
+        "source_word": "armuzi",
+        "source_lang": "Urartian",
+        "source_def": "family, clan, generation",
+        "kurdish_word": [
+            "hoz",
+            "هۆز"
+        ],
+        "kurdish_def": [
+            "clan)",
+            "+",
+            "rama",
+            "(seed,",
+            "from",
+            "to-rama"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "clan",
+            "seed, from to-rama"
+        ]
+    },
+    {
+        "source_word": "hemz",
+        "source_lang": "Hurrian",
+        "source_def": "surround",
+        "kurdish_word": [
+            "amêz,",
+            "hembêz",
+            "ئامیز"
+        ],
+        "kurdish_def": [
+            "hug"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "hug"
+        ]
+    },
+    {
+        "source_word": "zani",
+        "source_lang": "Urartian",
+        "source_def": "cry out",
+        "kurdish_word": [
+            "zhan,",
+            "jan,",
+            "ژان"
+        ],
+        "kurdish_def": [
+            "agony"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "agony"
+        ]
+    },
+    {
+        "source_word": "karshi",
+        "source_lang": "Hurrian",
+        "source_def": "lips",
+        "kurdish_word": [
+            "kalpa",
+            "کەڵپە"
+        ],
+        "kurdish_def": [
+            "animal",
+            "lips"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "animal lips"
+        ]
+    },
+    {
+        "source_word": "wirwir",
+        "source_lang": "Hurrian",
+        "source_def": "loosen",
+        "kurdish_word": [
+            "wilwil",
+            "ولوڵ"
+        ],
+        "kurdish_def": [
+            "loosen"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "ash",
+        "source_lang": "Kassite",
+        "source_def": "earth, soil",
+        "kurdish_word": [
+            "ax",
+            "ئاخ"
+        ],
+        "kurdish_def": [
+            "earth,",
+            "soil"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "esh",
+        "source_lang": "Hurrian",
+        "source_def": "earth, soil",
+        "kurdish_word": [
+            "ax",
+            "ئاخ"
+        ],
+        "kurdish_def": [
+            "earth,",
+            "soil"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "qarmexî",
+        "source_lang": "Urartian",
+        "source_def": "gift, present, sacrifice, celebration",
+        "kurdish_word": [
+            "qelin",
+            "قەلین"
+        ],
+        "kurdish_def": [
+            "gift,",
+            "dowry"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "gift, dowry"
+        ]
+    },
+    {
+        "source_word": "-atuhi",
+        "source_lang": "Urartian",
+        "source_def": "-ness",
+        "kurdish_word": [
+            "-ati"
+        ],
+        "kurdish_def": [
+            "-ness"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "aman-",
+        "source_lang": "Urartian",
+        "source_def": "vessel, pot",
+        "kurdish_word": [
+            "aman-",
+            "ئامان"
+        ],
+        "kurdish_def": [
+            "vessel,",
+            "pot"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "Teshup",
+        "source_lang": "Hurrian",
+        "source_def": "God of lightning and storm",
+        "kurdish_word": [
+            "Tishk",
+            "تیشک"
+        ],
+        "kurdish_def": [
+            "light,",
+            "radiance"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "light, radiance"
+        ]
+    },
+    {
+        "source_word": "Tesheba",
+        "source_lang": "Urartian",
+        "source_def": "",
+        "kurdish_word": [
+            "Tishk",
+            "تیشک"
+        ],
+        "kurdish_def": [
+            "light,",
+            "radiance"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "light, radiance"
+        ]
+    },
+    {
+        "source_word": "Tishpak",
+        "source_lang": "Kassite",
+        "source_def": "",
+        "kurdish_word": [
+            "Tishk",
+            "تیشک"
+        ],
+        "kurdish_def": [
+            "light,",
+            "radiance"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "light, radiance"
+        ]
+    },
+    {
+        "source_word": "shu",
+        "source_lang": "Hurrian",
+        "source_def": "hand",
+        "kurdish_word": [
+            "shop"
+        ],
+        "kurdish_def": [
+            "hand",
+            "palm"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "hand palm"
+        ]
+    },
+    {
+        "source_word": "chilman-",
+        "source_lang": "Hurrian",
+        "source_def": "to break, vanish",
+        "kurdish_word": [
+            "chilmis-"
+        ],
+        "kurdish_def": [
+            "fade"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "fade"
+        ]
+    },
+    {
+        "source_word": "shur",
+        "source_lang": "Urartian",
+        "source_def": "wall around a castle, fence, borders of the kingdom",
+        "kurdish_word": [
+            "shure"
+        ],
+        "kurdish_def": [
+            "wall",
+            "around",
+            "a",
+            "castle,",
+            "fence"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "wall around a castle, fence"
+        ]
+    },
+    {
+        "source_word": "xalwu",
+        "source_lang": "Hurrian",
+        "source_def": "fence made with stones",
+        "kurdish_word": [
+            "xal",
+            "خەڵ"
+        ],
+        "kurdish_def": [
+            "fence",
+            "made",
+            "with",
+            "stones"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "ya/ye",
+        "source_lang": "Hurrian",
+        "source_def": "who, which, what",
+        "kurdish_word": [
+            "ya/ye"
+        ],
+        "kurdish_def": [
+            "who,",
+            "which,",
+            "what"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "tun-",
+        "source_lang": "Hurrian",
+        "source_def": "to win",
+        "kurdish_word": [
+            "tuna",
+            "توونا"
+        ],
+        "kurdish_def": [
+            "defeated,",
+            "destroyed"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "defeated, destroyed"
+        ]
+    },
+    {
+        "source_word": "taridi",
+        "source_lang": "Hurrian",
+        "source_def": "pot",
+        "kurdish_word": [
+            "tirar"
+        ],
+        "kurdish_def": [
+            "pot"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "kol",
+        "source_lang": "Hurrian",
+        "source_def": "let off",
+        "kurdish_word": [
+            "kol"
+        ],
+        "kurdish_def": [
+            "let",
+            "off)",
+            "(as",
+            "in",
+            "''le",
+            "kol",
+            "bunewe''"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "as in ''le kol bunewe''"
+        ]
+    },
+    {
+        "source_word": "shir",
+        "source_lang": "Hurrian",
+        "source_def": "to be suffiecent",
+        "kurdish_word": [
+            "têr"
+        ],
+        "kurdish_def": [
+            "to",
+            "be",
+            "suffiecent"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "ha",
+        "source_lang": "Hurrian",
+        "source_def": "take",
+        "kurdish_word": [
+            "ha"
+        ],
+        "kurdish_def": [
+            "take!"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "take!"
+        ]
+    },
+    {
+        "source_word": "tijari",
+        "source_lang": "Hurrian",
+        "source_def": "spindle",
+        "kurdish_word": [
+            "teshi"
+        ],
+        "kurdish_def": [
+            "spindle"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "ábri",
+        "source_lang": "Hurrian",
+        "source_def": "stock of wood-logs",
+        "kurdish_word": [
+            "awirdu"
+        ],
+        "kurdish_def": [
+            "stock",
+            "of",
+            "wood-logs),",
+            "awirig",
+            "(oven"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "oven"
+        ]
+    },
+    {
+        "source_word": "baq-",
+        "source_lang": "Hurrian",
+        "source_def": "destroy",
+        "kurdish_word": [
+            "baq-",
+            "بەقین"
+        ],
+        "kurdish_def": [
+            "explode"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "explode"
+        ]
+    },
+    {
+        "source_word": "bashi",
+        "source_lang": "Hurrian",
+        "source_def": "mouth",
+        "kurdish_word": [
+            "bêj"
+        ],
+        "kurdish_def": [
+            "to",
+            "say),",
+            "(common",
+            "a&gt;ê"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "to say",
+            "common a&gt;ê"
+        ]
+    },
+    {
+        "source_word": "pashixi",
+        "source_lang": "Hurrian",
+        "source_def": "message",
+        "kurdish_word": [
+            "pazhux"
+        ],
+        "kurdish_def": [
+            "answer"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "answer"
+        ]
+    },
+    {
+        "source_word": "tad-",
+        "source_lang": "Hurrian",
+        "source_def": "love",
+        "kurdish_word": [
+            "dalal"
+        ],
+        "kurdish_def": [
+            "beloved)",
+            "(common",
+            "d&gt;l"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "beloved",
+            "common d&gt;l"
+        ]
+    },
+    {
+        "source_word": "tagi",
+        "source_lang": "Hurrian",
+        "source_def": "beatiful",
+        "kurdish_word": [
+            "daq",
+            "دەق"
+        ],
+        "kurdish_def": [
+            "cheerful"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "cheerful"
+        ]
+    },
+    {
+        "source_word": "taugi",
+        "source_lang": "Urartian",
+        "source_def": "clean",
+        "kurdish_word": [
+            "daq",
+            "دەق"
+        ],
+        "kurdish_def": [
+            "cheerful"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "cheerful"
+        ]
+    },
+    {
+        "source_word": "hild-/held-",
+        "source_lang": "Hurrian",
+        "source_def": "high, raise, elevate",
+        "kurdish_word": [
+            "hild-/held-",
+            "هەڵدان/هڵدان"
+        ],
+        "kurdish_def": [
+            "rasie,",
+            "elevate"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "rasie, elevate"
+        ]
+    },
+    {
+        "source_word": "kabli",
+        "source_lang": "&#8204;Hurrian",
+        "source_def": "copper",
+        "kurdish_word": [
+            "paqir",
+            "پاقڕ"
+        ],
+        "kurdish_def": [
+            "copper"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "kukla",
+        "source_lang": "Kassite",
+        "source_def": "slave",
+        "kurdish_word": [
+            "kukla"
+        ],
+        "kurdish_def": [
+            "doll),",
+            "kukm",
+            "(homeless"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "doll",
+            "homeless"
+        ]
+    },
+    {
+        "source_word": "kumdi",
+        "source_lang": "Hurrian",
+        "source_def": "tower",
+        "kurdish_word": [
+            "kumadj",
+            "کۆماج"
+        ],
+        "kurdish_def": [
+            "column"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "column"
+        ]
+    },
+    {
+        "source_word": "kubakhi",
+        "source_lang": "Hurrian",
+        "source_def": "hood",
+        "kurdish_word": [
+            "kumik"
+        ],
+        "kurdish_def": [
+            "hood"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "korde",
+        "source_lang": "Urartian",
+        "source_def": "uncultivated, desolate",
+        "kurdish_word": [
+            "kode"
+        ],
+        "kurdish_def": [
+            "uncultivated,",
+            "desolate"
+        ],
+        "sound_changes": [],
+        "notes": []
+    },
+    {
+        "source_word": "kundzi",
+        "source_lang": "Hurrian",
+        "source_def": "to kneel",
+        "kurdish_word": [
+            "kudik"
+        ],
+        "kurdish_def": [
+            "knee"
+        ],
+        "sound_changes": [],
+        "notes": [
+            "knee"
+        ]
+    },
+    {
+        "source_word": "Xiríti",
+        "source_lang": "Hurrian",
+        "source_def": "trench",
+        "kurdish_word": [
+            "Xir"
+        ],
+        "kurdish_def": [
+            "trench"
+        ],
+        "sound_changes": [],
+        "notes": []
+    }
+]
